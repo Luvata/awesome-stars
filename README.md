@@ -401,6 +401,8 @@
 
 ## Python 
 
+- [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
+- [TurkuNLP/register-labeling](https://github.com/TurkuNLP/register-labeling) - 
 - [sberbank-ai/Real-ESRGAN](https://github.com/sberbank-ai/Real-ESRGAN) - PyTorch implementation of Real-ESRGAN model
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
@@ -786,6 +788,7 @@
 
 ## TypeScript 
 
+- [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
 - [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
