@@ -64,7 +64,7 @@
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
 - [maxoodf/tgnews](https://github.com/maxoodf/tgnews) - Telegram Data Clustering Contest (Bossy Gnu's submission )
-- [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source [MIRROR]
+- [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [gungui98/SynthText](https://github.com/gungui98/SynthText) - 
 - [DmitryUlyanov/Multicore-TSNE](https://github.com/DmitryUlyanov/Multicore-TSNE) - Parallel t-SNE implementation with Python and Torch wrappers.
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
@@ -116,6 +116,7 @@
 
 ## HTML 
 
+- [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [EyebrowHairs/garden](https://github.com/EyebrowHairs/garden) - A digital garden 🌱
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
