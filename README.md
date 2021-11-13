@@ -743,6 +743,7 @@
 
 ## Rust 
 
+- [oscar-corpus/ungoliant](https://github.com/oscar-corpus/ungoliant) - :spider: The pipeline for the OSCAR corpus
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
