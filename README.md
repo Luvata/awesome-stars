@@ -91,6 +91,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 
 ## Cython 
@@ -190,6 +191,7 @@
 
 ## Jupyter Notebook 
 
+- [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
 - [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers
