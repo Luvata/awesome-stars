@@ -257,7 +257,6 @@
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [Ulitochka/FOMA](https://github.com/Ulitochka/FOMA) - 
-- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [fehiepsi/rethinking-numpyro](https://github.com/fehiepsi/rethinking-numpyro) - Statistical Rethinking (2nd ed.) with NumPyro
 - [bangoc123/learn-machine-learning-in-two-months](https://github.com/bangoc123/learn-machine-learning-in-two-months) - Những kiến thức cần thiết để học tốt Machine Learning trong vòng 2 tháng. Essential Knowledge for learning Machine Learning in two months.
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
@@ -600,6 +599,7 @@
 - [src-d/wmd-relax](https://github.com/src-d/wmd-relax) - Calculates Word Mover's Distance Insanely Fast
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [rwightman/gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS
+- [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
 - [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
 - [qipeng/golden-retriever](https://github.com/qipeng/golden-retriever) - Authors' implementation of EMNLP-IJCNLP 2019 paper "Answering Complex Open-domain Questions Through Iterative Query Generation"
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
