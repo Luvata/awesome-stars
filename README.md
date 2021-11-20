@@ -770,7 +770,7 @@
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
