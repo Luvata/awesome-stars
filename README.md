@@ -84,7 +84,7 @@
 
 ## CSS 
 
-- [Xe/gruvbox-css](https://github.com/Xe/gruvbox-css) - My minimal Gruvbox CSS file I've been keeping multiple places
+- [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
 - [deepgenerativemodels/notes](https://github.com/deepgenerativemodels/notes) - Course notes
 - [alexandrevicenzi/Flex](https://github.com/alexandrevicenzi/Flex) - The minimalist Pelican theme.
 - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments
