@@ -246,6 +246,7 @@
 - [ctgk/PRML](https://github.com/ctgk/PRML) - PRML algorithms implemented in Python
 - [EmilienDupont/augmented-neural-odes](https://github.com/EmilienDupont/augmented-neural-odes) - Pytorch implementation of Augmented Neural ODEs :sunflower:
 - [huggingface/blog](https://github.com/huggingface/blog) - Public repo for HF blog posts
+- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [iechevarria/lego-face-VAE](https://github.com/iechevarria/lego-face-VAE) - Variational autoencoder for Lego minifig faces
 - [geoffbacon/cerberus](https://github.com/geoffbacon/cerberus) - Cerberus is an app that reduces the annotation burden of linguists
 - [tiepvupsu/ebookMLCB](https://github.com/tiepvupsu/ebookMLCB) - ebook Machine Learning cơ bản
@@ -759,7 +760,6 @@
 
 ## Scala 
 
-- [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [thucdx/news-trending](https://github.com/thucdx/news-trending) - Finding trends in news article with Spark (MLLIB, LDA), Spark-Solr, Solr
 - [ikhoon/functional-programming-jargon.scala](https://github.com/ikhoon/functional-programming-jargon.scala) - Scala code examples - Jargon from the functional programming world in simple terms!
 - [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
