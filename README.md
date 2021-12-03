@@ -697,7 +697,7 @@
 - [Luolc/AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
 - [huggingface/torchMoji](https://github.com/huggingface/torchMoji) - 😇A pyTorch implementation of the DeepMoji model: state-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) - YOLO for object detection tasks
 - [graykode/gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
