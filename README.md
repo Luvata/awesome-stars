@@ -28,6 +28,7 @@
   - [Matlab](#matlab)
   - [Nim](#nim)
   - [Objective-C](#objective-c)
+  - [OpenEdge ABL](#openedge-abl)
   - [Others](#others)
   - [Perl](#perl)
   - [Processing](#processing)
@@ -348,6 +349,10 @@
 ## Objective-C 
 
 - [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
+
+## OpenEdge ABL 
+
+- [futurulus/coop-nets](https://github.com/futurulus/coop-nets) - Scalable learning with pragmatics
 
 ## Others 
 
