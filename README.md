@@ -410,6 +410,7 @@
 
 ## Python 
 
+- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Deploy optimized transformer based models in production
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [TurkuNLP/register-labeling](https://github.com/TurkuNLP/register-labeling) - 
 - [sberbank-ai/Real-ESRGAN](https://github.com/sberbank-ai/Real-ESRGAN) - PyTorch implementation of Real-ESRGAN model
@@ -503,7 +504,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [kdexd/virtex](https://github.com/kdexd/virtex) - [CVPR 2021] VirTex: Learning Visual Representations from Textual Annotations
-- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features
+- [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, Ape-X DQN, DDPG, TD3, SAC)
 - [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [allenai/allennlp-models](https://github.com/allenai/allennlp-models) - Officially supported AllenNLP models
