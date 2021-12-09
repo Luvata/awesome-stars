@@ -337,6 +337,7 @@
 ## Markdown 
 
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
+- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## Matlab 
 
@@ -362,7 +363,6 @@
 - [algorithmsbooks/decisionmaking](https://github.com/algorithmsbooks/decisionmaking) - Preview of the textbook Algorithms for Decision Making
 - [chitralekha18/Dataset-for-pronunciation-evaluation-in-singing](https://github.com/chitralekha18/Dataset-for-pronunciation-evaluation-in-singing) - 
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
-- [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [rmcelreath/statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
 - [luspr/awesome-ml-courses](https://github.com/luspr/awesome-ml-courses) - Awesome free machine learning and AI courses with video lectures.
 - [sjhwang82/AdvancedML](https://github.com/sjhwang82/AdvancedML) - Reading list for the Advanced Machine Learning Course
