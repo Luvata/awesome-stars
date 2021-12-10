@@ -495,7 +495,7 @@
 - [kbumsik/VirtScreen](https://github.com/kbumsik/VirtScreen) - Make your iPad/tablet/computer into a secondary monitor on Linux.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [kotartemiy/newscatcher](https://github.com/kotartemiy/newscatcher) - Programmatically collect normalized news from (almost) any website.
-- [Toblerity/Shapely](https://github.com/Toblerity/Shapely) - Manipulation and analysis of geometric objects
+- [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [nguyenvulebinh/vietnamese-roberta](https://github.com/nguyenvulebinh/vietnamese-roberta) - A Robustly Optimized BERT Pretraining Approach for Vietnamese
 - [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
 - [urschrei/simplification](https://github.com/urschrei/simplification) - Very fast LineString simplification using RDP or Visvalingam-Whyatt and a Rust binary
