@@ -411,7 +411,7 @@
 ## Python 
 
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
-- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade inference server for Hugging Face transformer models 🚀
+- [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for Hugging Face transformer models 🚀
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [TurkuNLP/register-labeling](https://github.com/TurkuNLP/register-labeling) - 
 - [sberbank-ai/Real-ESRGAN](https://github.com/sberbank-ai/Real-ESRGAN) - PyTorch implementation of Real-ESRGAN model
@@ -530,7 +530,7 @@
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 - [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [SpaceNetChallenge/RoadDetector](https://github.com/SpaceNetChallenge/RoadDetector) - Winning Solutions from SpaceNet Road Detection and Routing Challenge
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Async Python 3.7+ web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
 - [minhnq97/speech_language_processing](https://github.com/minhnq97/speech_language_processing) - Implement algorithms and exercises from "Speech and Language Processing" by Daniel Jurafsky, James H. Martin
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [karpathy/covid-sanity](https://github.com/karpathy/covid-sanity) - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19
