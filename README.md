@@ -706,7 +706,7 @@
 - [huggingface/hmtl](https://github.com/huggingface/hmtl) - 🌊HMTL: Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP
 - [huggingface/torchMoji](https://github.com/huggingface/torchMoji) - 😇A pyTorch implementation of the DeepMoji model: state-of-the-art deep learning model for analyzing sentiment, emotion, sarcasm etc
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) - YOLO for object detection tasks
+- [nhthang9x/Yolo-v2-pytorch](https://github.com/nhthang9x/Yolo-v2-pytorch) - YOLO for object detection tasks
 - [graykode/gpt-2-Pytorch](https://github.com/graykode/gpt-2-Pytorch) - Simple Text-Generator with OpenAI gpt-2 Pytorch Implementation
 - [optuna/optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework
 - [HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial) - Minimal tutorial on packing and unpacking sequences in pytorch
