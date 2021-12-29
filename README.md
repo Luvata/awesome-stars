@@ -196,7 +196,7 @@
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
 - [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers
-- [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for "Distributed Deep Learning in Open Collaborations"
+- [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for "Distributed Deep Learning in Open Collaborations" (NeurIPS 2021)
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [bangoc123/sentiment-mlp-mixer](https://github.com/bangoc123/sentiment-mlp-mixer) - Thử nghiệm gần đây mô hình MLP-Mixer trên bài toán nhận diện cảm xúc (Sentiment sentiment analysis)
 - [szagoruyko/pytorchviz](https://github.com/szagoruyko/pytorchviz) - A small package to create visualizations of PyTorch execution graphs
