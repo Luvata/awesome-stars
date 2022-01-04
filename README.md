@@ -411,6 +411,8 @@
 
 ## Python 
 
+- [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
+- [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [nguyenvulebinh/spoken-norm](https://github.com/nguyenvulebinh/spoken-norm) - Transformation spoken text to written text
 - [tunib-ai/oslo](https://github.com/tunib-ai/oslo) - OSLO: Open Source framework for Large-scale transformer Optimization
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
