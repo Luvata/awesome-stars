@@ -374,7 +374,7 @@
 - [facebookmicrosites/Open-Mapping-At-Facebook](https://github.com/facebookmicrosites/Open-Mapping-At-Facebook) - Documentation for Open Mapping At Facebook
 - [paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [vahidk/EffectivePyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
-- [xellows1305/Document-Image-Dewarping](https://github.com/xellows1305/Document-Image-Dewarping) - Document Image Dewarping
+- [taeho-kil/Document-Image-Dewarping](https://github.com/taeho-kil/Document-Image-Dewarping) - Document Image Dewarping
 - [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings)
 - [WING-NUS/scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus) - Scientific Document Summarization Corpus and Annotations from the WING NUS group.
 - [dair-ai/nlp_highlights](https://github.com/dair-ai/nlp_highlights) - ✨ A report of the most important NLP highlights (A Yearly Report - 2018, 2019)
