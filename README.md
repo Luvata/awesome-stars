@@ -197,7 +197,6 @@
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
 - [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers
 - [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for "Distributed Deep Learning in Open Collaborations" (NeurIPS 2021)
-- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [bangoc123/sentiment-mlp-mixer](https://github.com/bangoc123/sentiment-mlp-mixer) - Thử nghiệm gần đây mô hình MLP-Mixer trên bài toán nhận diện cảm xúc (Sentiment sentiment analysis)
 - [szagoruyko/pytorchviz](https://github.com/szagoruyko/pytorchviz) - A small package to create visualizations of PyTorch execution graphs
 - [nttuan8/Pytorch_tutorial](https://github.com/nttuan8/Pytorch_tutorial) - 
@@ -411,6 +410,7 @@
 
 ## Python 
 
+- [srush/annotated-s4](https://github.com/srush/annotated-s4) - 
 - [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [nguyenvulebinh/spoken-norm](https://github.com/nguyenvulebinh/spoken-norm) - Transformation spoken text to written text
@@ -433,6 +433,7 @@
 - [fsoft-ailab/Poem-Generator](https://github.com/fsoft-ailab/Poem-Generator) - 
 - [nguyenvulebinh/extractive-qa-mrc](https://github.com/nguyenvulebinh/extractive-qa-mrc) - Machine Reading Comprehension special for the Vietnamese language
 - [AranKomat/Diff-DALLE](https://github.com/AranKomat/Diff-DALLE) - 
+- [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
 - [bangoc123/transformer](https://github.com/bangoc123/transformer) - Build English-Vietnamese machine translation with ProtonX Transformer. :D
 - [thucdx/TSleep](https://github.com/thucdx/TSleep) - Automated Sleep Stage Scoring using Deep Learing
@@ -635,7 +636,7 @@
 - [davidsandberg/facenet](https://github.com/davidsandberg/facenet) - Face recognition using Tensorflow
 - [devnag/pytorch-generative-adversarial-networks](https://github.com/devnag/pytorch-generative-adversarial-networks) - A very simple generative adversarial network (GAN) in PyTorch
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
-- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer models at scale
 - [facebookresearch/kill-the-bits](https://github.com/facebookresearch/kill-the-bits) - Code for: "And the bit goes down: Revisiting the quantization of neural networks"
 - [rosinality/vq-vae-2-pytorch](https://github.com/rosinality/vq-vae-2-pytorch) - Implementation of Generating Diverse High-Fidelity Images with VQ-VAE-2 in PyTorch
 - [IBM/pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq) - An open source framework for seq2seq models in PyTorch.
