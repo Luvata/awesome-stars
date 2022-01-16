@@ -411,7 +411,7 @@
 ## Python 
 
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
-- [srush/annotated-s4](https://github.com/srush/annotated-s4) - 
+- [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
 - [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [nguyenvulebinh/spoken-norm](https://github.com/nguyenvulebinh/spoken-norm) - Transformation spoken text to written text
