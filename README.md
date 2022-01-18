@@ -410,6 +410,7 @@
 
 ## Python 
 
+- [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
 - [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
