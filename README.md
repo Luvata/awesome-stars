@@ -411,7 +411,7 @@
 ## Python 
 
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - My self-hosting infrastructure, fully automated from empty disk to operating services
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
