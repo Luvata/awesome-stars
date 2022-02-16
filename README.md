@@ -335,6 +335,7 @@
 
 ## Markdown 
 
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
@@ -816,7 +817,6 @@
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
