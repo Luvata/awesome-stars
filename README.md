@@ -215,7 +215,7 @@
 - [graykode/ai-docstring](https://github.com/graykode/ai-docstring) - Visual Studio Code extension to quickly generate docstrings for python functions using AI(NLP) technology.
 - [ChakriCherukuri/mlviz](https://github.com/ChakriCherukuri/mlviz) - Visualizations of machine learning models and algorithms
 - [patrickvonplaten/notebooks](https://github.com/patrickvonplaten/notebooks) - Some notebooks for NLP
-- [pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [drfeinberg/PraatScripts](https://github.com/drfeinberg/PraatScripts) - These are praat scripts I use in my research, implemented in parselmouth for python for use in binder
 - [drfeinberg/Parselmouth-Guides](https://github.com/drfeinberg/Parselmouth-Guides) - These are Jupyter Notebooks to help guide people to learn how to use Praat-Parselmouth
 - [inessus/CMU_11785_Deep_Learning_Code](https://github.com/inessus/CMU_11785_Deep_Learning_Code) - 
