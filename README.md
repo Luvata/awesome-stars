@@ -433,7 +433,7 @@
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [DeNA/HandyRL](https://github.com/DeNA/HandyRL) - HandyRL is a handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments.
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - 
-- [vietai/SAT](https://github.com/vietai/SAT) - MTet: Multi-domain Translation for English and Vietnamese
+- [vietai/mTet](https://github.com/vietai/mTet) - MTet: Multi-domain Translation for English and Vietnamese
 - [fsoft-ailab/Poem-Generator](https://github.com/fsoft-ailab/Poem-Generator) - 
 - [nguyenvulebinh/extractive-qa-mrc](https://github.com/nguyenvulebinh/extractive-qa-mrc) - Machine Reading Comprehension special for the Vietnamese language
 - [AranKomat/Diff-DALLE](https://github.com/AranKomat/Diff-DALLE) - 
@@ -810,6 +810,7 @@
 
 ## TypeScript 
 
+- [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
 - [konodyuk/obsidian-text-expander](https://github.com/konodyuk/obsidian-text-expander) - Text Expander plugin for Obsidian
 - [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
