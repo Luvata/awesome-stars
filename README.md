@@ -558,7 +558,7 @@
 - [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [likesiwell/LGM-Net](https://github.com/likesiwell/LGM-Net) - Tensorflow code for ICML 2019 paper: LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks](https://github.com/weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks) - experiments on Paper &lt;Bag of Tricks for Image Classification with Convolutional Neural Networks&gt; and other useful tricks to improve CNN acc
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [deepmind/rlax](https://github.com/deepmind/rlax) - 
