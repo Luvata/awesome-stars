@@ -524,7 +524,7 @@
 - [VinAIResearch/BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets (EMNLP-2020)
 - [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta) - A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
 - [srush/parallax](https://github.com/srush/parallax) - 
-- [daiquocnguyen/Graph-Transformer](https://github.com/daiquocnguyen/Graph-Transformer) - Transformer for Graph Classification (Pytorch and Tensorflow)
+- [daiquocnguyen/Graph-Transformer](https://github.com/daiquocnguyen/Graph-Transformer) - Transformer for Graph Classification (TheWebConf WWW 2022) (Pytorch and Tensorflow)
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [paperswithcode/axcell](https://github.com/paperswithcode/axcell) - Tools for extracting tables and results from Machine Learning papers
