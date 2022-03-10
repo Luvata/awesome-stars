@@ -489,6 +489,7 @@
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [IlyaGusev/summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The goal of this dataset is to provide a challenging benchmark for question answering quality across a wide set of languages. Please refer to our paper for details, MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [adjidieng/ETM](https://github.com/adjidieng/ETM) - Topic Modeling in Embedding Spaces
@@ -524,7 +525,7 @@
 - [VinAIResearch/BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets (EMNLP-2020)
 - [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta) - A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
 - [srush/parallax](https://github.com/srush/parallax) - 
-- [daiquocnguyen/Graph-Transformer](https://github.com/daiquocnguyen/Graph-Transformer) - Transformer for Graph Classification (TheWebConf WWW 2022) (Pytorch and Tensorflow)
+- [daiquocnguyen/Graph-Transformer](https://github.com/daiquocnguyen/Graph-Transformer) - Universal Graph Transformer Self-Attention Networks (TheWebConf WWW 2022) (Pytorch and Tensorflow)
 - [aiXander/Realtime_PyAudio_FFT](https://github.com/aiXander/Realtime_PyAudio_FFT) - Realtime audio analysis in Python, using PyAudio and Numpy to extract and visualize FFT features from streaming audio.
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [paperswithcode/axcell](https://github.com/paperswithcode/axcell) - Tools for extracting tables and results from Machine Learning papers
@@ -820,7 +821,6 @@
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
