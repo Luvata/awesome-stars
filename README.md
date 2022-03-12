@@ -27,7 +27,6 @@
   - [Markdown](#markdown)
   - [Matlab](#matlab)
   - [Nim](#nim)
-  - [Objective-C](#objective-c)
   - [OpenEdge ABL](#openedge-abl)
   - [Others](#others)
   - [Perl](#perl)
@@ -326,6 +325,7 @@
 
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
+- [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
 ## Makefile 
@@ -345,10 +345,6 @@
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
-
-## Objective-C 
-
-- [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 
 ## OpenEdge ABL 
 
