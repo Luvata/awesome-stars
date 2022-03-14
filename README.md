@@ -414,7 +414,7 @@
 - [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [nguyenvulebinh/spoken-norm](https://github.com/nguyenvulebinh/spoken-norm) - Transformation spoken text to written text
-- [tunib-ai/oslo](https://github.com/tunib-ai/oslo) - OSLO: Open Source framework for Large-scale transformer Optimization
+- [tunib-ai/oslo](https://github.com/tunib-ai/oslo) - OSLO: Open Source framework for Large-scale model Optimization
 - [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
