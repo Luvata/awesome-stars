@@ -406,6 +406,7 @@
 
 ## Python 
 
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
@@ -806,6 +807,7 @@
 
 ## TypeScript 
 
+- [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
 - [konodyuk/obsidian-text-expander](https://github.com/konodyuk/obsidian-text-expander) - Text Expander plugin for Obsidian
 - [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
