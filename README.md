@@ -67,7 +67,6 @@
 - [libgeos/geos](https://github.com/libgeos/geos) - Geometry Engine, Open Source
 - [gungui98/SynthText](https://github.com/gungui98/SynthText) - 
 - [DmitryUlyanov/Multicore-TSNE](https://github.com/DmitryUlyanov/Multicore-TSNE) - Parallel t-SNE implementation with Python and Torch wrappers.
-- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [langmaninternet/VietnameseTextNormalizer](https://github.com/langmaninternet/VietnameseTextNormalizer) - Thư viện chuẩn hóa văn bản Tiếng Việt
 - [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [VKCOM/YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency
@@ -191,6 +190,7 @@
 
 ## Jupyter Notebook 
 
+- [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
@@ -406,6 +406,8 @@
 
 ## Python 
 
+- [Sense-GVT/DeCLIP](https://github.com/Sense-GVT/DeCLIP) - Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm
+- [tgisaturday/L-Verse](https://github.com/tgisaturday/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
@@ -561,6 +563,7 @@
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
 - [deepmind/rlax](https://github.com/deepmind/rlax) - 
 - [MC-BERT/MC-BERT](https://github.com/MC-BERT/MC-BERT) - 
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [facebookresearch/WSL-Images](https://github.com/facebookresearch/WSL-Images) - Weakly Supervised Learning On Images
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
