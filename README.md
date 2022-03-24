@@ -14,6 +14,7 @@
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
+  - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Java](#java)
@@ -114,10 +115,13 @@
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 
+## HCL 
+
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
+
 ## HTML 
 
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
-- [EyebrowHairs/garden](https://github.com/EyebrowHairs/garden) - A digital garden 🌱
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
 - [azlen/old.azlen.me](https://github.com/azlen/old.azlen.me) - 
@@ -410,7 +414,6 @@
 - [tgisaturday/L-Verse](https://github.com/tgisaturday/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - 
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
@@ -621,7 +624,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [rwightman/gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
-- [hanxiao/bert-as-service](https://github.com/hanxiao/bert-as-service) - Mapping a variable-length sentence to a fixed-length vector using BERT model
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [qipeng/golden-retriever](https://github.com/qipeng/golden-retriever) - Authors' implementation of EMNLP-IJCNLP 2019 paper "Answering Complex Open-domain Questions Through Iterative Query Generation"
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
 - [ksw0306/ClariNet](https://github.com/ksw0306/ClariNet) - A Pytorch Implementation of ClariNet
