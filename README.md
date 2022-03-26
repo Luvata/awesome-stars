@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [dvschultz/stylegan2-ada-pytorch](https://github.com/dvschultz/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [vopani/jaxton](https://github.com/vopani/jaxton) - 100 exercises to learn JAX
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
@@ -411,6 +412,7 @@
 
 ## Python 
 
+- [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [Sense-GVT/DeCLIP](https://github.com/Sense-GVT/DeCLIP) - Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm
 - [tgisaturday/L-Verse](https://github.com/tgisaturday/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
