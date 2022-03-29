@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [duskvirkus/colab-notebooks](https://github.com/duskvirkus/colab-notebooks) - A collection of my machine learning notebooks to run on google colab. Mostly ml art.
 - [dvschultz/stylegan2-ada-pytorch](https://github.com/dvschultz/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [vopani/jaxton](https://github.com/vopani/jaxton) - 100 exercises to learn JAX
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
