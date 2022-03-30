@@ -413,6 +413,7 @@
 
 ## Python 
 
+- [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
 - [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [Sense-GVT/DeCLIP](https://github.com/Sense-GVT/DeCLIP) - Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm
