@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
@@ -413,6 +414,7 @@
 
 ## Python 
 
+- [yanx27/EverybodyDanceNow_reproduce_pytorch](https://github.com/yanx27/EverybodyDanceNow_reproduce_pytorch) - Everybody dance now reproduced in pytorch
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
 - [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3) - Official PyTorch implementation of StyleGAN3
