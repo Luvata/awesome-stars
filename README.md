@@ -153,7 +153,7 @@
 
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
-- [pytorch/serve](https://github.com/pytorch/serve) - Model Serving on PyTorch
+- [pytorch/serve](https://github.com/pytorch/serve) - Serve PyTorch models in production
 - [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit (NAACL 2018)
 - [ververica/flink-training-exercises](https://github.com/ververica/flink-training-exercises) - 
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -414,6 +414,7 @@
 
 ## Python 
 
+- [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [yanx27/EverybodyDanceNow_reproduce_pytorch](https://github.com/yanx27/EverybodyDanceNow_reproduce_pytorch) - Everybody dance now reproduced in pytorch
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
 - [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
