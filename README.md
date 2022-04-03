@@ -414,6 +414,7 @@
 
 ## Python 
 
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [yanx27/EverybodyDanceNow_reproduce_pytorch](https://github.com/yanx27/EverybodyDanceNow_reproduce_pytorch) - Everybody dance now reproduced in pytorch
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
