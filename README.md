@@ -360,6 +360,7 @@
 
 ## Others 
 
+- [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
