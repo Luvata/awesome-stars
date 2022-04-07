@@ -122,6 +122,7 @@
 
 ## HTML 
 
+- [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will contain a visualization that will attempt to convey instant enlightenment of how Attention works to the average person, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -195,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [duskvirkus/colab-notebooks](https://github.com/duskvirkus/colab-notebooks) - A collection of my machine learning notebooks to run on google colab. Mostly ml art.
 - [dvschultz/stylegan2-ada-pytorch](https://github.com/dvschultz/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [vopani/jaxton](https://github.com/vopani/jaxton) - 100 exercises to learn JAX
@@ -415,6 +417,9 @@
 
 ## Python 
 
+- [chahuja/language2pose](https://github.com/chahuja/language2pose) - Language2Pose: Natural Language Grounded Pose Forecasting
+- [apple/ml-gsn](https://github.com/apple/ml-gsn) - 
+- [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [ArrowLuo/CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip) - An official implementation for "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval"
 - [CryhanFang/CLIP2Video](https://github.com/CryhanFang/CLIP2Video) - 
 - [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan) - Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two
