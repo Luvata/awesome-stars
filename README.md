@@ -362,6 +362,7 @@
 
 ## Others 
 
+- [microsoft/UniCL](https://github.com/microsoft/UniCL) - The official implementation for "Unified Contrastive Learning in Image-Text-Label Space. CVPR 2022"
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
@@ -847,7 +848,7 @@
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing mathematical notation in plain text.
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
