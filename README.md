@@ -202,7 +202,7 @@
 - [vopani/jaxton](https://github.com/vopani/jaxton) - 100 exercises to learn JAX
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
-- [sberbank-ai/ru-dalle](https://github.com/sberbank-ai/ru-dalle) - Generate images from texts. In Russian
+- [ai-forever/ru-dalle](https://github.com/ai-forever/ru-dalle) - Generate images from texts. In Russian
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
 - [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers
 - [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for "Distributed Deep Learning in Open Collaborations" (NeurIPS 2021)
@@ -447,7 +447,7 @@
 - [ELS-RD/transformer-deploy](https://github.com/ELS-RD/transformer-deploy) - Efficient, scalable and enterprise-grade CPU/GPU inference server for 🤗 Hugging Face transformer models 🚀
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [TurkuNLP/register-labeling](https://github.com/TurkuNLP/register-labeling) - 
-- [sberbank-ai/Real-ESRGAN](https://github.com/sberbank-ai/Real-ESRGAN) - PyTorch implementation of Real-ESRGAN model
+- [ai-forever/Real-ESRGAN](https://github.com/ai-forever/Real-ESRGAN) - PyTorch implementation of Real-ESRGAN model
 - [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
 - [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) - A collection of pre-trained StyleGAN 2 models to download
