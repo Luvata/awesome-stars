@@ -122,7 +122,7 @@
 
 ## HTML 
 
-- [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will contain a visualization that will attempt to convey instant enlightenment of how Attention works to the average person, with 3Blue1Brown as inspiration
+- [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -362,6 +362,7 @@
 
 ## Others 
 
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [microsoft/UniCL](https://github.com/microsoft/UniCL) - The official implementation for "Unified Contrastive Learning in Image-Text-Label Space. CVPR 2022"
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
@@ -418,6 +419,7 @@
 
 ## Python 
 
+- [crowsonkb/v-diffusion-jax](https://github.com/crowsonkb/v-diffusion-jax) - v objective diffusion inference code for JAX.
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
 - [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
 - [chahuja/language2pose](https://github.com/chahuja/language2pose) - Language2Pose: Natural Language Grounded Pose Forecasting
