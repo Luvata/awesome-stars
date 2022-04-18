@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [navervision/KELIP](https://github.com/navervision/KELIP) - Official PyTorch implementation of "Large-scale Bilingual Language-Image Contrastive Learning" (ICLRW 2022)
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [duskvirkus/colab-notebooks](https://github.com/duskvirkus/colab-notebooks) - A collection of my machine learning notebooks to run on google colab. Mostly ml art.
 - [dvschultz/stylegan2-ada-pytorch](https://github.com/dvschultz/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
@@ -419,6 +420,9 @@
 
 ## Python 
 
+- [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text) - Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic
+- [crowsonkb/guided-diffusion](https://github.com/crowsonkb/guided-diffusion) - 
+- [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal) - TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.
 - [crowsonkb/v-diffusion-jax](https://github.com/crowsonkb/v-diffusion-jax) - v objective diffusion inference code for JAX.
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
 - [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
