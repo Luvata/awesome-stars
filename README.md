@@ -420,6 +420,10 @@
 
 ## Python 
 
+- [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs  https://arxiv.org/abs/2112.07804
+- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPU
+- [shawwn/tpunicorn](https://github.com/shawwn/tpunicorn) - Babysit your preemptible TPUs
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations =&gt; neural networks in JAX.
 - [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text) - Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic
 - [crowsonkb/guided-diffusion](https://github.com/crowsonkb/guided-diffusion) - 
 - [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal) - TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.
