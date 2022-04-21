@@ -196,6 +196,8 @@
 
 ## Jupyter Notebook 
 
+- [EleutherAI/vqgan-clip](https://github.com/EleutherAI/vqgan-clip) - 
+- [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [navervision/KELIP](https://github.com/navervision/KELIP) - Official PyTorch implementation of "Large-scale Bilingual Language-Image Contrastive Learning" (ICLRW 2022)
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [duskvirkus/colab-notebooks](https://github.com/duskvirkus/colab-notebooks) - A collection of my machine learning notebooks to run on google colab. Mostly ml art.
@@ -420,6 +422,8 @@
 
 ## Python 
 
+- [Garfield-kh/PoseTriplet](https://github.com/Garfield-kh/PoseTriplet) - [CVPR 2022] PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision (Oral)
+- [facebookresearch/fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
 - [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs  https://arxiv.org/abs/2112.07804
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPU
 - [shawwn/tpunicorn](https://github.com/shawwn/tpunicorn) - Babysit your preemptible TPUs
