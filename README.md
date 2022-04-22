@@ -422,6 +422,7 @@
 
 ## Python 
 
+- [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022 Oral
 - [Garfield-kh/PoseTriplet](https://github.com/Garfield-kh/PoseTriplet) - [CVPR 2022] PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision (Oral)
 - [facebookresearch/fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
 - [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs  https://arxiv.org/abs/2112.07804
@@ -664,6 +665,7 @@
 - [qipeng/golden-retriever](https://github.com/qipeng/golden-retriever) - Authors' implementation of EMNLP-IJCNLP 2019 paper "Answering Complex Open-domain Questions Through Iterative Query Generation"
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
 - [ksw0306/ClariNet](https://github.com/ksw0306/ClariNet) - A Pytorch Implementation of ClariNet
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [foamliu/InsightFace-v2](https://github.com/foamliu/InsightFace-v2) - PyTorch implementation of Additive Angular Margin Loss for Deep Face Recognition.
 - [ngxbac/Kaggle-Jigsaw](https://github.com/ngxbac/Kaggle-Jigsaw) - 
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
@@ -867,7 +869,6 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 
 ## Vala 
 
