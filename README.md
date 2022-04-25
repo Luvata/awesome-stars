@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [Sxela/DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp) - DiscoDiffusion Warp
 - [EleutherAI/vqgan-clip](https://github.com/EleutherAI/vqgan-clip) - 
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [navervision/KELIP](https://github.com/navervision/KELIP) - Official PyTorch implementation of "Large-scale Bilingual Language-Image Contrastive Learning" (ICLRW 2022)
@@ -422,6 +423,7 @@
 
 ## Python 
 
+- [nshepperd/jax-guided-diffusion](https://github.com/nshepperd/jax-guided-diffusion) - jax version of clip guided diffusion scripts
 - [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022 Oral
 - [Garfield-kh/PoseTriplet](https://github.com/Garfield-kh/PoseTriplet) - [CVPR 2022] PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision (Oral)
 - [facebookresearch/fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
