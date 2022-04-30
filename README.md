@@ -429,7 +429,7 @@
 - [wuqiuche/micromotion-styleGAN](https://github.com/wuqiuche/micromotion-styleGAN) - 
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
 - [nshepperd/jax-guided-diffusion](https://github.com/nshepperd/jax-guided-diffusion) - jax version of clip guided diffusion scripts
-- [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022 Oral
+- [hustvl/TeViT](https://github.com/hustvl/TeViT) - Temporally Efficient Vision Transformer for Video Instance Segmentation, CVPR 2022, Oral
 - [Garfield-kh/PoseTriplet](https://github.com/Garfield-kh/PoseTriplet) - [CVPR 2022] PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision (Oral)
 - [facebookresearch/fairmotion](https://github.com/facebookresearch/fairmotion) - Tools to load, process and visualize motion capture data
 - [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs  https://arxiv.org/abs/2112.07804
