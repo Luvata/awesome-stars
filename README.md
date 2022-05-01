@@ -161,6 +161,7 @@
 
 ## JavaScript 
 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
 - [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub/post--example) or the framework (https://github.com/distillpub/template) instead.
