@@ -154,7 +154,7 @@
 
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
-- [pytorch/serve](https://github.com/pytorch/serve) - Serve PyTorch models in production
+- [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit (NAACL 2018)
 - [ververica/flink-training-exercises](https://github.com/ververica/flink-training-exercises) - 
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -162,7 +162,6 @@
 ## JavaScript 
 
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
-- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
 - [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub/post--example) or the framework (https://github.com/distillpub/template) instead.
 - [amitness/papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
@@ -863,6 +862,7 @@
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
 - [konodyuk/obsidian-text-expander](https://github.com/konodyuk/obsidian-text-expander) - Text Expander plugin for Obsidian
 - [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
 - [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
