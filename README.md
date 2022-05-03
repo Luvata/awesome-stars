@@ -195,6 +195,7 @@
 
 ## Jupyter Notebook 
 
+- [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [Sxela/DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp) - DiscoDiffusion Warp
