@@ -197,6 +197,7 @@
 
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [Sxela/DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp) - DiscoDiffusion Warp
 - [EleutherAI/vqgan-clip](https://github.com/EleutherAI/vqgan-clip) - 
@@ -369,7 +370,6 @@
 ## Others 
 
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in NLP, including dialogue systems, natural language generation and relevant topics (constantly updating 🤗).
-- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [microsoft/UniCL](https://github.com/microsoft/UniCL) - The official implementation for "Unified Contrastive Learning in Image-Text-Label Space. CVPR 2022"
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
@@ -427,6 +427,7 @@
 
 ## Python 
 
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
 - [wuqiuche/micromotion-styleGAN](https://github.com/wuqiuche/micromotion-styleGAN) - 
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
 - [nshepperd/jax-guided-diffusion](https://github.com/nshepperd/jax-guided-diffusion) - jax version of clip guided diffusion scripts
