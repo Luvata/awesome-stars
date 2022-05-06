@@ -24,9 +24,9 @@
   - [Kotlin](#kotlin)
   - [Lex](#lex)
   - [Lua](#lua)
+  - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Markdown](#markdown)
-  - [Matlab](#matlab)
   - [Nim](#nim)
   - [OpenEdge ABL](#openedge-abl)
   - [Others](#others)
@@ -122,6 +122,7 @@
 
 ## HTML 
 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
@@ -152,7 +153,7 @@
 
 ## Java 
 
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
 - [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit (NAACL 2018)
@@ -161,9 +162,9 @@
 
 ## JavaScript 
 
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
-- [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub/post--example) or the framework (https://github.com/distillpub/template) instead.
+- [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub
 - [amitness/papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [GitMurf/roam-highlighter](https://github.com/GitMurf/roam-highlighter) - Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes.
@@ -180,7 +181,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A curated list of leetcode questions grouped by their common patterns
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
-- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06
+- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [VSC-FU2019/VSC_FU](https://github.com/VSC-FU2019/VSC_FU) - Vietnamese speech commands for smart home
 - [spark-notebook/spark-notebook](https://github.com/spark-notebook/spark-notebook) - Interactive and Reactive Data Science using Scala and Spark.
@@ -310,10 +311,10 @@
 - [ageron/tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Paperspace/DataAugmentationForObjectDetection](https://github.com/Paperspace/DataAugmentationForObjectDetection) - Data Augmentation For Object Detection
-- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
+- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience repla
 - [RylanSchaeffer/ucl-adv-dl-rl](https://github.com/RylanSchaeffer/ucl-adv-dl-rl) - 
 - [davidcpage/cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. Hyperlearn makes AI and ML algorithms 50% faster, use 90% less memory and doesn't require you to use new hardware! ML Algorithms like PCA, Linear Regression, NMF are all faster!
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - Waiting hours for a future prediction is unacceptable. Hyperlearn makes AI and ML algorithms 50% faster, use 90% less memory and doesn't require you to use new hardware! ML Algorithms like PCA, Linear
 - [nyoki-mtl/pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow) - Implementation of Everybody Dance Now by pytorch
 - [ai-academy-vn/BasicML](https://github.com/ai-academy-vn/BasicML) - 
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
@@ -345,6 +346,10 @@
 - [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 
+## MATLAB 
+
+- [xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU) - 
+
 ## Makefile 
 
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
@@ -355,13 +360,9 @@
 - [srid/neuron-template](https://github.com/srid/neuron-template) - A template to get started with neuron
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
-## Matlab 
-
-- [xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU) - 
-
 ## Nim 
 
-- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 
 ## OpenEdge ABL 
 
@@ -369,7 +370,7 @@
 
 ## Others 
 
-- [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in NLP, including dialogue systems, natural language generation and relevant topics (constantly updating 🤗).
+- [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
 - [microsoft/UniCL](https://github.com/microsoft/UniCL) - The official implementation for "Unified Contrastive Learning in Image-Text-Label Space. CVPR 2022"
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
@@ -410,7 +411,7 @@
 - [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - :metal: awesome-semantic-segmentation
 - [enjalot/algovis](https://github.com/enjalot/algovis) - collection of projects and links about algorithm visualization
 - [StunlockStudios/battlerite-assets](https://github.com/StunlockStudios/battlerite-assets) - Community provided art, schemas, and other assets that make using the Battlerite API easier
-- [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or missing, please raise this as an issue or submit Google form (with this information: research paper name, dataset, metric, source code and year). We will fix it immediately.
+- [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [letientai299/google-interview-university](https://github.com/letientai299/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -427,6 +428,11 @@
 
 ## Python 
 
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
+- [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
+- [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) - A motion generation model learned from a single example [SIGGRAPH 2022]
+- [allenai/reclip](https://github.com/allenai/reclip) - 
+- [HFAiLab/clip-gen](https://github.com/HFAiLab/clip-gen) - CLIP-GEN: Language-Free Training of a Text-to-Image Generator with CLIP
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
 - [wuqiuche/micromotion-styleGAN](https://github.com/wuqiuche/micromotion-styleGAN) - 
 - [google-research/scenic](https://github.com/google-research/scenic) - Scenic: A Jax Library for Computer Vision Research and Beyond
@@ -509,7 +515,7 @@
 - [facebookresearch/deit](https://github.com/facebookresearch/deit) - Official DeiT repository
 - [Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
 - [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of  SOTA Quant research works/papers are released in Qlib.
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
 - [facebookresearch/higher](https://github.com/facebookresearch/higher) - higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
 - [daanzu/kaldi-active-grammar](https://github.com/daanzu/kaldi-active-grammar) - Python Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time
@@ -536,7 +542,7 @@
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [IlyaGusev/summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization
-- [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The goal of this dataset is to provide a challenging benchmark for question answering quality across a wide set of languages. Please refer to our paper for details, MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering
+- [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The go
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
@@ -565,11 +571,11 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [kdexd/virtex](https://github.com/kdexd/virtex) - [CVPR 2021] VirTex: Learning Visual Representations from Textual Annotations
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC)
-- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other languages)
+- [TensorSpeech/TensorFlowTTS](https://github.com/TensorSpeech/TensorFlowTTS) - :stuck_out_tongue_closed_eyes: TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, French, Korean, Chinese, German and Easy to adapt for other lan
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [allenai/allennlp-models](https://github.com/allenai/allennlp-models) - Officially supported AllenNLP models
 - [facebookresearch/EmpatheticDialogues](https://github.com/facebookresearch/EmpatheticDialogues) - Dialogue model that produces empathetic responses when trained on the EmpatheticDialogues dataset.
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
 - [VinAIResearch/BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets (EMNLP-2020)
 - [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta) - A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
 - [srush/parallax](https://github.com/srush/parallax) - 
@@ -660,9 +666,9 @@
 - [eragonruan/text-detection-ctpn](https://github.com/eragonruan/text-detection-ctpn) - text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network
 - [Smerity/sha-rnn](https://github.com/Smerity/sha-rnn) - Single Headed Attention RNN - "Stop thinking with your head"
 - [Grzego/handwriting-generation](https://github.com/Grzego/handwriting-generation) - Implementation of handwriting generation with use of recurrent neural networks in tensorflow. Based on Alex Graves paper (https://arxiv.org/abs/1308.0850).
-- [yardstick17/image_text_reader](https://github.com/yardstick17/image_text_reader) - The module extracts text from image using the tesseract-OCR engine. Generally, text present in the images are blur or are of uneven sizes. The image is pre-processed for better comprehension by OCR. This module first makes bounding box for text in images and then normalizes it to 300 dpi, suitable for OCR engine to read.
+- [yardstick17/image_text_reader](https://github.com/yardstick17/image_text_reader) - The module extracts text from image using the tesseract-OCR engine. Generally, text present in the images are blur or are of uneven sizes. The image is pre-processed for better comprehension by OCR. T
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
-- [namnv1113/UITHelper_QAS](https://github.com/namnv1113/UITHelper_QAS) - An ensemble system with a search engine for relevant document retrieval and a deep learning model (BERT) for machine comprehension in Vietnamese, applied to answer questions related to regulations of University of Information Technology (VNUHCM-UIT)
+- [namnv1113/UITHelper_QAS](https://github.com/namnv1113/UITHelper_QAS) - An ensemble system with a search engine for relevant document retrieval and a deep learning model (BERT) for machine comprehension in Vietnamese, applied to answer questions related to regulations of
 - [kylebgorman/pynini](https://github.com/kylebgorman/pynini) - Read-only mirror of Pynini
 - [Zhongdao/Towards-Realtime-MOT](https://github.com/Zhongdao/Towards-Realtime-MOT) - Joint Detection and Embedding for fast multi-object tracking
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
@@ -794,7 +800,7 @@
 - [amoudgl/short-jokes-dataset](https://github.com/amoudgl/short-jokes-dataset) - Python scripts for building 'Short Jokes' dataset, featured on Kaggle
 - [taki0112/Self-Attention-GAN-Tensorflow](https://github.com/taki0112/Self-Attention-GAN-Tensorflow) - Simple Tensorflow implementation of "Self-Attention Generative Adversarial Networks" (SAGAN)
 - [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples) - Simple examples to introduce PyTorch
-- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [trieutuanvnu/Raspberry-Face-Recognition](https://github.com/trieutuanvnu/Raspberry-Face-Recognition) - Use Python and Open CV to recognize multi face and show the name
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [mbadry1/Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning) - Top 200 deep learning Github repositories sorted by the number of stars.
@@ -870,7 +876,7 @@
 - [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
-- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for papers and books.
+- [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
