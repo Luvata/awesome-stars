@@ -196,6 +196,8 @@
 
 ## Jupyter Notebook 
 
+- [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - Search photos on Unsplash based on OpenAI's CLIP model, support search with joint image+text queries and attention visualization.
+- [kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground) - An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities.
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
@@ -233,7 +235,6 @@
 - [graykode/ai-docstring](https://github.com/graykode/ai-docstring) - Visual Studio Code extension to quickly generate docstrings for python functions using AI(NLP) technology.
 - [ChakriCherukuri/mlviz](https://github.com/ChakriCherukuri/mlviz) - Visualizations of machine learning models and algorithms
 - [patrickvonplaten/notebooks](https://github.com/patrickvonplaten/notebooks) - Some notebooks for NLP
-- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [drfeinberg/PraatScripts](https://github.com/drfeinberg/PraatScripts) - These are praat scripts I use in my research, implemented in parselmouth for python for use in binder
 - [drfeinberg/Parselmouth-Guides](https://github.com/drfeinberg/Parselmouth-Guides) - These are Jupyter Notebooks to help guide people to learn how to use Praat-Parselmouth
 - [inessus/CMU_11785_Deep_Learning_Code](https://github.com/inessus/CMU_11785_Deep_Learning_Code) - 
@@ -528,6 +529,7 @@
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
 - [novoic/surfboard](https://github.com/novoic/surfboard) - Novoic's audio feature extraction library
 - [amirveyseh/AAAI-21-SDU-shared-task-2-AD](https://github.com/amirveyseh/AAAI-21-SDU-shared-task-2-AD) - 
+- [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [LCAV/pyroomacoustics](https://github.com/LCAV/pyroomacoustics) - Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.
 - [airsplay/vokenization](https://github.com/airsplay/vokenization) - PyTorch code for EMNLP 2020 Paper "Vokenization: Improving Language Understanding with Visual Supervision"
 - [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
