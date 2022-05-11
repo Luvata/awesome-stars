@@ -196,6 +196,8 @@
 
 ## Jupyter Notebook 
 
+- [soushirou/StyleCLIP-pytorch](https://github.com/soushirou/StyleCLIP-pytorch) - 
+- [danielroich/PTI](https://github.com/danielroich/PTI) - Official Implementation for "Pivotal Tuning for Latent-based editing of Real Images" https://arxiv.org/abs/2106.05744
 - [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - Search photos on Unsplash based on OpenAI's CLIP model, support search with joint image+text queries and attention visualization.
 - [kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground) - An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities.
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
@@ -431,6 +433,10 @@
 
 ## Python 
 
+- [pals-ttic/adapting-CLIP](https://github.com/pals-ttic/adapting-CLIP) - 
+- [Mathux/ACTOR](https://github.com/Mathux/ACTOR) - Official Pytorch implementation of the paper "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV 2021
+- [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) - Implementation of Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2) in PyTorch
+- [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) - Official repository of OFA. Paper: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
 - [facebookresearch/Mask-Predict](https://github.com/facebookresearch/Mask-Predict) - A masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation.
 - [stylegan-human/StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human) - StyleGAN-Human: A Data-Centric Odyssey of Human Generation
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
