@@ -433,6 +433,7 @@
 
 ## Python 
 
+- [GuyTevet/MotionCLIP](https://github.com/GuyTevet/MotionCLIP) - Official Pytorch implementation of the paper "MotionCLIP: Exposing Human Motion Generation to CLIP Space"
 - [pals-ttic/adapting-CLIP](https://github.com/pals-ttic/adapting-CLIP) - 
 - [Mathux/ACTOR](https://github.com/Mathux/ACTOR) - Official Pytorch implementation of the paper "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV 2021
 - [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) - Implementation of Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2) in PyTorch
