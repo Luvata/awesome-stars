@@ -133,6 +133,7 @@
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css) - LaTeX.css is a CSS library that makes your website look like a LaTeX document
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [ethen8181/machine-learning](https://github.com/ethen8181/machine-learning) - :earth_americas: machine learning tutorials (mainly in Python3)
+- [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [scotthmurray/d3-book](https://github.com/scotthmurray/d3-book) - Code examples for “Interactive Data Visualization for the Web”
 - [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) - The purpose of this project is to share knowledge on how awesome Streamlit is and can be
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises: https://huyenchip.com/machine-learning-systems-design/toc.html
@@ -400,7 +401,6 @@
 - [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings)
 - [WING-NUS/scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus) - Scientific Document Summarization Corpus and Annotations from the WING NUS group.
 - [dair-ai/nlp_highlights](https://github.com/dair-ai/nlp_highlights) - ✨ A report of the most important NLP highlights (A Yearly Report - 2018, 2019)
-- [dreamingechoes/awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [deepmind/pg19](https://github.com/deepmind/pg19) - 
 - [Jyouhou/SceneTextPapers](https://github.com/Jyouhou/SceneTextPapers) - Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized
 - [lampts/bert4vn](https://github.com/lampts/bert4vn) - Multilingual bert retrained on news + squad2 for vietnamese
