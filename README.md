@@ -433,11 +433,12 @@
 
 ## Python 
 
+- [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars
 - [GuyTevet/MotionCLIP](https://github.com/GuyTevet/MotionCLIP) - Official Pytorch implementation of the paper "MotionCLIP: Exposing Human Motion Generation to CLIP Space"
 - [pals-ttic/adapting-CLIP](https://github.com/pals-ttic/adapting-CLIP) - 
 - [Mathux/ACTOR](https://github.com/Mathux/ACTOR) - Official Pytorch implementation of the paper "Action-Conditioned 3D Human Motion Synthesis with Transformer VAE", ICCV 2021
 - [rosinality/stylegan2-pytorch](https://github.com/rosinality/stylegan2-pytorch) - Implementation of Analyzing and Improving the Image Quality of StyleGAN (StyleGAN 2) in PyTorch
-- [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) - Official repository of OFA. Paper: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
+- [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) - Official repository of OFA. Paper: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework (ICML 2022)
 - [facebookresearch/Mask-Predict](https://github.com/facebookresearch/Mask-Predict) - A masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation.
 - [stylegan-human/StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human) - StyleGAN-Human: A Data-Centric Odyssey of Human Generation
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
