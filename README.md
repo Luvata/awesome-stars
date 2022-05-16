@@ -122,7 +122,9 @@
 
 ## HTML 
 
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
+- [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
+- [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (use a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
@@ -433,6 +435,7 @@
 
 ## Python 
 
+- [autonomousvision/stylegan_xl](https://github.com/autonomousvision/stylegan_xl) - [SIGGRAPH'22] StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets
 - [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars
 - [GuyTevet/MotionCLIP](https://github.com/GuyTevet/MotionCLIP) - Official Pytorch implementation of the paper "MotionCLIP: Exposing Human Motion Generation to CLIP Space"
 - [pals-ttic/adapting-CLIP](https://github.com/pals-ttic/adapting-CLIP) - 
