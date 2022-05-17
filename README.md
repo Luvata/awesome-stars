@@ -697,7 +697,6 @@
 - [qipeng/golden-retriever](https://github.com/qipeng/golden-retriever) - Authors' implementation of EMNLP-IJCNLP 2019 paper "Answering Complex Open-domain Questions Through Iterative Query Generation"
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
 - [ksw0306/ClariNet](https://github.com/ksw0306/ClariNet) - A Pytorch Implementation of ClariNet
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [foamliu/InsightFace-v2](https://github.com/foamliu/InsightFace-v2) - PyTorch implementation of Additive Angular Margin Loss for Deep Face Recognition.
 - [ngxbac/Kaggle-Jigsaw](https://github.com/ngxbac/Kaggle-Jigsaw) - 
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
@@ -735,7 +734,7 @@
 - [astrofrog/mpl-scatter-density](https://github.com/astrofrog/mpl-scatter-density) - :zap: Fast scatter density plots for Matplotlib :zap:
 - [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
 - [benedekrozemberczki/AttentionWalk](https://github.com/benedekrozemberczki/AttentionWalk) - A PyTorch Implementation of "Watch Your Step: Learning Node Embeddings via Graph Attention" (NeurIPS 2018).
-- [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [huggingface/naacl_transfer_learning_tutorial](https://github.com/huggingface/naacl_transfer_learning_tutorial) - Repository of code for the tutorial on Transfer Learning in NLP held at NAACL 2019 in Minneapolis, MN, USA
 - [amirgholami/anode](https://github.com/amirgholami/anode) - [IJCAI'19, NeurIPS'19] Anode: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs
@@ -902,6 +901,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vala 
