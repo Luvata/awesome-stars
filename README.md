@@ -435,6 +435,8 @@
 
 ## Python 
 
+- [wty-ustc/HairCLIP](https://github.com/wty-ustc/HairCLIP) - [CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image
+- [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
 - [autonomousvision/stylegan_xl](https://github.com/autonomousvision/stylegan_xl) - [SIGGRAPH'22] StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets
 - [hongfz16/AvatarCLIP](https://github.com/hongfz16/AvatarCLIP) - [SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars
