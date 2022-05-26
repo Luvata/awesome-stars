@@ -439,6 +439,7 @@
 
 ## Python 
 
+- [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - 
 - [wty-ustc/HairCLIP](https://github.com/wty-ustc/HairCLIP) - [CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image
 - [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
