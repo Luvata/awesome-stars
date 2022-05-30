@@ -200,11 +200,13 @@
 
 ## Jupyter Notebook 
 
+- [deepmind/arnheim](https://github.com/deepmind/arnheim) - 
+- [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [pschaldenbrand/StyleCLIPDraw](https://github.com/pschaldenbrand/StyleCLIPDraw) - Styled text-to-drawing synthesis method. Featured at the 2021 NeurIPS Workshop on Machine Learning for Creativity and Design
 - [warmspringwinds/segmentation_in_style](https://github.com/warmspringwinds/segmentation_in_style) - https://arxiv.org/abs/2107.12518
 - [hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability) - [ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-bas
 - [soushirou/StyleCLIP-pytorch](https://github.com/soushirou/StyleCLIP-pytorch) - 
-- [danielroich/PTI](https://github.com/danielroich/PTI) - Official Implementation for "Pivotal Tuning for Latent-based editing of Real Images" https://arxiv.org/abs/2106.05744
+- [danielroich/PTI](https://github.com/danielroich/PTI) - Official Implementation for "Pivotal Tuning for Latent-based editing of Real Images" (ACM TOG 2022) https://arxiv.org/abs/2106.05744
 - [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - Search photos on Unsplash based on OpenAI's CLIP model, support search with joint image+text queries and attention visualization.
 - [kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground) - An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities.
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
@@ -381,6 +383,7 @@
 
 ## Others 
 
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [LAION-AI/aesthetic-predictor](https://github.com/LAION-AI/aesthetic-predictor) - A linear estimator on top of clip to predict the aesthetic quality of pictures
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
@@ -440,6 +443,8 @@
 
 ## Python 
 
+- [pixray/pixray](https://github.com/pixray/pixray) - 
+- [dribnet/pixray](https://github.com/dribnet/pixray) - neural image generation
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [preddy5/Im2Vec](https://github.com/preddy5/Im2Vec) - [CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
