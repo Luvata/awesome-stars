@@ -205,6 +205,7 @@
 - [pschaldenbrand/StyleCLIPDraw](https://github.com/pschaldenbrand/StyleCLIPDraw) - Styled text-to-drawing synthesis method. Featured at the 2021 NeurIPS Workshop on Machine Learning for Creativity and Design
 - [warmspringwinds/segmentation_in_style](https://github.com/warmspringwinds/segmentation_in_style) - https://arxiv.org/abs/2107.12518
 - [hila-chefer/Transformer-MM-Explainability](https://github.com/hila-chefer/Transformer-MM-Explainability) - [ICCV 2021- Oral] Official PyTorch implementation for Generic Attention-model Explainability for Interpreting Bi-Modal and Encoder-Decoder Transformers, a novel method to visualize any Transformer-bas
+- [LAION-AI/aesthetic-predictor](https://github.com/LAION-AI/aesthetic-predictor) - A linear estimator on top of clip to predict the aesthetic quality of pictures
 - [soushirou/StyleCLIP-pytorch](https://github.com/soushirou/StyleCLIP-pytorch) - 
 - [danielroich/PTI](https://github.com/danielroich/PTI) - Official Implementation for "Pivotal Tuning for Latent-based editing of Real Images" (ACM TOG 2022) https://arxiv.org/abs/2106.05744
 - [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - Search photos on Unsplash based on OpenAI's CLIP model, support search with joint image+text queries and attention visualization.
@@ -386,7 +387,6 @@
 
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
-- [LAION-AI/aesthetic-predictor](https://github.com/LAION-AI/aesthetic-predictor) - A linear estimator on top of clip to predict the aesthetic quality of pictures
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models
