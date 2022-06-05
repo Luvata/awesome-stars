@@ -114,7 +114,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [unixpickle/sgdstore](https://github.com/unixpickle/sgdstore) - Augmented RNN memory via live SGD
-- [minio/minio](https://github.com/minio/minio) - Multi-Cloud Object Storage
+- [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 
 ## HCL 
