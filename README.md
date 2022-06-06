@@ -200,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
 - [deepmind/arnheim](https://github.com/deepmind/arnheim) - 
 - [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [pschaldenbrand/StyleCLIPDraw](https://github.com/pschaldenbrand/StyleCLIPDraw) - Styled text-to-drawing synthesis method. Featured at the 2021 NeurIPS Workshop on Machine Learning for Creativity and Design
@@ -220,6 +221,7 @@
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [navervision/KELIP](https://github.com/navervision/KELIP) - Official PyTorch implementation of "Large-scale Bilingual Language-Image Contrastive Learning" (ICLRW 2022)
 - [CompVis/latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+- [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [duskvirkus/colab-notebooks](https://github.com/duskvirkus/colab-notebooks) - A collection of my machine learning notebooks to run on google colab. Mostly ml art.
 - [dvschultz/stylegan2-ada-pytorch](https://github.com/dvschultz/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [vopani/jaxton](https://github.com/vopani/jaxton) - 100 exercises to learn JAX
@@ -487,7 +489,6 @@
 - [microsoft/UniCL](https://github.com/microsoft/UniCL) - The official implementation for "Unified Contrastive Learning in Image-Text-Label Space. CVPR 2022"
 - [chahuja/language2pose](https://github.com/chahuja/language2pose) - Language2Pose: Natural Language Grounded Pose Forecasting
 - [apple/ml-gsn](https://github.com/apple/ml-gsn) - 
-- [huggingface/community-events](https://github.com/huggingface/community-events) - Place where folks can contribute to 🤗 community events
 - [ArrowLuo/CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip) - An official implementation for "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval"
 - [CryhanFang/CLIP2Video](https://github.com/CryhanFang/CLIP2Video) - 
 - [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan) - Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two
