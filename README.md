@@ -200,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
 - [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
 - [deepmind/arnheim](https://github.com/deepmind/arnheim) - 
@@ -447,6 +448,8 @@
 
 ## Python 
 
+- [budui/Control-Units-in-StyleGAN2](https://github.com/budui/Control-Units-in-StyleGAN2) - The official PyTorch implementation for MM'21 paper 'Attribute-specific Control Units in StyleGAN for Fine-grained Image Manipulation'
+- [Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization](https://github.com/Picsart-AI-Research/LIVE-Layerwise-Image-Vectorization) - [CVPR 2022 Oral] Towards Layer-wise Image Vectorization
 - [ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop) - Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [dribnet/pixray](https://github.com/dribnet/pixray) - neural image generation
