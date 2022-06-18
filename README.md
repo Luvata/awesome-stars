@@ -571,7 +571,7 @@
 - [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [LCAV/pyroomacoustics](https://github.com/LCAV/pyroomacoustics) - Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.
 - [airsplay/vokenization](https://github.com/airsplay/vokenization) - PyTorch code for EMNLP 2020 Paper "Vokenization: Improving Language Understanding with Visual Supervision"
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [NVlabs/metfaces-dataset](https://github.com/NVlabs/metfaces-dataset) - 
