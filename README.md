@@ -448,6 +448,8 @@
 
 ## Python 
 
+- [Mathux/TEMOS](https://github.com/Mathux/TEMOS) - Official PyTorch implementation of the paper "TEMOS: Generating diverse human motions from textual descriptions"
+- [vietai/ViT5](https://github.com/vietai/ViT5) - 
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 
 - [kojima-takeshi188/zero_shot_cot](https://github.com/kojima-takeshi188/zero_shot_cot) - Prod Env
 - [genforce/genforce](https://github.com/genforce/genforce) - An efficient PyTorch library for deep generative modeling.
