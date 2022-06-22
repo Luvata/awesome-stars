@@ -200,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
 - [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
@@ -515,7 +516,7 @@
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
-- [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
+- [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training a model similar to OpenAI DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
 - [nguyenvulebinh/spoken-norm](https://github.com/nguyenvulebinh/spoken-norm) - Transformation spoken text to written text
 - [tunib-ai/oslo](https://github.com/tunib-ai/oslo) - OSLO: Open Source framework for Large-scale model Optimization
