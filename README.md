@@ -200,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - 
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
