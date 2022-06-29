@@ -200,7 +200,7 @@
 
 ## Jupyter Notebook 
 
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - 
+- [phizaz/diffae](https://github.com/phizaz/diffae) - Official implementation of Diffusion Autoencoders
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
@@ -452,6 +452,7 @@
 
 ## Python 
 
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - 
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
