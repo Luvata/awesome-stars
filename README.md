@@ -216,7 +216,7 @@
 - [soushirou/StyleCLIP-pytorch](https://github.com/soushirou/StyleCLIP-pytorch) - 
 - [danielroich/PTI](https://github.com/danielroich/PTI) - Official Implementation for "Pivotal Tuning for Latent-based editing of Real Images" (ACM TOG 2022) https://arxiv.org/abs/2106.05744
 - [haofanwang/natural-language-joint-query-search](https://github.com/haofanwang/natural-language-joint-query-search) - Search photos on Unsplash based on OpenAI's CLIP model, support search with joint image+text queries and attention visualization.
-- [kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground) - An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities.
+- [kevinzakka/clip_playground](https://github.com/kevinzakka/clip_playground) - An ever-growing playground of notebooks showcasing CLIP's impressive zero-shot capabilities
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.
