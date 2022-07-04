@@ -452,7 +452,8 @@
 
 ## Python 
 
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal implementation of DALL·E Mini in PyTorch
+- [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - A combination of VAE's and Diffusion Models for efficient, controllable and high-fidelity generation from low-dimensional latents
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal implementation of DALL·E Mega in PyTorch
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
