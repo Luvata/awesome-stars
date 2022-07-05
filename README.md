@@ -337,6 +337,7 @@
 - [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience repla
 - [RylanSchaeffer/ucl-adv-dl-rl](https://github.com/RylanSchaeffer/ucl-adv-dl-rl) - 
 - [davidcpage/cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
+- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [nyoki-mtl/pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow) - Implementation of Everybody Dance Now by pytorch
 - [ai-academy-vn/BasicML](https://github.com/ai-academy-vn/BasicML) - 
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
@@ -453,7 +454,7 @@
 ## Python 
 
 - [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - A combination of VAE's and Diffusion Models for efficient, controllable and high-fidelity generation from low-dimensional latents
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal implementation of DALL·E Mega in PyTorch
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mega in PyTorch
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
@@ -845,7 +846,6 @@
 - [dkoguciuk/DDPG-Keras-Torcs](https://github.com/dkoguciuk/DDPG-Keras-Torcs) - Using Keras and Deep Deterministic Policy Gradient to play TORCS
 - [jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces](https://github.com/jimkon/Deep-Reinforcement-Learning-in-Large-Discrete-Action-Spaces) - Implementation of the algorithm in Python 3, TensorFlow and OpenAI Gym
 - [hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo) - A list of all named GANs!
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [matenure/FastGCN](https://github.com/matenure/FastGCN) - The sample codes for our ICLR18 paper "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling""
 - [Swall0w/torchstat](https://github.com/Swall0w/torchstat) - Model analyzer in PyTorch
 - [tiepvupsu/dlproject_structure](https://github.com/tiepvupsu/dlproject_structure) - Structure of a deep learning project
