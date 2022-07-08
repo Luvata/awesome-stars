@@ -152,7 +152,7 @@
 ## Haskell 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [ischeinfeld/cs43-lectures](https://github.com/ischeinfeld/cs43-lectures) - Lecture code from Stanford's CS43
 
 ## Java 
@@ -200,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso) - 
 - [phizaz/diffae](https://github.com/phizaz/diffae) - Official implementation of Diffusion Autoencoders
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
@@ -583,7 +584,7 @@
 - [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [LCAV/pyroomacoustics](https://github.com/LCAV/pyroomacoustics) - Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.
 - [airsplay/vokenization](https://github.com/airsplay/vokenization) - PyTorch code for EMNLP 2020 Paper "Vokenization: Improving Language Understanding with Visual Supervision"
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and perfor
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [NVlabs/metfaces-dataset](https://github.com/NVlabs/metfaces-dataset) - 
