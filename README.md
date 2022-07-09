@@ -263,7 +263,6 @@
 - [cmudeeplearning11785/Spring2019_Tutorials](https://github.com/cmudeeplearning11785/Spring2019_Tutorials) - 
 - [dabl/dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
 - [amueller/COMS4995-s19](https://github.com/amueller/COMS4995-s19) - COMS W4995 Applied Machine Learning - Spring 19
-- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [sorrge/tg_news_cluster](https://github.com/sorrge/tg_news_cluster) - Winning entry for Telegram Data Clustering competition
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
@@ -597,6 +596,7 @@
 - [cvqluu/Angular-Penalty-Softmax-Losses-Pytorch](https://github.com/cvqluu/Angular-Penalty-Softmax-Losses-Pytorch) - Angular penalty loss functions in Pytorch (ArcFace, SphereFace, Additive Margin, CosFace)
 - [AntreasAntoniou/HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch.
 - [tvst/st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [IlyaGusev/summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization
