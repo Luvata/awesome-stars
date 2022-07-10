@@ -879,6 +879,7 @@
 
 ## Rust 
 
+- [webonnx/wonnx](https://github.com/webonnx/wonnx) - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 - [oscar-corpus/ungoliant](https://github.com/oscar-corpus/ungoliant) - :spider: The pipeline for the OSCAR corpus
 - [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs) - Static site generator written in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
