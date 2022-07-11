@@ -394,6 +394,7 @@
 
 ## Others 
 
+- [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
@@ -453,9 +454,11 @@
 
 ## Python 
 
+- [fawazsammani/nlxgpt](https://github.com/fawazsammani/nlxgpt) - NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks, CVPR 2022 (Oral)
+- [yingchen001/CF-CLIP](https://github.com/yingchen001/CF-CLIP) - [ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP
 - [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
 - [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - A combination of VAE's and Diffusion Models for efficient, controllable and high-fidelity generation from low-dimensional latents
-- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mega to PyTorch
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
