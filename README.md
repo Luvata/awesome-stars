@@ -684,7 +684,7 @@
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [philgooch/abbreviation-extraction](https://github.com/philgooch/abbreviation-extraction) - Python3 implementation of the Schwartz-Hearst algorithm for extracting abbreviation-definition pairs
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The Unified Model Serving Framework 🍱
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
 - [oscarknagg/few-shot](https://github.com/oscarknagg/few-shot) - Repository for few-shot learning machine learning projects
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
