@@ -123,7 +123,6 @@
 
 ## HTML 
 
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
 - [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (use a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
@@ -166,6 +165,7 @@
 
 ## JavaScript 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
 - [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub
