@@ -395,7 +395,6 @@
 ## Others 
 
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
@@ -473,6 +472,7 @@
 - [ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop) - Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [dribnet/pixray](https://github.com/dribnet/pixray) - neural image generation
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.
 - [preddy5/Im2Vec](https://github.com/preddy5/Im2Vec) - [CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - 
