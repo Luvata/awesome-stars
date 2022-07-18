@@ -14,7 +14,6 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -116,10 +115,6 @@
 - [unixpickle/sgdstore](https://github.com/unixpickle/sgdstore) - Augmented RNN memory via live SGD
 - [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
-
-## HCL 
-
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 
 ## HTML 
 
@@ -525,6 +520,7 @@
 - [tgisaturday/L-Verse](https://github.com/tgisaturday/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
@@ -614,7 +610,7 @@
 - [kzhai/PyInfVoc](https://github.com/kzhai/PyInfVoc) - An Online Latent Dirichlet Allocation with Infinite Vocabulary implementation in Python.
 - [adjidieng/DETM](https://github.com/adjidieng/DETM) - 
 - [pyproj4/pyproj](https://github.com/pyproj4/pyproj) - Python interface to PROJ (cartographic projections and coordinate transformations library)
-- [annoviko/pyclustering](https://github.com/annoviko/pyclustering) - pyclustring is a Python, C++ data mining library.
+- [annoviko/pyclustering](https://github.com/annoviko/pyclustering) - pyclustering is a Python, C++ data mining library.
 - [nzw0301/lightLDA](https://github.com/nzw0301/lightLDA) - fast sampling algorithm based on CGS
 - [yhenon/pyrcc](https://github.com/yhenon/pyrcc) - Python implementation of Robust Continuous Clustering
 - [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization.
