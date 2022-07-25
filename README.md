@@ -180,7 +180,7 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A curated list of leetcode questions grouped by their common patterns
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated interview preparation materials for busy engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [VSC-FU2019/VSC_FU](https://github.com/VSC-FU2019/VSC_FU) - Vietnamese speech commands for smart home
@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso) - 
 - [phizaz/diffae](https://github.com/phizaz/diffae) - Official implementation of Diffusion Autoencoders
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
@@ -448,6 +449,7 @@
 
 ## Python 
 
+- [apple/ml-gmpi](https://github.com/apple/ml-gmpi) - Official PyTorch implementation of GMPI (ECCV 2022, Oral Presentation)
 - [fawazsammani/nlxgpt](https://github.com/fawazsammani/nlxgpt) - NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks, CVPR 2022 (Oral)
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
 - [yingchen001/CF-CLIP](https://github.com/yingchen001/CF-CLIP) - [ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP
