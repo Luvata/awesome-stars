@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [betterze/StyleSpace](https://github.com/betterze/StyleSpace) - StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso) - 
 - [phizaz/diffae](https://github.com/phizaz/diffae) - Official implementation of Diffusion Autoencoders
@@ -449,6 +450,8 @@
 
 ## Python 
 
+- [HaoruiSong622/Editing-Out-of-Domain](https://github.com/HaoruiSong622/Editing-Out-of-Domain) - 
+- [facebookresearch/multiface](https://github.com/facebookresearch/multiface) - Hosts the Multiface dataset, which is a multi-view dataset of multiple identities performing a sequence of facial expressions.
 - [apple/ml-gmpi](https://github.com/apple/ml-gmpi) - Official PyTorch implementation of GMPI (ECCV 2022, Oral Presentation)
 - [fawazsammani/nlxgpt](https://github.com/fawazsammani/nlxgpt) - NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks, CVPR 2022 (Oral)
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
