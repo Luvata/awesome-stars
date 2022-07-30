@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [betterze/StyleSpace](https://github.com/betterze/StyleSpace) - StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
 - [yael-vinker/CLIPasso](https://github.com/yael-vinker/CLIPasso) - 
@@ -301,7 +302,7 @@
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [omarsar/pytorch_notebooks](https://github.com/omarsar/pytorch_notebooks) - A collection of PyTorch notebooks for learning and practicing deep learning
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for answering questions using data you cannot see
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
 - [ducha-aiki/pytorch-sift](https://github.com/ducha-aiki/pytorch-sift) - PyTorch implementation of SIFT descriptor
 - [jupyter-guide/ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter) - Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
 - [thucdx/ml-uw-coursera](https://github.com/thucdx/ml-uw-coursera) - 4-course machine learning specialization by University Of Washington on Coursera
