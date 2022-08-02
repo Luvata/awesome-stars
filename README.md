@@ -458,7 +458,7 @@
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
 - [yingchen001/CF-CLIP](https://github.com/yingchen001/CF-CLIP) - [ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP
 - [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
-- [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - A combination of VAE's and Diffusion Models for efficient, controllable and high-fidelity generation from low-dimensional latents
+- [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
