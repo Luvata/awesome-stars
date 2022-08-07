@@ -401,7 +401,7 @@
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
 - [datquocnguyen/VnDT](https://github.com/datquocnguyen/VnDT) - VnDT: A Vietnamese Dependency Treebank
-- [algorithmsbooks/decisionmaking](https://github.com/algorithmsbooks/decisionmaking) - Preview of the textbook Algorithms for Decision Making
+- [algorithmsbooks/decisionmaking](https://github.com/algorithmsbooks/decisionmaking) - Algorithms for Decision Making textbook
 - [chitralekha18/Dataset-for-pronunciation-evaluation-in-singing](https://github.com/chitralekha18/Dataset-for-pronunciation-evaluation-in-singing) - 
 - [khangich/machine-learning-interview](https://github.com/khangich/machine-learning-interview) - Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.
 - [rmcelreath/statrethinking_winter2019](https://github.com/rmcelreath/statrethinking_winter2019) - Statistical Rethinking course at MPI-EVA from Dec 2018 through Feb 2019
