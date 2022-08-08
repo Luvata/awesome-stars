@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
