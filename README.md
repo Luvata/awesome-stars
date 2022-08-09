@@ -451,6 +451,7 @@
 
 ## Python 
 
+- [microsoft/VideoX](https://github.com/microsoft/VideoX) - VideoX: a collection of video cross-modal models
 - [NVlabs/PALAVRA](https://github.com/NVlabs/PALAVRA) - 
 - [nv-tlabs/editGAN_release](https://github.com/nv-tlabs/editGAN_release) - 
 - [wpeebles/gangealing](https://github.com/wpeebles/gangealing) - Official PyTorch Implementation of GAN-Supervised Dense Visual Alignment (CVPR 2022 Oral, Best Paper Finalist)
