@@ -453,6 +453,7 @@
 
 ## Python 
 
+- [Hxyou/MSCLIP](https://github.com/Hxyou/MSCLIP) - Official Code of ECCV 2022 paper MS-CLIP
 - [microsoft/VideoX](https://github.com/microsoft/VideoX) - VideoX: a collection of video cross-modal models
 - [NVlabs/PALAVRA](https://github.com/NVlabs/PALAVRA) - 
 - [nv-tlabs/editGAN_release](https://github.com/nv-tlabs/editGAN_release) - 
@@ -466,7 +467,7 @@
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
 - [yingchen001/CF-CLIP](https://github.com/yingchen001/CF-CLIP) - [ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP
 - [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
-- [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents
+- [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - Official implementation of "DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents"
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
@@ -762,7 +763,6 @@
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [DagnyT/hardnet](https://github.com/DagnyT/hardnet) - Hardnet descriptor model - "Working hard to know your neighbor's margins:  Local descriptor learning loss"
 - [facebookresearch/unlikelihood_training](https://github.com/facebookresearch/unlikelihood_training) - Neural Text Generation with Unlikelihood Training
-- [undertheseanlp/languageflow](https://github.com/undertheseanlp/languageflow) - Data loaders and abstractions for text and NLP
 - [zhaohui-yang/LegoNet](https://github.com/zhaohui-yang/LegoNet) - A Pytorch implementation of "LegoNet: Efficient Convolutional Neural Networks with Lego Filters" (ICML 2019).
 - [minhnq97/pytorch-transformer-text-classification](https://github.com/minhnq97/pytorch-transformer-text-classification) - 
 - [xiaomi-automl/SCARLET-NAS](https://github.com/xiaomi-automl/SCARLET-NAS) - Bridging the gap Between Stability and Scalability in Neural Architecture Search
