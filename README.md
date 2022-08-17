@@ -395,6 +395,7 @@
 
 ## Others 
 
+- [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
