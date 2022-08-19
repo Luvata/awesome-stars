@@ -179,7 +179,7 @@
 - [jobtalle/Cephalopods](https://github.com/jobtalle/Cephalopods) - Evolving squids through neuroevolution
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
-- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach to solving Leetcode questions
+- [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for studying technical interview questions
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -454,6 +454,7 @@
 
 ## Python 
 
+- [nv-tlabs/datasetGAN_release](https://github.com/nv-tlabs/datasetGAN_release) - 
 - [Hxyou/MSCLIP](https://github.com/Hxyou/MSCLIP) - Official Code of ECCV 2022 paper MS-CLIP
 - [microsoft/VideoX](https://github.com/microsoft/VideoX) - VideoX: a collection of video cross-modal models
 - [NVlabs/PALAVRA](https://github.com/NVlabs/PALAVRA) - 
