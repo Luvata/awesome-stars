@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
@@ -455,6 +456,8 @@
 
 ## Python 
 
+- [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for Crawling@Home's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
+- [Aleph-Alpha/magma](https://github.com/Aleph-Alpha/magma) - MAGMA - a GPT-style multimodal model that can understand any combination of images and language. NOTE: The freely available model from this repo is only a demo. For the latest multimodal and multiling
 - [cambridgeltl/visual-spatial-reasoning](https://github.com/cambridgeltl/visual-spatial-reasoning) - VSR: A probing benchmark for spatial undersranding of vision-language models.
 - [nv-tlabs/datasetGAN_release](https://github.com/nv-tlabs/datasetGAN_release) - 
 - [Hxyou/MSCLIP](https://github.com/Hxyou/MSCLIP) - Official Code of ECCV 2022 paper MS-CLIP
