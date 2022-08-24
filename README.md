@@ -42,7 +42,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## C 
@@ -655,7 +655,7 @@
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [allenai/allennlp-models](https://github.com/allenai/allennlp-models) - Officially supported AllenNLP models
 - [facebookresearch/EmpatheticDialogues](https://github.com/facebookresearch/EmpatheticDialogues) - Dialogue model that produces empathetic responses when trained on the EmpatheticDialogues dataset.
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in th
+- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [VinAIResearch/BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets (EMNLP-2020)
 - [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta) - A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
 - [srush/parallax](https://github.com/srush/parallax) - 
@@ -958,7 +958,7 @@
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
-- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
@@ -973,7 +973,7 @@
 - [phase1geo/Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS
 - [alainm23/planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀
 
-## Vim script 
+## Vim Script 
 
 - [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
