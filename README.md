@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface.
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
@@ -397,6 +398,7 @@
 
 ## Others 
 
+- [mshukor/ViCHA](https://github.com/mshukor/ViCHA) - Official Implementation of ViCHA: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment"
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
@@ -456,6 +458,8 @@
 
 ## Python 
 
+- [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
+- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡
 - [ManHieu/download_pretrained_model](https://github.com/ManHieu/download_pretrained_model) - 
 - [google-research/lm-extraction-benchmark](https://github.com/google-research/lm-extraction-benchmark) - 
 - [YoadTew/zero-shot-video-to-text](https://github.com/YoadTew/zero-shot-video-to-text) - 
@@ -509,7 +513,7 @@
 - [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA) - Official repository of OFA (ICML 2022). Paper: OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework
 - [facebookresearch/Mask-Predict](https://github.com/facebookresearch/Mask-Predict) - A masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation.
 - [stylegan-human/StyleGAN-Human](https://github.com/stylegan-human/StyleGAN-Human) - StyleGAN-Human: A Data-Centric Odyssey of Human Generation
-- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [DeepMotionEditing/deep-motion-editing](https://github.com/DeepMotionEditing/deep-motion-editing) - An end-to-end library for editing and rendering motion of 3D characters with deep learning [SIGGRAPH 2020]
 - [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) - A motion generation model learned from a single example [SIGGRAPH 2022]
 - [allenai/reclip](https://github.com/allenai/reclip) - 
@@ -609,7 +613,7 @@
 - [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [LCAV/pyroomacoustics](https://github.com/LCAV/pyroomacoustics) - Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.
 - [airsplay/vokenization](https://github.com/airsplay/vokenization) - PyTorch code for EMNLP 2020 Paper "Vokenization: Improving Language Understanding with Visual Supervision"
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [NVlabs/metfaces-dataset](https://github.com/NVlabs/metfaces-dataset) - 
@@ -760,7 +764,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [rwightman/gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, EfficientNet-Lite, MixNet, MobileNetV3 / V2, MNASNet A1 and B1, FBNet, Single-Path NAS
 - [NVIDIA/DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - 🏄 Embed/reason/rank images and sentences with CLIP models
 - [qipeng/golden-retriever](https://github.com/qipeng/golden-retriever) - Authors' implementation of EMNLP-IJCNLP 2019 paper "Answering Complex Open-domain Questions Through Iterative Query Generation"
 - [ShangtongZhang/DeepRL](https://github.com/ShangtongZhang/DeepRL) - Modularized Implementation of Deep RL Algorithms in PyTorch
 - [ksw0306/ClariNet](https://github.com/ksw0306/ClariNet) - A Pytorch Implementation of ClariNet
