@@ -196,6 +196,7 @@
 
 ## Jupyter Notebook 
 
+- [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
 - [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface.
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
@@ -458,6 +459,7 @@
 
 ## Python 
 
+- [matrach/matplotlib-terminal](https://github.com/matrach/matplotlib-terminal) - Matplotlib backend to plot in terminal using matrach/img2unicode
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡
 - [ManHieu/download_pretrained_model](https://github.com/ManHieu/download_pretrained_model) - 
