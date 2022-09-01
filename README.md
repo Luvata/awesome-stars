@@ -197,7 +197,7 @@
 ## Jupyter Notebook 
 
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
-- [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface.
+- [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
@@ -209,6 +209,7 @@
 - [phizaz/diffae](https://github.com/phizaz/diffae) - Official implementation of Diffusion Autoencoders
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
+- [vietai/ViT5](https://github.com/vietai/ViT5) - 
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
 - [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
@@ -459,6 +460,7 @@
 
 ## Python 
 
+- [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
 - [matrach/matplotlib-terminal](https://github.com/matrach/matplotlib-terminal) - Matplotlib backend to plot in terminal using matrach/img2unicode
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡
@@ -489,7 +491,6 @@
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [Mathux/TEMOS](https://github.com/Mathux/TEMOS) - Official PyTorch implementation of the paper "TEMOS: Generating diverse human motions from textual descriptions"
-- [vietai/ViT5](https://github.com/vietai/ViT5) - 
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [kojima-takeshi188/zero_shot_cot](https://github.com/kojima-takeshi188/zero_shot_cot) - Prod Env
 - [genforce/genforce](https://github.com/genforce/genforce) - An efficient PyTorch library for deep generative modeling.
@@ -665,7 +666,7 @@
 - [cbfinn/maml](https://github.com/cbfinn/maml) - Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks"
 - [allenai/allennlp-models](https://github.com/allenai/allennlp-models) - Officially supported AllenNLP models
 - [facebookresearch/EmpatheticDialogues](https://github.com/facebookresearch/EmpatheticDialogues) - Dialogue model that produces empathetic responses when trained on the EmpatheticDialogues dataset.
-- [OWASP/owasp-mstg](https://github.com/OWASP/owasp-mstg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
+- [OWASP/owasp-mastg](https://github.com/OWASP/owasp-mastg) - The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls
 - [VinAIResearch/BERTweet](https://github.com/VinAIResearch/BERTweet) - BERTweet: A pre-trained language model for English Tweets (EMNLP-2020)
 - [tristandeleu/pytorch-meta](https://github.com/tristandeleu/pytorch-meta) - A collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch
 - [srush/parallax](https://github.com/srush/parallax) - 
@@ -726,7 +727,6 @@
 - [explosion/sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [Dumbris/trunklucator](https://github.com/Dumbris/trunklucator) - Python module for data scientists for quick creating annotation projects.
-- [deepmipt/DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [facebookresearch/MLQA](https://github.com/facebookresearch/MLQA) - New dataset
 - [faustomorales/keras-ocr](https://github.com/faustomorales/keras-ocr) - A packaged and flexible version of the CRAFT text detector and Keras CRNN recognition model.
