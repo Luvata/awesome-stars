@@ -461,6 +461,8 @@
 
 ## Python 
 
+- [hkrsnd/alphailp](https://github.com/hkrsnd/alphailp) - alphaILP
+- [hkrsnd/dilp-st](https://github.com/hkrsnd/dilp-st) - 
 - [LeapLabTHU/Pseudo-Q](https://github.com/LeapLabTHU/Pseudo-Q) - [CVPR 2022] Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding
 - [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
 - [matrach/matplotlib-terminal](https://github.com/matrach/matplotlib-terminal) - Matplotlib backend to plot in terminal using matrach/img2unicode
