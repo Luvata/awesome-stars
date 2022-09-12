@@ -124,7 +124,7 @@
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
-- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
+- [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist classless CSS stylesheet for HTML elements
 - [azlen/old.azlen.me](https://github.com/azlen/old.azlen.me) - 
 - [IlyaGusev/tgcontest](https://github.com/IlyaGusev/tgcontest) - Telegram Data Clustering contest solution by Mindful Squirrel
 - [nguyenvulebinh/shecode20](https://github.com/nguyenvulebinh/shecode20) - Simple chatbot
@@ -202,7 +202,7 @@
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
-- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - 
+- [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [probml/pyprobml](https://github.com/probml/pyprobml) - Python code for "Probabilistic Machine learning" book by Kevin Murphy
 - [betterze/StyleSpace](https://github.com/betterze/StyleSpace) - StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA.
