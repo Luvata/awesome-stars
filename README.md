@@ -253,7 +253,6 @@
 - [huggingface/notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
 - [probml/pml-book](https://github.com/probml/pml-book) - "Probabilistic Machine Learning" - a book series by Kevin Murphy
 - [Atcold/NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21) - NYU Deep Learning Spring 2021
-- [markovka17/dla](https://github.com/markovka17/dla) - Deep learning for audio processing
 - [fastai/fastdot](https://github.com/fastai/fastdot) - A simple wrapper over `pydot` and `graphviz` which fixes some sharp edges
 - [ischlag/fast-weight-transformers](https://github.com/ischlag/fast-weight-transformers) - Official code repository of the paper  Linear Transformers Are Secretly Fast Weight Programmers.
 - [sgugger/hf_examples](https://github.com/sgugger/hf_examples) - NLP Examples using the 🤗 libraries
@@ -411,6 +410,7 @@
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
 - [cassidoo/getting-a-gig](https://github.com/cassidoo/getting-a-gig) - Guide for getting a gig as a tech student.
+- [markovka17/dla](https://github.com/markovka17/dla) - Deep learning for audio processing
 - [datquocnguyen/VnDT](https://github.com/datquocnguyen/VnDT) - VnDT: A Vietnamese Dependency Treebank
 - [algorithmsbooks/decisionmaking](https://github.com/algorithmsbooks/decisionmaking) - Algorithms for Decision Making textbook
 - [chitralekha18/Dataset-for-pronunciation-evaluation-in-singing](https://github.com/chitralekha18/Dataset-for-pronunciation-evaluation-in-singing) - 
