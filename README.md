@@ -461,6 +461,9 @@
 
 ## Python 
 
+- [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
+- [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
+- [facebookresearch/clevr-dataset-gen](https://github.com/facebookresearch/clevr-dataset-gen) - A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
 - [hkrsnd/alphailp](https://github.com/hkrsnd/alphailp) - alphaILP
 - [hkrsnd/dilp-st](https://github.com/hkrsnd/dilp-st) - 
 - [LeapLabTHU/Pseudo-Q](https://github.com/LeapLabTHU/Pseudo-Q) - [CVPR 2022] Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding
