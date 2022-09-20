@@ -198,7 +198,7 @@
 ## Jupyter Notebook 
 
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
-- [lstein/stable-diffusion](https://github.com/lstein/stable-diffusion) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
@@ -401,6 +401,7 @@
 
 ## Others 
 
+- [SamsungLabs/day-to-night](https://github.com/SamsungLabs/day-to-night) - 
 - [mshukor/ViCHA](https://github.com/mshukor/ViCHA) - Official Implementation of ViCHA: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment"
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
@@ -461,6 +462,7 @@
 
 ## Python 
 
+- [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
 - [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
 - [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
 - [facebookresearch/clevr-dataset-gen](https://github.com/facebookresearch/clevr-dataset-gen) - A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
