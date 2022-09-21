@@ -197,6 +197,11 @@
 
 ## Jupyter Notebook 
 
+- [bloc97/CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) - Unofficial implementation of "Prompt-to-Prompt Image Editing with Cross Attention Control" with Stable Diffusion
+- [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
+- [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples) - Deep Learning Examples
+- [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
+- [LambdaLabsML/lambda-diffusers](https://github.com/LambdaLabsML/lambda-diffusers) - 
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
@@ -462,6 +467,8 @@
 
 ## Python 
 
+- [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
+- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
 - [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
 - [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
@@ -547,7 +554,7 @@
 - [crowsonkb/v-diffusion-jax](https://github.com/crowsonkb/v-diffusion-jax) - v objective diffusion inference code for JAX.
 - [tengteng95/Pose-Transfer](https://github.com/tengteng95/Pose-Transfer) - Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).
 - [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
-- [microsoft/UniCL](https://github.com/microsoft/UniCL) - The official implementation for "Unified Contrastive Learning in Image-Text-Label Space. CVPR 2022"
+- [microsoft/UniCL](https://github.com/microsoft/UniCL) - [CVPR 2022] Official code for "Unified Contrastive Learning in Image-Text-Label Space"
 - [chahuja/language2pose](https://github.com/chahuja/language2pose) - Language2Pose: Natural Language Grounded Pose Forecasting
 - [apple/ml-gsn](https://github.com/apple/ml-gsn) - 
 - [ArrowLuo/CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip) - An official implementation for "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval"
