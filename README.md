@@ -197,6 +197,8 @@
 
 ## Jupyter Notebook 
 
+- [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - stable diffusion finetuned on danbooru
+- [openai/whisper](https://github.com/openai/whisper) - 
 - [bloc97/CrossAttentionControl](https://github.com/bloc97/CrossAttentionControl) - Unofficial implementation of "Prompt-to-Prompt Image Editing with Cross Attention Control" with Stable Diffusion
 - [XavierXiao/Dreambooth-Stable-Diffusion](https://github.com/XavierXiao/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion
 - [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples) - Deep Learning Examples
