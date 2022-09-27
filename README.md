@@ -469,6 +469,8 @@
 
 ## Python 
 
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [timojl/clipseg](https://github.com/timojl/clipseg) - This repository contains the code of the CVPR 2022 paper "Image Segmentation Using Text and Image Prompts".
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
