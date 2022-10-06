@@ -182,7 +182,6 @@
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [VSC-FU2019/VSC_FU](https://github.com/VSC-FU2019/VSC_FU) - Vietnamese speech commands for smart home
@@ -220,6 +219,7 @@
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
 - [vietai/ViT5](https://github.com/vietai/ViT5) - 
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
 - [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
@@ -505,14 +505,13 @@
 - [fawazsammani/nlxgpt](https://github.com/fawazsammani/nlxgpt) - NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks, CVPR 2022 (Oral)
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
 - [yingchen001/CF-CLIP](https://github.com/yingchen001/CF-CLIP) - [ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP
-- [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" https://arxiv.org/abs/2201.13433
+- [yuval-alaluf/stylegan3-editing](https://github.com/yuval-alaluf/stylegan3-editing) - Official Implementation of "Third Time's the Charm? Image and Video Editing with StyleGAN3" (AIM ECCVW 2022) https://arxiv.org/abs/2201.13433
 - [kpandey008/DiffuseVAE](https://github.com/kpandey008/DiffuseVAE) - Official implementation of "DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents"
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [Mathux/TEMOS](https://github.com/Mathux/TEMOS) - Official PyTorch implementation of the paper "TEMOS: Generating diverse human motions from textual descriptions"
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [kojima-takeshi188/zero_shot_cot](https://github.com/kojima-takeshi188/zero_shot_cot) - Prod Env
 - [genforce/genforce](https://github.com/genforce/genforce) - An efficient PyTorch library for deep generative modeling.
 - [THUDM/CogView2](https://github.com/THUDM/CogView2) - official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers"
@@ -979,7 +978,7 @@
 ## TypeScript 
 
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
-- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
+- [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets. The name comes from mushing grid and list together. Yes we know it sounds like gristle.
 - [vanakat/zotero-bridge](https://github.com/vanakat/zotero-bridge) - Obsidian plugin to integrate with Zotero through ZotServer
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
@@ -1000,6 +999,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vala 
