@@ -111,7 +111,7 @@
 
 ## Go 
 
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [unixpickle/sgdstore](https://github.com/unixpickle/sgdstore) - Augmented RNN memory via live SGD
@@ -219,7 +219,6 @@
 - [multimodalart/majesty-diffusion](https://github.com/multimodalart/majesty-diffusion) - Majesty Diffusion by @Dango233(@Dango233max) and @apolinario (@multimodalart)
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
 - [vietai/ViT5](https://github.com/vietai/ViT5) - 
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
 - [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
@@ -470,6 +469,7 @@
 
 ## Python 
 
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [timojl/clipseg](https://github.com/timojl/clipseg) - This repository contains the code of the CVPR 2022 paper "Image Segmentation Using Text and Image Prompts".
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
@@ -512,6 +512,7 @@
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [Mathux/TEMOS](https://github.com/Mathux/TEMOS) - Official PyTorch implementation of the paper "TEMOS: Generating diverse human motions from textual descriptions"
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [kojima-takeshi188/zero_shot_cot](https://github.com/kojima-takeshi188/zero_shot_cot) - Prod Env
 - [genforce/genforce](https://github.com/genforce/genforce) - An efficient PyTorch library for deep generative modeling.
 - [THUDM/CogView2](https://github.com/THUDM/CogView2) - official code repo for paper "CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers"
