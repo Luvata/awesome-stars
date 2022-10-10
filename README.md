@@ -206,7 +206,7 @@
 - [LambdaLabsML/lambda-diffusers](https://github.com/LambdaLabsML/lambda-diffusers) - 
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
 - [mshukor/ViCHA](https://github.com/mshukor/ViCHA) - [BMVC22] Official Implementation of ViCHA: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment"
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of CompVis/stable-diffusion features an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, a WebGUI, and multiple features 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
@@ -414,7 +414,7 @@
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models and Score-matching Models, a darkhorse in the field of Generative Models
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
