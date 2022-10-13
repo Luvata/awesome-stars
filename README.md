@@ -378,6 +378,7 @@
 
 ## Lua 
 
+- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
