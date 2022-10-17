@@ -411,6 +411,7 @@
 
 ## Others 
 
+- [KumapowerLIU/FFCLIP](https://github.com/KumapowerLIU/FFCLIP) - One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations. NeurIPS2022.
 - [SamsungLabs/day-to-night](https://github.com/SamsungLabs/day-to-night) - 
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
