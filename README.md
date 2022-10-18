@@ -197,6 +197,7 @@
 
 ## Jupyter Notebook 
 
+- [MinaGhadimiAtigh/hyperbolic_representation_learning](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning) - The repository for Hyperbolic Representation Learning for Computer Vision, ECCV 2022
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - stable diffusion finetuned on weeb stuff
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
