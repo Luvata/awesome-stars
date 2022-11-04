@@ -412,6 +412,7 @@
 
 ## Others 
 
+- [nguyenvulebinh/vietnamese-wav2vec2](https://github.com/nguyenvulebinh/vietnamese-wav2vec2) - Vietnamese self-supervised Wav2vec2 model
 - [KumapowerLIU/FFCLIP](https://github.com/KumapowerLIU/FFCLIP) - One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations. NeurIPS2022.
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
@@ -472,6 +473,7 @@
 
 ## Python 
 
+- [self-distilled-stylegan/self-distilled-internet-photos](https://github.com/self-distilled-stylegan/self-distilled-internet-photos) - 
 - [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
