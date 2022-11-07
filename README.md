@@ -206,7 +206,6 @@
 - [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples) - Deep Learning Examples
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [LambdaLabsML/lambda-diffusers](https://github.com/LambdaLabsML/lambda-diffusers) - 
-- [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
 - [mshukor/ViCHA](https://github.com/mshukor/ViCHA) - [BMVC22] Official Implementation of ViCHA: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment"
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
@@ -385,7 +384,7 @@
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) - A Lua-Neovim plugin that toggles a terminal
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [asmagill/hs._asm.undocumented.spaces](https://github.com/asmagill/hs._asm.undocumented.spaces) - Spaces Module for Hammerspoon
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 
 ## MATLAB 
 
@@ -490,6 +489,7 @@
 - [LeapLabTHU/Pseudo-Q](https://github.com/LeapLabTHU/Pseudo-Q) - [CVPR 2022] Pseudo-Q: Generating Pseudo Language Queries for Visual Grounding
 - [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
 - [matrach/matplotlib-terminal](https://github.com/matrach/matplotlib-terminal) - Matplotlib backend to plot in terminal using matrach/img2unicode
+- [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - 
 - [hlky/sd-enable-textual-inversion](https://github.com/hlky/sd-enable-textual-inversion) - Copy these files to your stable-diffusion to enable text-inversion
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for rapid and reproducible ML experimentation with best practices.  ⚡🔥⚡
 - [ManHieu/download_pretrained_model](https://github.com/ManHieu/download_pretrained_model) - 
