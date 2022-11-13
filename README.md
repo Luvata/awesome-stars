@@ -80,7 +80,6 @@
 - [HiKapok/tf.extra_losses](https://github.com/HiKapok/tf.extra_losses) - Large-Margin Softmax Loss, Angular Softmax Loss, Additive Margin Softmax, ArcFaceLoss And FocalLoss In Tensorflow
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [coccoc/coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer) - high performance tokenizer for Vietnamese language
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## CSS 
@@ -163,7 +162,6 @@
 ## JavaScript 
 
 - [gristlabs/grist-omnibus](https://github.com/gristlabs/grist-omnibus) - an opinionated Grist+Dex+Traefik package for first-time self-hosters
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
 - [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub
@@ -180,15 +178,12 @@
 - [leaflet-extras/leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
 - [jobtalle/Cephalopods](https://github.com/jobtalle/Cephalopods) - Evolving squids through neuroevolution
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
 - [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
-- [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [VSC-FU2019/VSC_FU](https://github.com/VSC-FU2019/VSC_FU) - Vietnamese speech commands for smart home
 - [spark-notebook/spark-notebook](https://github.com/spark-notebook/spark-notebook) - Interactive and Reactive Data Science using Scala and Spark.
 - [pbinggeser/snake-ai](https://github.com/pbinggeser/snake-ai) - Solving the game of Snake with evolution
 - [hereismari/playing-games-with-tfjs](https://github.com/hereismari/playing-games-with-tfjs) - Using DeepLearnJs to play games just using your camera
-- [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 
 ## Julia 
 
@@ -446,7 +441,6 @@
 - [stefan-it/nmt-en-vi](https://github.com/stefan-it/nmt-en-vi) - Neural Machine Translation system for English to Vietnamese (IWSLT'15 English-Vietnamese data)
 - [binhvq/news-corpus](https://github.com/binhvq/news-corpus) - Corpus tiếng việt
 - [mihail911/nlp-library](https://github.com/mihail911/nlp-library) - curated collection of papers for the nlp practitioner 📖👩‍🔬
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans) - An ultra-simplified explanation of design patterns implemented in javascript
 - [snowyukischnee/Chess-RL](https://github.com/snowyukischnee/Chess-RL) - 
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
@@ -457,7 +451,6 @@
 - [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems) - This repository provides state of the art (SoTA) results for all machine learning problems. We do our best to keep this repository up to date.  If you do find a problem's SoTA result is out of date or
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [letientai299/google-interview-university](https://github.com/letientai299/google-interview-university) - A complete daily plan for studying to become a Google software engineer.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
@@ -703,7 +696,6 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [paperswithcode/axcell](https://github.com/paperswithcode/axcell) - Tools for extracting tables and results from Machine Learning papers
 - [wgrathwohl/JEM](https://github.com/wgrathwohl/JEM) - Project site for "Your Classifier is Secretly an Energy-Based Model and You Should Treat it Like One"
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
@@ -837,7 +829,6 @@
 - [lmcinnes/umap](https://github.com/lmcinnes/umap) - Uniform Manifold Approximation and Projection
 - [benedekrozemberczki/AttentionWalk](https://github.com/benedekrozemberczki/AttentionWalk) - A PyTorch Implementation of "Watch Your Step: Learning Node Embeddings via Graph Attention" (NeurIPS 2018).
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [huggingface/naacl_transfer_learning_tutorial](https://github.com/huggingface/naacl_transfer_learning_tutorial) - Repository of code for the tutorial on Transfer Learning in NLP held at NAACL 2019 in Minneapolis, MN, USA
 - [amirgholami/anode](https://github.com/amirgholami/anode) - [IJCAI'19, NeurIPS'19] Anode: Unconditionally Accurate Memory-Efficient Gradients for Neural ODEs
 - [google-research/uda](https://github.com/google-research/uda) - Unsupervised Data Augmentation (UDA)
@@ -850,14 +841,11 @@
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [feedly/transfer-nlp](https://github.com/feedly/transfer-nlp) - NLP library designed for reproducible experimentation management
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [google-research/lottery-ticket-hypothesis](https://github.com/google-research/lottery-ticket-hypothesis) - A reimplementation of "The Lottery Ticket Hypothesis" (Frankle and Carbin) on MNIST.
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [justusschock/shapenet](https://github.com/justusschock/shapenet) - PyTorch implementation of "Super-Realtime Facial Landmark Detection and Shape Fitting by Deep Regression of Shape Model Parameters" predicting facial landmarks with up to 400 FPS
 - [ElegantGod/SSHA](https://github.com/ElegantGod/SSHA) - face detection and alignment
 - [wujiyang/Face_Pytorch](https://github.com/wujiyang/Face_Pytorch) - face recognition algorithms  in pytorch framework, including arcface, cosface, sphereface and so on
 - [nkolkin13/STROTSS](https://github.com/nkolkin13/STROTSS) - Style Transfer by Relaxed Optimal Transport and Self-Similarity (CVPR 2019)
-- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [luckycallor/InsightFace-tensorflow](https://github.com/luckycallor/InsightFace-tensorflow) - Tensoflow implementation of InsightFace (ArcFace: Additive Angular Margin Loss for Deep Face Recognition).
 - [LCorleone/Various-Loss-Function-in-Face-Recognition](https://github.com/LCorleone/Various-Loss-Function-in-Face-Recognition) - Keras implementation of various loss functions in face recognition and visualization on Mnist
@@ -920,7 +908,6 @@
 - [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples) - Simple examples to introduce PyTorch
 - [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learnin
 - [trieutuanvnu/Raspberry-Face-Recognition](https://github.com/trieutuanvnu/Raspberry-Face-Recognition) - Use Python and Open CV to recognize multi face and show the name
-- [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [mbadry1/Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning) - Top 200 deep learning Github repositories sorted by the number of stars.
 - [eriklindernoren/Keras-GAN](https://github.com/eriklindernoren/Keras-GAN) - Keras implementations of Generative Adversarial Networks.
 - [ufoym/deepo](https://github.com/ufoym/deepo) - Setup and customize deep learning environment in seconds.
@@ -965,7 +952,6 @@
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
 - [hbin/top-programming-fonts](https://github.com/hbin/top-programming-fonts) - 
@@ -1008,7 +994,6 @@
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## Vala 
 
@@ -1019,7 +1004,6 @@
 
 - [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 
 ## Vue 
 
