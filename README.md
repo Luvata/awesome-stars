@@ -464,6 +464,7 @@
 
 ## Python 
 
+- [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) - 
 - [self-distilled-stylegan/self-distilled-internet-photos](https://github.com/self-distilled-stylegan/self-distilled-internet-photos) - 
 - [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
