@@ -369,7 +369,7 @@
 
 ## Lex 
 
-- [Yale-LILY/dart](https://github.com/Yale-LILY/dart) - 
+- [Yale-LILY/dart](https://github.com/Yale-LILY/dart) - Dataset for NAACL 2021 paper: "DART: Open-Domain Structured Data Record to Text Generation"
 
 ## Lua 
 
@@ -615,7 +615,6 @@
 - [urvashik/knnlm](https://github.com/urvashik/knnlm) - 
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
-- [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [prigoyal/pytorch_memonger](https://github.com/prigoyal/pytorch_memonger) - Experimental ground for optimizing memory of pytorch models
 - [ngannt21/multi_label](https://github.com/ngannt21/multi_label) - 
 - [naver-ai/relabel_imagenet](https://github.com/naver-ai/relabel_imagenet) - 
