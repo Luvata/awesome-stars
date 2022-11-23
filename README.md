@@ -119,6 +119,7 @@
 
 ## HTML 
 
+- [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
 - [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (use a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
@@ -405,6 +406,8 @@
 
 ## Others 
 
+- [apple/ml-gaudi](https://github.com/apple/ml-gaudi) - 
+- [Anciukevicius/RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion) - 
 - [nguyenvulebinh/vietnamese-wav2vec2](https://github.com/nguyenvulebinh/vietnamese-wav2vec2) - Vietnamese self-supervised Wav2vec2 model
 - [KumapowerLIU/FFCLIP](https://github.com/KumapowerLIU/FFCLIP) - One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations. NeurIPS2022.
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
