@@ -467,6 +467,7 @@
 
 ## Python 
 
+- [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [Fantasy-Studio/Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - 
 - [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) - 
 - [self-distilled-stylegan/self-distilled-internet-photos](https://github.com/self-distilled-stylegan/self-distilled-internet-photos) - 
@@ -971,6 +972,7 @@
 
 ## TeX 
 
+- [fnzhan/MISE](https://github.com/fnzhan/MISE) - Multimodal Image Synthesis and Editing: A Survey [Under Review]
 - [stanfordnlp/cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes) - Course notes for CS224N Winter17
 - [undertheseanlp/slp3-vietnamese](https://github.com/undertheseanlp/slp3-vietnamese) - Speech and Language Processing 3rd edition Vietnamese Translation
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
