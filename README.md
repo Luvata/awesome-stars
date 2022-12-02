@@ -634,6 +634,7 @@
 - [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
 - [facebookresearch/higher](https://github.com/facebookresearch/higher) - higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
 - [daanzu/kaldi-active-grammar](https://github.com/daanzu/kaldi-active-grammar) - Python Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time
 - [microsoft/CodeBERT](https://github.com/microsoft/CodeBERT) - CodeBERT
@@ -957,7 +958,6 @@
 
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
-- [thu-spmi/CAT](https://github.com/thu-spmi/CAT) - A CRF-based ASR Toolkit
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
