@@ -467,6 +467,7 @@
 
 ## Python 
 
+- [microsoft/tutel](https://github.com/microsoft/tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
 - [AlgoHunt/VQRF](https://github.com/AlgoHunt/VQRF) - Official implementation of our arxiv paper "Compressing Volumetric Radiance Fields to 1 MB"
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [Fantasy-Studio/Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - Paint by Example: Exemplar-based Image Editing with Diffusion Models
