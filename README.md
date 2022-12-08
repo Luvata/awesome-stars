@@ -861,7 +861,7 @@
 - [LCorleone/Various-Loss-Function-in-Face-Recognition](https://github.com/LCorleone/Various-Loss-Function-in-Face-Recognition) - Keras implementation of various loss functions in face recognition and visualization on Mnist
 - [iotayo/aivivn-sentiment-svm](https://github.com/iotayo/aivivn-sentiment-svm) - Submission for AIviVN sentiment analysis contest https://www.aivivn.com/contests/1
 - [pytorch/hub](https://github.com/pytorch/hub) - Submission to https://pytorch.org/hub/
-- [YadiraF/PRNet](https://github.com/YadiraF/PRNet) - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018)
+- [yfeng95/PRNet](https://github.com/yfeng95/PRNet) - Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network (ECCV 2018)
 - [clcarwin/sphereface_pytorch](https://github.com/clcarwin/sphereface_pytorch) - A PyTorch Implementation of SphereFace.
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
 - [BloodAxe/pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
