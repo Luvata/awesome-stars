@@ -406,6 +406,7 @@
 
 ## Others 
 
+- [baaivision/Painter](https://github.com/baaivision/Painter) - A Generalist Painter for In-Context Visual Learning (https://arxiv.org/abs/2212.02499)
 - [apple/ml-gaudi](https://github.com/apple/ml-gaudi) - 
 - [Anciukevicius/RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion) - 
 - [nguyenvulebinh/vietnamese-wav2vec2](https://github.com/nguyenvulebinh/vietnamese-wav2vec2) - Vietnamese self-supervised Wav2vec2 model
