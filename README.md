@@ -468,6 +468,7 @@
 
 ## Python 
 
+- [NVlabs/long-video-gan](https://github.com/NVlabs/long-video-gan) - Official PyTorch implementation of LongVideoGAN
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [microsoft/tutel](https://github.com/microsoft/tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
