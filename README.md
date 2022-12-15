@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
@@ -468,6 +469,7 @@
 
 ## Python 
 
+- [sihyun-yu/digan](https://github.com/sihyun-yu/digan) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
 - [NVlabs/long-video-gan](https://github.com/NVlabs/long-video-gan) - Official PyTorch implementation of LongVideoGAN
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
