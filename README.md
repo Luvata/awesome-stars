@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [MinaGhadimiAtigh/hyperbolic_representation_learning](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning) - The repository for Hyperbolic Representation Learning for Computer Vision, ECCV 2022
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -987,6 +988,7 @@
 
 ## TypeScript 
 
+- [Quorafind/Obsidian-Daily-Notes-Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - A plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [vanakat/zotero-bridge](https://github.com/vanakat/zotero-bridge) - Obsidian plugin to integrate with Zotero through ZotServer
