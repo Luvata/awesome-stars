@@ -470,6 +470,8 @@
 
 ## Python 
 
+- [christophschuhmann/improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) - CLIP+MLP Aesthetic Score Predictor
+- [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
 - [sihyun-yu/digan](https://github.com/sihyun-yu/digan) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
 - [NVlabs/long-video-gan](https://github.com/NVlabs/long-video-gan) - Official PyTorch implementation of LongVideoGAN
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
