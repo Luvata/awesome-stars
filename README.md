@@ -234,7 +234,7 @@
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
-- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [Sxela/DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp) - DiscoDiffusion Warp
 - [EleutherAI/vqgan-clip](https://github.com/EleutherAI/vqgan-clip) - 
