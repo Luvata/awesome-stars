@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
 - [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [MinaGhadimiAtigh/hyperbolic_representation_learning](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning) - The repository for Hyperbolic Representation Learning for Computer Vision, ECCV 2022
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
@@ -471,6 +472,8 @@
 
 ## Python 
 
+- [facebookresearch/co3d](https://github.com/facebookresearch/co3d) - Tooling for the Common Objects In 3D dataset.
+- [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [christophschuhmann/improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) - CLIP+MLP Aesthetic Score Predictor
 - [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
 - [sihyun-yu/digan](https://github.com/sihyun-yu/digan) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
