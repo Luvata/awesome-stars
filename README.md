@@ -472,6 +472,7 @@
 
 ## Python 
 
+- [minyoungg/pix2latent](https://github.com/minyoungg/pix2latent) - Code for: Transforming and Projecting Images into Class-conditional Generative Networks
 - [kakaobrain/karlo](https://github.com/kakaobrain/karlo) - 
 - [facebookresearch/co3d](https://github.com/facebookresearch/co3d) - Tooling for the Common Objects In 3D dataset.
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
