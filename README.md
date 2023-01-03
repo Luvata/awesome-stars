@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [tancik/learnit](https://github.com/tancik/learnit) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
 - [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
 - [MinaGhadimiAtigh/hyperbolic_representation_learning](https://github.com/MinaGhadimiAtigh/hyperbolic_representation_learning) - The repository for Hyperbolic Representation Learning for Computer Vision, ECCV 2022
