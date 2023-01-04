@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [tancik/learnit](https://github.com/tancik/learnit) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
 - [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
@@ -473,6 +474,8 @@
 
 ## Python 
 
+- [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
+- [CompVis/brushstroke-parameterized-style-transfer](https://github.com/CompVis/brushstroke-parameterized-style-transfer) - TensorFlow implementation of our CVPR 2021 Paper "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes".
 - [minyoungg/pix2latent](https://github.com/minyoungg/pix2latent) - Code for: Transforming and Projecting Images into Class-conditional Generative Networks
 - [kakaobrain/karlo](https://github.com/kakaobrain/karlo) - 
 - [facebookresearch/co3d](https://github.com/facebookresearch/co3d) - Tooling for the Common Objects In 3D dataset.
