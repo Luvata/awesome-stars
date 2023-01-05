@@ -207,7 +207,7 @@
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [LambdaLabsML/lambda-diffusers](https://github.com/LambdaLabsML/lambda-diffusers) - 
 - [mshukor/ViCHA](https://github.com/mshukor/ViCHA) - [BMVC22] Official Implementation of ViCHA: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment"
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features an
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
 - [rinongal/textual_inversion](https://github.com/rinongal/textual_inversion) - 
 - [switchablenorms/DeepFashion2](https://github.com/switchablenorms/DeepFashion2) - DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf
