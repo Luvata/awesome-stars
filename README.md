@@ -98,7 +98,7 @@
 
 ## Cython 
 
-- [mrjbq7/ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
+- [TA-Lib/ta-lib-python](https://github.com/TA-Lib/ta-lib-python) - Python wrapper for TA-Lib (http://ta-lib.org/).
 
 ## Dockerfile 
 
@@ -643,7 +643,7 @@
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [prigoyal/pytorch_memonger](https://github.com/prigoyal/pytorch_memonger) - Experimental ground for optimizing memory of pytorch models
-- [ngannt21/multi_label](https://github.com/ngannt21/multi_label) - 
+- [ngan-nt/multi_label](https://github.com/ngan-nt/multi_label) - 
 - [naver-ai/relabel_imagenet](https://github.com/naver-ai/relabel_imagenet) - 
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [mrtzh/unbuch](https://github.com/mrtzh/unbuch) - Compile markdown into an html and pdf book based on pandoc.
