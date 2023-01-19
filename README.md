@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [tancik/learnit](https://github.com/tancik/learnit) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
