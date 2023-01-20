@@ -194,7 +194,6 @@
 
 ## Jupyter Notebook 
 
-- [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [tancik/learnit](https://github.com/tancik/learnit) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
@@ -476,6 +475,7 @@
 
 ## Python 
 
+- [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
 - [CompVis/brushstroke-parameterized-style-transfer](https://github.com/CompVis/brushstroke-parameterized-style-transfer) - TensorFlow implementation of our CVPR 2021 Paper "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes".
 - [minyoungg/pix2latent](https://github.com/minyoungg/pix2latent) - Code for: Transforming and Projecting Images into Class-conditional Generative Networks
