@@ -549,7 +549,7 @@
 - [ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop) - Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [dribnet/pixray](https://github.com/dribnet/pixray) - neural image generation
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation.
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation. The repo for ICLR2023 paper "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers"
 - [preddy5/Im2Vec](https://github.com/preddy5/Im2Vec) - [CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - 
@@ -666,7 +666,7 @@
 - [ydataai/pandas-profiling](https://github.com/ydataai/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [LCAV/pyroomacoustics](https://github.com/LCAV/pyroomacoustics) - Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.
 - [airsplay/vokenization](https://github.com/airsplay/vokenization) - PyTorch code for EMNLP 2020 Paper "Vokenization: Improving Language Understanding with Visual Supervision"
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) - 
 - [automl/auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn
 - [NVlabs/metfaces-dataset](https://github.com/NVlabs/metfaces-dataset) - 
