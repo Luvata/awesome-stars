@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
 - [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
@@ -648,7 +649,7 @@
 - [naver-ai/relabel_imagenet](https://github.com/naver-ai/relabel_imagenet) - 
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [mrtzh/unbuch](https://github.com/mrtzh/unbuch) - Compile markdown into an html and pdf book based on pandoc.
-- [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
+- [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
 - [MilaNLProc/contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models) - A python package to run contextualized topic modeling. CTMs combine contextualized embeddings (e.g., BERT) with topic models to get coherent topics. Published at EACL and ACL 2021.
 - [facebookresearch/deit](https://github.com/facebookresearch/deit) - Official DeiT repository
 - [Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
