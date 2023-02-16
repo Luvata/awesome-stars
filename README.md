@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
 - [salesforce/EDICT](https://github.com/salesforce/EDICT) - 
@@ -473,6 +474,7 @@
 
 ## Python 
 
+- [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
 - [CompVis/brushstroke-parameterized-style-transfer](https://github.com/CompVis/brushstroke-parameterized-style-transfer) - TensorFlow implementation of our CVPR 2021 Paper "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes".
@@ -843,7 +845,7 @@
 - [IBM/pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq) - An open source framework for seq2seq models in PyTorch.
 - [iotayo/aivivn-tone](https://github.com/iotayo/aivivn-tone) - Submission for AIviVN Vietnamese diacritics restoration contest https://www.aivivn.com/contests/3
 - [dinhquy94/face-antispoofing-using-mobileNet](https://github.com/dinhquy94/face-antispoofing-using-mobileNet) - Face anti-spoofing using MobileNet
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - Data science on data without acquiring a copy
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [huangwb/AS-GCN](https://github.com/huangwb/AS-GCN) - tensorflow-as-gcn
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
