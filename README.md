@@ -194,6 +194,7 @@
 
 ## Jupyter Notebook 
 
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - pygwalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
@@ -739,7 +740,7 @@
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 - [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [SpaceNetChallenge/RoadDetector](https://github.com/SpaceNetChallenge/RoadDetector) - Winning Solutions from SpaceNet Road Detection and Routing Challenge
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [minhnq97/speech_language_processing](https://github.com/minhnq97/speech_language_processing) - Implement algorithms and exercises from "Speech and Language Processing" by Daniel Jurafsky, James H. Martin
 - [yenchenlin/nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch) - A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.
 - [karpathy/covid-sanity](https://github.com/karpathy/covid-sanity) - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19
@@ -867,7 +868,7 @@
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [suicao/Vietnamese-Tone-Prediction-with-Transformer-Decoder](https://github.com/suicao/Vietnamese-Tone-Prediction-with-Transformer-Decoder) - Solution for AIviVN's Vietnamese tone prediction competition
 - [zsef123/EfficientNets-PyTorch](https://github.com/zsef123/EfficientNets-PyTorch) - A PyTorch implementation of " EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."
-- [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
 - [seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL) - Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
