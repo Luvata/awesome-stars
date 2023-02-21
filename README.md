@@ -194,7 +194,7 @@
 
 ## Jupyter Notebook 
 
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - pygwalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
@@ -585,7 +585,7 @@
 - [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs  https://arxiv.org/abs/2112.07804
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPU
 - [shawwn/tpunicorn](https://github.com/shawwn/tpunicorn) - Babysit your preemptible TPUs
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered transforms =&gt; neural networks in JAX. https://docs.kidger.site/equinox/
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks in JAX. https://docs.kidger.site/equinox/
 - [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text) - Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic
 - [crowsonkb/guided-diffusion](https://github.com/crowsonkb/guided-diffusion) - 
 - [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal) - TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.
