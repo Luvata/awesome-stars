@@ -519,7 +519,7 @@
 - [ManHieu/download_pretrained_model](https://github.com/ManHieu/download_pretrained_model) - 
 - [google-research/lm-extraction-benchmark](https://github.com/google-research/lm-extraction-benchmark) - 
 - [YoadTew/zero-shot-video-to-text](https://github.com/YoadTew/zero-shot-video-to-text) - 
-- [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for Crawling@Home's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
+- [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for LAION's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
 - [Aleph-Alpha/magma](https://github.com/Aleph-Alpha/magma) - MAGMA - a GPT-style multimodal model that can understand any combination of images and language. NOTE: The freely available model from this repo is only a demo. For the latest multimodal and multiling
 - [cambridgeltl/visual-spatial-reasoning](https://github.com/cambridgeltl/visual-spatial-reasoning) - VSR: A probing benchmark for spatial undersranding of vision-language models.
 - [nv-tlabs/datasetGAN_release](https://github.com/nv-tlabs/datasetGAN_release) - 
