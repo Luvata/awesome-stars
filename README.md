@@ -143,7 +143,7 @@
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [twitter/scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 - [informramiz/opencv-face-recognition-python](https://github.com/informramiz/opencv-face-recognition-python) - Face Recognition using OpenCV and Python.
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme.
+- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [EgorKulikov/acm_profiles](https://github.com/EgorKulikov/acm_profiles) - 
 
 ## Haskell 
@@ -420,7 +420,7 @@
 - [KumapowerLIU/FFCLIP](https://github.com/KumapowerLIU/FFCLIP) - One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations. NeurIPS2022.
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
-- [amusi/CVPR2022-Papers-with-Code](https://github.com/amusi/CVPR2022-Papers-with-Code) - CVPR 2022 论文和开源项目合集
+- [amusi/CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
 - [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
@@ -475,6 +475,7 @@
 
 ## Python 
 
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
