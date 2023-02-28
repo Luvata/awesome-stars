@@ -413,7 +413,7 @@
 ## Others 
 
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
-- [baaivision/Painter](https://github.com/baaivision/Painter) - A Generalist Painter for In-Context Visual Learning (https://arxiv.org/abs/2212.02499)
+- [baaivision/Painter](https://github.com/baaivision/Painter) - [CVPR 2023] A Generalist Painter for In-Context Visual Learning (https://arxiv.org/abs/2212.02499)
 - [apple/ml-gaudi](https://github.com/apple/ml-gaudi) - 
 - [Anciukevicius/RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion) - 
 - [nguyenvulebinh/vietnamese-wav2vec2](https://github.com/nguyenvulebinh/vietnamese-wav2vec2) - Vietnamese self-supervised Wav2vec2 model
@@ -492,7 +492,7 @@
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [microsoft/tutel](https://github.com/microsoft/tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
-- [AlgoHunt/VQRF](https://github.com/AlgoHunt/VQRF) - Official implementation of our arxiv paper "Compressing Volumetric Radiance Fields to 1 MB"
+- [AlgoHunt/VQRF](https://github.com/AlgoHunt/VQRF) - Official implementation of our CVPR 2023 paper "Compressing Volumetric Radiance Fields to 1 MB"
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [Fantasy-Studio/Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - Paint by Example: Exemplar-based Image Editing with Diffusion Models
 - [AutodeskAILab/Clip-Forge](https://github.com/AutodeskAILab/Clip-Forge) - 
