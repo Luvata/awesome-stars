@@ -516,7 +516,7 @@
 - [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
 - [matrach/matplotlib-terminal](https://github.com/matrach/matplotlib-terminal) - Matplotlib backend to plot in terminal using matrach/img2unicode
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP
-- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template ML experimentation with best practices.  ⚡🔥⚡
+- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation with best practices.  ⚡🔥⚡
 - [ManHieu/download_pretrained_model](https://github.com/ManHieu/download_pretrained_model) - 
 - [google-research/lm-extraction-benchmark](https://github.com/google-research/lm-extraction-benchmark) - 
 - [YoadTew/zero-shot-video-to-text](https://github.com/YoadTew/zero-shot-video-to-text) - 
