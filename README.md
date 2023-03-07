@@ -475,6 +475,7 @@
 
 ## Python 
 
+- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [JonasGeiping/poisoning-gradient-matching](https://github.com/JonasGeiping/poisoning-gradient-matching) - Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
@@ -516,7 +517,7 @@
 - [omerbt/Text2LIVE](https://github.com/omerbt/Text2LIVE) - Official Pytorch Implementation for "Text2LIVE: Text-Driven Layered Image and Video Editing" (ECCV 2022 Oral)
 - [matrach/matplotlib-terminal](https://github.com/matrach/matplotlib-terminal) - Matplotlib backend to plot in terminal using matrach/img2unicode
 - [pharmapsychotic/clip-interrogator](https://github.com/pharmapsychotic/clip-interrogator) - Image to prompt with BLIP and CLIP
-- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation with best practices.  ⚡🔥⚡
+- [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
 - [ManHieu/download_pretrained_model](https://github.com/ManHieu/download_pretrained_model) - 
 - [google-research/lm-extraction-benchmark](https://github.com/google-research/lm-extraction-benchmark) - 
 - [YoadTew/zero-shot-video-to-text](https://github.com/YoadTew/zero-shot-video-to-text) - 
@@ -689,7 +690,7 @@
 - [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [IlyaGusev/summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The go
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
 - [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - [adjidieng/ETM](https://github.com/adjidieng/ETM) - Topic Modeling in Embedding Spaces
