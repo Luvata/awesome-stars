@@ -475,6 +475,7 @@
 
 ## Python 
 
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - VisualChatGPT
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [JonasGeiping/poisoning-gradient-matching](https://github.com/JonasGeiping/poisoning-gradient-matching) - Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
