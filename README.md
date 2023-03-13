@@ -195,7 +195,7 @@
 
 ## Jupyter Notebook 
 
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [williamyang1991/StyleGANEX](https://github.com/williamyang1991/StyleGANEX) - 
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
@@ -321,6 +321,7 @@
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [omarsar/pytorch_notebooks](https://github.com/omarsar/pytorch_notebooks) - A collection of PyTorch notebooks for learning and practicing deep learning
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [ducha-aiki/pytorch-sift](https://github.com/ducha-aiki/pytorch-sift) - PyTorch implementation of SIFT descriptor
 - [jupyter-guide/ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter) - Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
 - [thucdx/ml-uw-coursera](https://github.com/thucdx/ml-uw-coursera) - 4-course machine learning specialization by University Of Washington on Coursera
@@ -476,10 +477,12 @@
 
 ## Python 
 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [JonasGeiping/poisoning-gradient-matching](https://github.com/JonasGeiping/poisoning-gradient-matching) - Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
@@ -850,7 +853,6 @@
 - [IBM/pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq) - An open source framework for seq2seq models in PyTorch.
 - [iotayo/aivivn-tone](https://github.com/iotayo/aivivn-tone) - Submission for AIviVN Vietnamese diacritics restoration contest https://www.aivivn.com/contests/3
 - [dinhquy94/face-antispoofing-using-mobileNet](https://github.com/dinhquy94/face-antispoofing-using-mobileNet) - Face anti-spoofing using MobileNet
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [huangwb/AS-GCN](https://github.com/huangwb/AS-GCN) - tensorflow-as-gcn
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
