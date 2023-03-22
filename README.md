@@ -208,6 +208,7 @@
 - [LambdaLabsML/examples](https://github.com/LambdaLabsML/examples) - Deep Learning Examples
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [LambdaLabsML/lambda-diffusers](https://github.com/LambdaLabsML/lambda-diffusers) - 
+- [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
 - [mshukor/ViCHA](https://github.com/mshukor/ViCHA) - [BMVC22] Official Implementation of ViCHA: "Efficient Vision-Language Pretraining with Visual Concepts and Hierarchical Alignment"
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
 - [nicolai256/Stable-textual-inversion_win](https://github.com/nicolai256/Stable-textual-inversion_win) - 
@@ -515,7 +516,6 @@
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
 - [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
-- [ChenghaoMou/text-dedup](https://github.com/ChenghaoMou/text-dedup) - All-in-one text de-duplication
 - [SamsungLabs/day-to-night](https://github.com/SamsungLabs/day-to-night) - 
 - [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
 - [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
@@ -532,7 +532,7 @@
 - [YoadTew/zero-shot-video-to-text](https://github.com/YoadTew/zero-shot-video-to-text) - 
 - [TheoCoombes/crawlingathome](https://github.com/TheoCoombes/crawlingathome) - A client library for LAION's effort to filter CommonCrawl with CLIP, building a large scale image-text dataset.
 - [Aleph-Alpha/magma](https://github.com/Aleph-Alpha/magma) - MAGMA - a GPT-style multimodal model that can understand any combination of images and language. NOTE: The freely available model from this repo is only a demo. For the latest multimodal and multiling
-- [cambridgeltl/visual-spatial-reasoning](https://github.com/cambridgeltl/visual-spatial-reasoning) - VSR: A probing benchmark for spatial undersranding of vision-language models.
+- [cambridgeltl/visual-spatial-reasoning](https://github.com/cambridgeltl/visual-spatial-reasoning) - [TACL 2023] VSR: A probing benchmark for spatial undersranding of vision-language models.
 - [nv-tlabs/datasetGAN_release](https://github.com/nv-tlabs/datasetGAN_release) - 
 - [Hxyou/MSCLIP](https://github.com/Hxyou/MSCLIP) - Official Code of ECCV 2022 paper MS-CLIP
 - [microsoft/VideoX](https://github.com/microsoft/VideoX) - VideoX: a collection of video cross-modal models
@@ -860,7 +860,7 @@
 - [huangwb/AS-GCN](https://github.com/huangwb/AS-GCN) - tensorflow-as-gcn
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
-- [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net) - Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral)
+- [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net) - :couple: Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral) :couple:
 - [facebookresearch/low-shot-shrink-hallucinate](https://github.com/facebookresearch/low-shot-shrink-hallucinate) - Presenting Low-shot Visual Recognition by Shrinking and Hallucinating Features
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [ndrplz/google-drive-downloader](https://github.com/ndrplz/google-drive-downloader) - Minimal class to download shared files from Google Drive.
