@@ -415,7 +415,6 @@
 ## Others 
 
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
-- [baaivision/Painter](https://github.com/baaivision/Painter) - [CVPR 2023] A Generalist Painter for In-Context Visual Learning (https://arxiv.org/abs/2212.02499)
 - [apple/ml-gaudi](https://github.com/apple/ml-gaudi) - 
 - [Anciukevicius/RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion) - 
 - [nguyenvulebinh/vietnamese-wav2vec2](https://github.com/nguyenvulebinh/vietnamese-wav2vec2) - Vietnamese self-supervised Wav2vec2 model
@@ -500,6 +499,7 @@
 - [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
 - [sihyun-yu/digan](https://github.com/sihyun-yu/digan) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
 - [NVlabs/long-video-gan](https://github.com/NVlabs/long-video-gan) - Official PyTorch implementation of LongVideoGAN
+- [baaivision/Painter](https://github.com/baaivision/Painter) - [CVPR 2023] A Generalist Painter for In-Context Visual Learning (https://arxiv.org/abs/2212.02499)
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [microsoft/tutel](https://github.com/microsoft/tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
