@@ -125,6 +125,7 @@
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
 - [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (use a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
+- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
 - [lennes/spect](https://github.com/lennes/spect) - SpeCT - Speech Corpus Toolkit for Praat. Documentation: https://lennes.github.io/spect/
@@ -424,7 +425,6 @@
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
-- [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
@@ -477,6 +477,8 @@
 
 ## Python 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+- [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
 - [VinAIResearch/Anti-DreamBooth](https://github.com/VinAIResearch/Anti-DreamBooth) - Anti-DreamBooth: Protecting users from personalized text-to-image synthesis
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [JD-P/cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion) - CLOOB Conditioned Latent Diffusion training and inference code
@@ -743,7 +745,7 @@
 - [paperswithcode/axcell](https://github.com/paperswithcode/axcell) - Tools for extracting tables and results from Machine Learning papers
 - [wgrathwohl/JEM](https://github.com/wgrathwohl/JEM) - Project site for "Your Classifier is Secretly an Energy-Based Model and You Should Treat it Like One"
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
-- [kornia/kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library
+- [kornia/kornia](https://github.com/kornia/kornia) - Differentiable Computer Vision Library
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
