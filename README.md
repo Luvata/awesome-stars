@@ -477,6 +477,7 @@
 
 ## Python 
 
+- [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - The repository for the largest and most comprehensive empirical study of visual foundation models for Embodied AI (EAI).
 - [czczup/ViT-Adapter](https://github.com/czczup/ViT-Adapter) - [ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions
 - [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
