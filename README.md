@@ -477,6 +477,8 @@
 
 ## Python 
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - The repository for the largest and most comprehensive empirical study of visual foundation models for Embodied AI (EAI).
 - [czczup/ViT-Adapter](https://github.com/czczup/ViT-Adapter) - [ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions
 - [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
