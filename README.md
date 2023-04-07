@@ -173,7 +173,7 @@
 - [amitness/papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [GitMurf/roam-highlighter](https://github.com/GitMurf/roam-highlighter) - Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes.
-- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [victordibia/neuralqa](https://github.com/victordibia/neuralqa) - NeuralQA: A Usable Library for Question Answering on Large Datasets with BERT
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [richardanaya/tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
@@ -507,9 +507,9 @@
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [christophschuhmann/improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) - CLIP+MLP Aesthetic Score Predictor
 - [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
-- [sihyun-yu/digan](https://github.com/sihyun-yu/digan) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
+- [sihyun-yu/DIGAN](https://github.com/sihyun-yu/DIGAN) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
 - [NVlabs/long-video-gan](https://github.com/NVlabs/long-video-gan) - Official PyTorch implementation of LongVideoGAN
-- [baaivision/Painter](https://github.com/baaivision/Painter) - [CVPR 2023] A Generalist Painter for In-Context Visual Learning (https://arxiv.org/abs/2212.02499)
+- [baaivision/Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
 - [microsoft/tutel](https://github.com/microsoft/tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
