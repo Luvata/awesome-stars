@@ -480,6 +480,8 @@
 
 ## Python 
 
+- [baegwangbin/MaGNet](https://github.com/baegwangbin/MaGNet) - (CVPR 2022 - oral) Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry
+- [compphoto/BoostYourOwnDepth](https://github.com/compphoto/BoostYourOwnDepth) - Apply our monocular depth boosting to your own network!
 - [PruneTruong/DenseMatching](https://github.com/PruneTruong/DenseMatching) - Dense matching library based on PyTorch
 - [facebookresearch/omnivore](https://github.com/facebookresearch/omnivore) - Omnivore: A Single Model for Many Visual Modalities
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
