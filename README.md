@@ -197,10 +197,12 @@
 
 ## Jupyter Notebook 
 
+- [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v1
 - [jmfacil/camconvs](https://github.com/jmfacil/camconvs) - Code for the CVPR paper "CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth"
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [williamyang1991/StyleGANEX](https://github.com/williamyang1991/StyleGANEX) - StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces
+- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
@@ -496,7 +498,6 @@
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [JonasGeiping/poisoning-gradient-matching](https://github.com/JonasGeiping/poisoning-gradient-matching) - Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
@@ -854,7 +855,7 @@
 - [ngxbac/Kaggle-Jigsaw](https://github.com/ngxbac/Kaggle-Jigsaw) - 
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) - Pre-trained Word2Vec models for Vietnamese
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [RTIInternational/gobbli](https://github.com/RTIInternational/gobbli) - Deep learning with text doesn't have to be scary.
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [DagnyT/hardnet](https://github.com/DagnyT/hardnet) - Hardnet descriptor model - "Working hard to know your neighbor's margins:  Local descriptor learning loss"
