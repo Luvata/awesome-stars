@@ -427,7 +427,7 @@
 - [Anciukevicius/RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion) - 
 - [nguyenvulebinh/vietnamese-wav2vec2](https://github.com/nguyenvulebinh/vietnamese-wav2vec2) - Vietnamese self-supervised Wav2vec2 model
 - [KumapowerLIU/FFCLIP](https://github.com/KumapowerLIU/FFCLIP) - One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations. NeurIPS2022.
-- [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations
+- [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations (ICCV 2021)
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2023-Papers-with-Code](https://github.com/amusi/CVPR2023-Papers-with-Code) - CVPR 2023 论文和开源项目合集
 - [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
