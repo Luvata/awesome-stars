@@ -343,7 +343,6 @@
 - [udacity/deep-learning-v2-pytorch](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program https://www.udacity.com/course/deep-learning-nanodegree--nd101
 - [udacity/private-ai](https://github.com/udacity/private-ai) - Repo for Udacity's Secure & Private AI course
 - [tensorflow/tpu](https://github.com/tensorflow/tpu) - Reference models and tools for Cloud TPUs.
-- [chiphuyen/MetroTwitter](https://github.com/chiphuyen/MetroTwitter) - What Twitter reveals about the differences between cities and the monoculture of the Bay Area
 - [lehoangnam040/Deep-Learning-with-Python-books](https://github.com/lehoangnam040/Deep-Learning-with-Python-books) - Doing example of book "Deep learning with Python".
 - [autocarclub/ACC](https://github.com/autocarclub/ACC) - This is the storage of all the code of Autonomous Car Club in FPT university
 - [timsainb/tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) - Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.
