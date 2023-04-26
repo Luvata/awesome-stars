@@ -63,7 +63,7 @@
 - [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
+- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
@@ -82,7 +82,6 @@
 - [HiKapok/tf.extra_losses](https://github.com/HiKapok/tf.extra_losses) - Large-Margin Softmax Loss, Angular Softmax Loss, Additive Margin Softmax, ArcFaceLoss And FocalLoss In Tensorflow
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [coccoc/coccoc-tokenizer](https://github.com/coccoc/coccoc-tokenizer) - high performance tokenizer for Vietnamese language
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## CSS 
 
@@ -482,6 +481,7 @@
 
 ## Python 
 
+- [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [baegwangbin/MaGNet](https://github.com/baegwangbin/MaGNet) - (CVPR 2022 - oral) Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry
 - [compphoto/BoostYourOwnDepth](https://github.com/compphoto/BoostYourOwnDepth) - Apply our monocular depth boosting to your own network!
@@ -979,6 +979,7 @@
 - [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [google/seq2seq](https://github.com/google/seq2seq) - A general-purpose encoder-decoder framework for Tensorflow
 - [humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning) - An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## Ruby 
 
