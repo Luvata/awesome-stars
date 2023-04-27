@@ -481,6 +481,7 @@
 
 ## Python 
 
+- [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [baegwangbin/MaGNet](https://github.com/baegwangbin/MaGNet) - (CVPR 2022 - oral) Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry
