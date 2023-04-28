@@ -1029,7 +1029,7 @@
 
 ## TeX 
 
-- [fnzhan/MISE](https://github.com/fnzhan/MISE) - Multimodal Image Synthesis and Editing: A Survey [Under Review]
+- [fnzhan/MISE](https://github.com/fnzhan/MISE) - Multimodal Image Synthesis and Editing: A Survey
 - [stanfordnlp/cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes) - Course notes for CS224N Winter17
 - [undertheseanlp/slp3-vietnamese](https://github.com/undertheseanlp/slp3-vietnamese) - Speech and Language Processing 3rd edition Vietnamese Translation
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
