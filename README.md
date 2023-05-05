@@ -528,7 +528,7 @@
 - [self-distilled-stylegan/self-distilled-internet-photos](https://github.com/self-distilled-stylegan/self-distilled-internet-photos) - 
 - [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
-- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
+- [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
 - [timojl/clipseg](https://github.com/timojl/clipseg) - This repository contains the code of the CVPR 2022 paper "Image Segmentation Using Text and Image Prompts".
 - [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - stable diffusion finetuned on weeb stuff
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -657,7 +657,7 @@
 - [shawwn/scrap](https://github.com/shawwn/scrap) - Nearly a thousand bash and python scripts I've written over the years.
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [DeNA/HandyRL](https://github.com/DeNA/HandyRL) - HandyRL is a handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments.
-- [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - 
+- [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
 - [vietai/mTet](https://github.com/vietai/mTet) - MTet: Multi-domain Translation for English and Vietnamese
 - [fsoft-ailab/Poem-Generator](https://github.com/fsoft-ailab/Poem-Generator) - 
 - [nguyenvulebinh/extractive-qa-mrc](https://github.com/nguyenvulebinh/extractive-qa-mrc) - Machine Reading Comprehension special for the Vietnamese language
