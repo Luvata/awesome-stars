@@ -60,6 +60,7 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -85,6 +86,7 @@
 
 ## CSS 
 
+- [thuanz123/thuanz123.github.io](https://github.com/thuanz123/thuanz123.github.io) - 
 - [Jekyll-Garden/jekyll-garden.github.io](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A Digital Garden Theme for Jekyll. Jekyll Garden lets you create a static HTML version of your markdown notes and publish via Github pages. Made for Obsidian users!
 - [Xe/Xess](https://github.com/Xe/Xess) - My minimal Gruvbox CSS file I've been keeping multiple places
 - [deepgenerativemodels/notes](https://github.com/deepgenerativemodels/notes) - Course notes
@@ -480,6 +482,7 @@
 
 ## Python 
 
+- [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
@@ -493,7 +496,6 @@
 - [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - The repository for the largest and most comprehensive empirical study of visual foundation models for Embodied AI (EAI).
 - [czczup/ViT-Adapter](https://github.com/czczup/ViT-Adapter) - [ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions
 - [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [VinAIResearch/Anti-DreamBooth](https://github.com/VinAIResearch/Anti-DreamBooth) - Anti-DreamBooth: Protecting users from personalized text-to-image synthesis
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [JD-P/cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion) - CLOOB Conditioned Latent Diffusion training and inference code
