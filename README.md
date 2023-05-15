@@ -482,6 +482,7 @@
 
 ## Python 
 
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation"
 - [zhyever/Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) - Monocular Depth Estimation Toolbox based on MMSegmentation.
