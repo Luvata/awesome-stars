@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [LeeDongYeun/FixNoise](https://github.com/LeeDongYeun/FixNoise) - Official Pytorch Implementation for "Fix the Noise: Disentangling Source Feature for Controllable Domain Translation" (CVPR 2023, CVPRW 2022 Best paper)
 - [FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for multiple languages!
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v1
@@ -330,6 +331,7 @@
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) - Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [omarsar/pytorch_notebooks](https://github.com/omarsar/pytorch_notebooks) - A collection of PyTorch notebooks for learning and practicing deep learning
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [ducha-aiki/pytorch-sift](https://github.com/ducha-aiki/pytorch-sift) - PyTorch implementation of SIFT descriptor
 - [jupyter-guide/ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter) - Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
 - [thucdx/ml-uw-coursera](https://github.com/thucdx/ml-uw-coursera) - 4-course machine learning specialization by University Of Washington on Coursera
@@ -482,6 +484,7 @@
 
 ## Python 
 
+- [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation"
@@ -882,7 +885,6 @@
 - [IBM/pytorch-seq2seq](https://github.com/IBM/pytorch-seq2seq) - An open source framework for seq2seq models in PyTorch.
 - [iotayo/aivivn-tone](https://github.com/iotayo/aivivn-tone) - Submission for AIviVN Vietnamese diacritics restoration contest https://www.aivivn.com/contests/3
 - [dinhquy94/face-antispoofing-using-mobileNet](https://github.com/dinhquy94/face-antispoofing-using-mobileNet) - Face anti-spoofing using MobileNet
-- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - data science on data without acquiring a copy
 - [huangwb/AS-GCN](https://github.com/huangwb/AS-GCN) - tensorflow-as-gcn
 - [tensorpack/tensorpack](https://github.com/tensorpack/tensorpack) - A Neural Net Training Interface on TensorFlow, with focus on speed + flexibility
 - [baidu-research/NCRF](https://github.com/baidu-research/NCRF) - Cancer metastasis detection with neural conditional random field (NCRF)
