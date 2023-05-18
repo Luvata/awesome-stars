@@ -659,7 +659,7 @@
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [TurkuNLP/register-labeling](https://github.com/TurkuNLP/register-labeling) - 
 - [ai-forever/Real-ESRGAN](https://github.com/ai-forever/Real-ESRGAN) - PyTorch implementation of Real-ESRGAN model
-- [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Code for CodeT5: a new code-aware pre-trained encoder-decoder model.
+- [salesforce/CodeT5](https://github.com/salesforce/CodeT5) - Home of CodeT5: Open Code LLMs for Code Understanding and Generation
 - [allenai/scholarphi](https://github.com/allenai/scholarphi) - An interactive PDF reader.
 - [justinpinkney/awesome-pretrained-stylegan2](https://github.com/justinpinkney/awesome-pretrained-stylegan2) - A collection of pre-trained StyleGAN 2 models to download
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
