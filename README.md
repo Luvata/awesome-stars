@@ -485,6 +485,8 @@
 
 ## Python 
 
+- [facebookresearch/LaViLa](https://github.com/facebookresearch/LaViLa) - Code release for "Learning Video Representations from Large Language Models"
+- [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - VLPart: Going Denser with Open-Vocabulary Part Segmentation
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
@@ -544,7 +546,7 @@
 - [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - stable diffusion finetuned on weeb stuff
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [patil-suraj/stable-diffusion-jax](https://github.com/patil-suraj/stable-diffusion-jax) - 
-- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [google/jaxtyping](https://github.com/google/jaxtyping) - Type annotations and runtime checking for shape and dtype of JAX/NumPy/PyTorch/etc. arrays.
 - [SamsungLabs/day-to-night](https://github.com/SamsungLabs/day-to-night) - 
 - [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset) - COYO-700M: Large-scale Image-Text Pair Dataset
 - [crowsonkb/k-diffusion](https://github.com/crowsonkb/k-diffusion) - Karras et al. (2022) diffusion models for PyTorch
