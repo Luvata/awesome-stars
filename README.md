@@ -486,6 +486,8 @@
 
 ## Python 
 
+- [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
+- [Rassibassi/mediapipeDemos](https://github.com/Rassibassi/mediapipeDemos) - Real-time Python demos of google mediapipe
 - [VinAIResearch/QC-StyleGAN](https://github.com/VinAIResearch/QC-StyleGAN) - QC-StyleGAN - Quality Controllable Image Generation and Manipulation (NeurIPS 2022)
 - [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - [CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
