@@ -424,6 +424,8 @@
 
 ## Others 
 
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
+- [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [apple/ml-gaudi](https://github.com/apple/ml-gaudi) - 
@@ -492,7 +494,7 @@
 - [VinAIResearch/QC-StyleGAN](https://github.com/VinAIResearch/QC-StyleGAN) - QC-StyleGAN - Quality Controllable Image Generation and Manipulation (NeurIPS 2022)
 - [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - [CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
-- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, 
 - [facebookresearch/LaViLa](https://github.com/facebookresearch/LaViLa) - Code release for "Learning Video Representations from Large Language Models"
 - [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - VLPart: Going Denser with Open-Vocabulary Part Segmentation
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
@@ -515,7 +517,7 @@
 - [czczup/ViT-Adapter](https://github.com/czczup/ViT-Adapter) - [ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions
 - [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
 - [VinAIResearch/Anti-DreamBooth](https://github.com/VinAIResearch/Anti-DreamBooth) - Anti-DreamBooth: Protecting users from personalized text-to-image synthesis
-- [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
+- [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [JD-P/cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion) - CLOOB Conditioned Latent Diffusion training and inference code
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
