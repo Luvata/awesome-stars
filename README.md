@@ -538,7 +538,7 @@
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) - PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [christophschuhmann/improved-aesthetic-predictor](https://github.com/christophschuhmann/improved-aesthetic-predictor) - CLIP+MLP Aesthetic Score Predictor
 - [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) - FILM: Frame Interpolation for Large Motion, In ECCV 2022.
-- [sihyun-yu/DIGAN](https://github.com/sihyun-yu/DIGAN) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
+- [sihyun-yu/digan](https://github.com/sihyun-yu/digan) - Official PyTorch implementation of Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks (ICLR 2022).
 - [NVlabs/long-video-gan](https://github.com/NVlabs/long-video-gan) - Official PyTorch implementation of LongVideoGAN
 - [baaivision/Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
