@@ -235,7 +235,7 @@
 - [dmarx/Multi-Modal-Comparators](https://github.com/dmarx/Multi-Modal-Comparators) - Unified API to facilitate usage of pre-trained "perceptor" models, a la CLIP
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
-- [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - [ICLR'23] PyTorch code & notebooks to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
+- [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - [ICLR'23] Code to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
 - [deepmind/arnheim](https://github.com/deepmind/arnheim) - 
 - [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
@@ -488,6 +488,7 @@
 
 ## Python 
 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
 - [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
 - [Rassibassi/mediapipeDemos](https://github.com/Rassibassi/mediapipeDemos) - Real-time Python demos of google mediapipe
