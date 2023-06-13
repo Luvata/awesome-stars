@@ -1014,6 +1014,7 @@
 
 ## Rust 
 
+- [jameslittle230/stork](https://github.com/jameslittle230/stork) - 🔎 Impossibly fast web search, made for static sites.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [webonnx/wonnx](https://github.com/webonnx/wonnx) - A WebGPU-accelerated ONNX inference run-time written 100% in Rust, ready for native and the web
 - [oscar-project/ungoliant](https://github.com/oscar-project/ungoliant) - :spider: The pipeline for the OSCAR corpus
