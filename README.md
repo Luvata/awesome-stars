@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [LeeDongYeun/FixNoise](https://github.com/LeeDongYeun/FixNoise) - Official Pytorch Implementation for "Fix the Noise: Disentangling Source Feature for Controllable Domain Translation" (CVPR 2023, CVPRW 2022 Best paper)
 - [FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for multiple languages!
@@ -491,7 +492,6 @@
 - [mist-project/mist](https://github.com/mist-project/mist) - 
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
-- [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
 - [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
 - [Rassibassi/mediapipeDemos](https://github.com/Rassibassi/mediapipeDemos) - Real-time Python demos of google mediapipe
 - [VinAIResearch/QC-StyleGAN](https://github.com/VinAIResearch/QC-StyleGAN) - QC-StyleGAN - Quality Controllable Image Generation and Manipulation (NeurIPS 2022)
