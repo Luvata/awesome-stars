@@ -301,7 +301,7 @@
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [dennybritz/ablog-content](https://github.com/dennybritz/ablog-content) - 
 - [facebookresearch/GraphLog](https://github.com/facebookresearch/GraphLog) - API for accessing the GraphLog dataset
-- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Usage examples, demos, and tutorials for OSMnx.
+- [gboeing/osmnx-examples](https://github.com/gboeing/osmnx-examples) - Gallery of OSMnx tutorials, usage examples, and feature demonstations.
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [ibm-aur-nlp/PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) - 
 - [nguyenvulebinh/vietnamese-electra](https://github.com/nguyenvulebinh/vietnamese-electra) - Electra pre-trained model using Vietnamese corpus
@@ -501,7 +501,7 @@
 - [VinAIResearch/QC-StyleGAN](https://github.com/VinAIResearch/QC-StyleGAN) - QC-StyleGAN - Quality Controllable Image Generation and Manipulation (NeurIPS 2022)
 - [tjiiv-cprg/EPro-PnP](https://github.com/tjiiv-cprg/EPro-PnP) - [CVPR 2022 Oral, Best Student Paper] EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
-- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, 
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [facebookresearch/LaViLa](https://github.com/facebookresearch/LaViLa) - Code release for "Learning Video Representations from Large Language Models"
 - [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - VLPart: Going Denser with Open-Vocabulary Part Segmentation
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
@@ -792,7 +792,7 @@
 - [kornia/kornia](https://github.com/kornia/kornia) - Differentiable Computer Vision Library
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-- [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+- [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other geospatial data from OpenStreetMap.
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
