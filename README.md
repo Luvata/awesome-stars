@@ -24,6 +24,7 @@
 - [Lex](#lex)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nim](#nim)
@@ -198,7 +199,7 @@
 
 ## Jupyter Notebook 
 
-- [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
+- [yossigandelsman/rosetta_neurons](https://github.com/yossigandelsman/rosetta_neurons) - Official PyTorch Implementation of "Rosetta Neurons: Mining the Common Units in a Model Zoo"
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [LeeDongYeun/FixNoise](https://github.com/LeeDongYeun/FixNoise) - Official Pytorch Implementation for "Fix the Noise: Disentangling Source Feature for Controllable Domain Translation" (CVPR 2023, CVPRW 2022 Best paper)
 - [FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for multiple languages!
@@ -251,7 +252,6 @@
 - [google-research/maskgit](https://github.com/google-research/maskgit) - Official Jax Implementation of MaskGIT
 - [yoyo-nb/Thin-Plate-Spline-Motion-Model](https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model) - [CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) - 
-- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
 - [google-research/kubric](https://github.com/google-research/kubric) - A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.
 - [Sxela/DiscoDiffusion-Warp](https://github.com/Sxela/DiscoDiffusion-Warp) - DiscoDiffusion Warp
 - [EleutherAI/vqgan-clip](https://github.com/EleutherAI/vqgan-clip) - 
@@ -405,6 +405,10 @@
 - [Prof-Lu-Cewu/Visual-Relationship-Detection](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection) - 
 - [xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU) - 
 
+## MDX 
+
+- [huggingface/deep-rl-class](https://github.com/huggingface/deep-rl-class) - This repo contains the syllabus of the Hugging Face Deep Reinforcement Learning Course.
+
 ## Makefile 
 
 - [Helsinki-NLP/Tatoeba-Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge) - 
@@ -496,6 +500,7 @@
 - [mist-project/mist](https://github.com/mist-project/mist) - 
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
 - [SHI-Labs/Prompt-Free-Diffusion](https://github.com/SHI-Labs/Prompt-Free-Diffusion) - Prompt-Free Diffusion: Taking "Text" out of Text-to-Image Diffusion Models
 - [Rassibassi/mediapipeDemos](https://github.com/Rassibassi/mediapipeDemos) - Real-time Python demos of google mediapipe
 - [VinAIResearch/QC-StyleGAN](https://github.com/VinAIResearch/QC-StyleGAN) - QC-StyleGAN - Quality Controllable Image Generation and Manipulation (NeurIPS 2022)
@@ -601,7 +606,7 @@
 - [seasonSH/SemanticStyleGAN](https://github.com/seasonSH/SemanticStyleGAN) - release code for SemanticStyleGAN (CVPR 2022)
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [facebookresearch/mmf](https://github.com/facebookresearch/mmf) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
-- [Mathux/TEMOS](https://github.com/Mathux/TEMOS) - Official PyTorch implementation of the paper "TEMOS: Generating diverse human motions from textual descriptions"
+- [Mathux/TEMOS](https://github.com/Mathux/TEMOS) - Official PyTorch implementation of the paper "TEMOS: Generating diverse human motions from textual descriptions", ECCV 2022 (Oral)
 - [vietai/ViT5](https://github.com/vietai/ViT5) - 
 - [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [kojima-takeshi188/zero_shot_cot](https://github.com/kojima-takeshi188/zero_shot_cot) - Prod Env
