@@ -429,7 +429,6 @@
 
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models
-- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
 - [apple/ml-gaudi](https://github.com/apple/ml-gaudi) - 
 - [Anciukevicius/RenderDiffusion](https://github.com/Anciukevicius/RenderDiffusion) - 
@@ -508,6 +507,7 @@
 - [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [facebookresearch/LaViLa](https://github.com/facebookresearch/LaViLa) - Code release for "Learning Video Representations from Large Language Models"
 - [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - VLPart: Going Denser with Open-Vocabulary Part Segmentation
+- [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
@@ -830,7 +830,7 @@
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [philgooch/abbreviation-extraction](https://github.com/philgooch/abbreviation-extraction) - Python3 implementation of the Schwartz-Hearst algorithm for extracting abbreviation-definition pairs
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
 - [oscarknagg/few-shot](https://github.com/oscarknagg/few-shot) - Repository for few-shot learning machine learning projects
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
