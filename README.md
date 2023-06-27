@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [Vaibhavs10/translate-with-whisper](https://github.com/Vaibhavs10/translate-with-whisper) - 
 - [yossigandelsman/rosetta_neurons](https://github.com/yossigandelsman/rosetta_neurons) - Official PyTorch Implementation of "Rosetta Neurons: Mining the Common Units in a Model Zoo"
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [LeeDongYeun/FixNoise](https://github.com/LeeDongYeun/FixNoise) - Official Pytorch Implementation for "Fix the Noise: Disentangling Source Feature for Controllable Domain Translation" (CVPR 2023, CVPRW 2022 Best paper)
@@ -490,6 +491,7 @@
 
 ## Python 
 
+- [google-research/magvit](https://github.com/google-research/magvit) - Official JAX implementation of MAGVIT: Masked Generative Video Transformer
 - [allenai/visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023)
 - [sanjayss34/codevqa](https://github.com/sanjayss34/codevqa) - 
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
@@ -730,7 +732,7 @@
 - [dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet) - PyTorch implementation of TabNet paper : https://arxiv.org/pdf/1908.07442.pdf
 - [novoic/surfboard](https://github.com/novoic/surfboard) - Novoic's audio feature extraction library
 - [amirveyseh/AAAI-21-SDU-shared-task-2-AD](https://github.com/amirveyseh/AAAI-21-SDU-shared-task-2-AD) - 
-- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [LCAV/pyroomacoustics](https://github.com/LCAV/pyroomacoustics) - Pyroomacoustics is a package for audio signal processing for indoor applications. It was developed as a fast prototyping platform for beamforming algorithms in indoor scenarios.
 - [airsplay/vokenization](https://github.com/airsplay/vokenization) - PyTorch code for EMNLP 2020 Paper "Vokenization: Improving Language Understanding with Visual Supervision"
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Deep learning framework to train, deploy, and ship AI products Lightning fast.
