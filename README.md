@@ -494,7 +494,7 @@
 - [microsoft/BridgeTower](https://github.com/microsoft/BridgeTower) - Open source code for AAAI 2023 Paper "BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning"
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [google-research/magvit](https://github.com/google-research/magvit) - Official JAX implementation of MAGVIT: Masked Generative Video Transformer
-- [allenai/visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023)
+- [allenai/visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023 Best Paper!)
 - [sanjayss34/codevqa](https://github.com/sanjayss34/codevqa) - 
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder
 - [BoChenYS/BPnP](https://github.com/BoChenYS/BPnP) - Back-propagatable PnP
