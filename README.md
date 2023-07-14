@@ -531,7 +531,7 @@
 - [facebookresearch/eai-vc](https://github.com/facebookresearch/eai-vc) - The repository for the largest and most comprehensive empirical study of visual foundation models for Embodied AI (EAI).
 - [czczup/ViT-Adapter](https://github.com/czczup/ViT-Adapter) - [ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions
 - [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
-- [VinAIResearch/Anti-DreamBooth](https://github.com/VinAIResearch/Anti-DreamBooth) - Anti-DreamBooth: Protecting users from personalized text-to-image synthesis
+- [VinAIResearch/Anti-DreamBooth](https://github.com/VinAIResearch/Anti-DreamBooth) - Anti-DreamBooth: Protecting users from personalized text-to-image synthesis (ICCV'23)
 - [unifyai/ivy](https://github.com/unifyai/ivy) - Unified AI
 - [JD-P/cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion) - CLOOB Conditioned Latent Diffusion training and inference code
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
@@ -796,7 +796,7 @@
 - [paperswithcode/axcell](https://github.com/paperswithcode/axcell) - Tools for extracting tables and results from Machine Learning papers
 - [wgrathwohl/JEM](https://github.com/wgrathwohl/JEM) - Project site for "Your Classifier is Secretly an Energy-Based Model and You Should Treat it Like One"
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
-- [kornia/kornia](https://github.com/kornia/kornia) - Differentiable Computer Vision Library
+- [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - Python for street networks. Download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
@@ -1069,7 +1069,7 @@
 
 ## TeX 
 
-- [fnzhan/MISE](https://github.com/fnzhan/MISE) - Multimodal Image Synthesis and Editing: A Survey
+- [fnzhan/MISE](https://github.com/fnzhan/MISE) - Multimodal Image Synthesis and Editing: A Survey and Taxonomy
 - [stanfordnlp/cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes) - Course notes for CS224N Winter17
 - [undertheseanlp/slp3-vietnamese](https://github.com/undertheseanlp/slp3-vietnamese) - Speech and Language Processing 3rd edition Vietnamese Translation
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
