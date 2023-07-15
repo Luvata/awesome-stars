@@ -510,7 +510,7 @@
 - [rbreaves/kinto](https://github.com/rbreaves/kinto) - Mac-style shortcut keys for Linux & Windows.
 - [OpenGVLab/DragGAN](https://github.com/OpenGVLab/DragGAN) - Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
 - [facebookresearch/LaViLa](https://github.com/facebookresearch/LaViLa) - Code release for "Learning Video Representations from Large Language Models"
-- [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - VLPart: Going Denser with Open-Vocabulary Part Segmentation
+- [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - [ICCV2023] VLPart: Going Denser with Open-Vocabulary Part Segmentation
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
