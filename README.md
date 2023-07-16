@@ -664,7 +664,7 @@
 - [ArrowLuo/CLIP4Clip](https://github.com/ArrowLuo/CLIP4Clip) - An official implementation for "CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval"
 - [CryhanFang/CLIP2Video](https://github.com/CryhanFang/CLIP2Video) - 
 - [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan) - Implementation of 'lightweight' GAN, proposed in ICLR 2021, in Pytorch. High resolution image generations that can be trained within a day or two
-- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+- [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [yanx27/EverybodyDanceNow_reproduce_pytorch](https://github.com/yanx27/EverybodyDanceNow_reproduce_pytorch) - Everybody dance now reproduced in pytorch
 - [allenai/python-package-template](https://github.com/allenai/python-package-template) - A template repo for Python packages
@@ -1052,6 +1052,7 @@
 
 ## Shell 
 
+- [google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) - 
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
