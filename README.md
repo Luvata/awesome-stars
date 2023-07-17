@@ -143,7 +143,6 @@
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design) - A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems"
 - [minhpqn/NLP-Notes](https://github.com/minhpqn/NLP-Notes) - Minh Pham's Notes about NLP
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-- [unit8co/vegans](https://github.com/unit8co/vegans) - A library providing various existing GANs in PyTorch.
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [twitter/scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 - [informramiz/opencv-face-recognition-python](https://github.com/informramiz/opencv-face-recognition-python) - Face Recognition using OpenCV and Python.
