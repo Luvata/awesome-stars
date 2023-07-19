@@ -207,7 +207,7 @@
 - [jmfacil/camconvs](https://github.com/jmfacil/camconvs) - Code for the CVPR paper "CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth"
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [williamyang1991/StyleGANEX](https://github.com/williamyang1991/StyleGANEX) - StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces
+- [williamyang1991/StyleGANEX](https://github.com/williamyang1991/StyleGANEX) - [ICCV 2023] StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
 - [Harry24k/CW-pytorch](https://github.com/Harry24k/CW-pytorch) - A pytorch implementation of "Towards Evaluating the Robustness of Neural Networks"
 - [tancik/learnit](https://github.com/tancik/learnit) - 
