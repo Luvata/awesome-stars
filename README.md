@@ -201,6 +201,7 @@
 - [yossigandelsman/rosetta_neurons](https://github.com/yossigandelsman/rosetta_neurons) - Official PyTorch Implementation of "Rosetta Neurons: Mining the Common Units in a Model Zoo"
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [LeeDongYeun/FixNoise](https://github.com/LeeDongYeun/FixNoise) - Official Pytorch Implementation for "Fix the Noise: Disentangling Source Feature for Controllable Domain Translation" (CVPR 2023, CVPRW 2022 Best paper)
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for multiple languages!
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v1
@@ -490,6 +491,8 @@
 
 ## Python 
 
+- [miccunifi/SEARLE](https://github.com/miccunifi/SEARLE) - [ICCV 2023] - Zero-shot Composed Image Retrieval with Textual Inversion
+- [telexyz/GPT4VN](https://github.com/telexyz/GPT4VN) - Ai cũng có thể tự tạo chatbot bằng huấn luyện chỉ dẫn, với 12G GPU (RTX 3060) và khoảng vài chục MB dữ liệu
 - [microsoft/BridgeTower](https://github.com/microsoft/BridgeTower) - Open source code for AAAI 2023 Paper "BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning"
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [google-research/magvit](https://github.com/google-research/magvit) - Official JAX implementation of MAGVIT: Masked Generative Video Transformer
@@ -513,7 +516,6 @@
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation"
 - [zhyever/Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) - Monocular Depth Estimation Toolbox based on MMSegmentation.
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
@@ -540,6 +542,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [JonasGeiping/poisoning-gradient-matching](https://github.com/JonasGeiping/poisoning-gradient-matching) - Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
@@ -1076,7 +1079,6 @@
 
 ## TypeScript 
 
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [Quorafind/Obsidian-Daily-Notes-Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - A plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - PDF Preview for Zotero.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
