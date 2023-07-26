@@ -491,6 +491,7 @@
 
 ## Python 
 
+- [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
 - [miccunifi/SEARLE](https://github.com/miccunifi/SEARLE) - [ICCV 2023] - Zero-shot Composed Image Retrieval with Textual Inversion
 - [telexyz/GPT4VN](https://github.com/telexyz/GPT4VN) - Ai cũng có thể tự tạo chatbot bằng huấn luyện chỉ dẫn, với 12G GPU (RTX 3060) và khoảng vài chục MB dữ liệu
 - [microsoft/BridgeTower](https://github.com/microsoft/BridgeTower) - Open source code for AAAI 2023 Paper "BridgeTower: Building Bridges Between Encoders in Vision-Language Representation Learning"
