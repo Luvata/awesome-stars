@@ -166,6 +166,7 @@
 
 ## JavaScript 
 
+- [thaoshibe/visii](https://github.com/thaoshibe/visii) - Visual Instruction Inversion: Image Editing via Visual Prompting
 - [gristlabs/grist-omnibus](https://github.com/gristlabs/grist-omnibus) - an opinionated Grist+Dex+Traefik package for first-time self-hosters
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
@@ -197,6 +198,8 @@
 
 ## Jupyter Notebook 
 
+- [AvivNavon/DWSNets](https://github.com/AvivNavon/DWSNets) - Official implementation for Equivariant Architectures for Learning in Deep Weight Spaces [ICML 2023]
+- [ebagdasa/multimodal_injection](https://github.com/ebagdasa/multimodal_injection) - 
 - [Vaibhavs10/translate-with-whisper](https://github.com/Vaibhavs10/translate-with-whisper) - 
 - [yossigandelsman/rosetta_neurons](https://github.com/yossigandelsman/rosetta_neurons) - Official PyTorch Implementation of "Rosetta Neurons: Mining the Common Units in a Model Zoo"
 - [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
@@ -491,6 +494,7 @@
 
 ## Python 
 
+- [facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature) - Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
 - [miccunifi/SEARLE](https://github.com/miccunifi/SEARLE) - [ICCV 2023] - Zero-shot Composed Image Retrieval with Textual Inversion
 - [telexyz/GPT4VN](https://github.com/telexyz/GPT4VN) - Ai cũng có thể tự tạo chatbot bằng huấn luyện chỉ dẫn, với 12G GPU (RTX 3060) và khoảng vài chục MB dữ liệu
