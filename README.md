@@ -431,6 +431,7 @@
 
 ## Others 
 
+- [petergpt/code-interpreter-packages](https://github.com/petergpt/code-interpreter-packages) - A list of all packages and their descriptions in code interpreter as of 12 July 2023
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [hila-chefer/Conceptor](https://github.com/hila-chefer/Conceptor) - Official implementation of the paper The Hidden Language of Diffusion Models
 - [obsidianmd/obsidian-api](https://github.com/obsidianmd/obsidian-api) - Type definitions for the latest Obsidian API.
@@ -629,7 +630,7 @@
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation. The repo for ICLR2023 paper "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers"
 - [preddy5/Im2Vec](https://github.com/preddy5/Im2Vec) - [CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
-- [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - 
+- [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - Official pytorch implementation of StyleMapGAN (CVPR 2021)
 - [wty-ustc/HairCLIP](https://github.com/wty-ustc/HairCLIP) - [CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image
 - [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
