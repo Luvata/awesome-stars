@@ -929,7 +929,7 @@
 - [facebookresearch/low-shot-shrink-hallucinate](https://github.com/facebookresearch/low-shot-shrink-hallucinate) - Presenting Low-shot Visual Recognition by Shrinking and Hallucinating Features
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [ndrplz/google-drive-downloader](https://github.com/ndrplz/google-drive-downloader) - Minimal class to download shared files from Google Drive.
-- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
+- [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
 - [vvmnnnkv/nodejs-style-transfer](https://github.com/vvmnnnkv/nodejs-style-transfer) - Sample Node.js app for image style transfer using libtorchjs
 - [undertheseanlp/resources](https://github.com/undertheseanlp/resources) - Open Vietnamese NLP Resources
 - [osqp/osqpth](https://github.com/osqp/osqpth) - The differentiable OSQP solver layer for PyTorch
