@@ -495,6 +495,7 @@
 
 ## Python 
 
+- [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - Dataset, code and models for the paper "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature) - Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
