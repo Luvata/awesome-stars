@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [cloneofsimo/minSDXL](https://github.com/cloneofsimo/minSDXL) - Huggingface-compatible SDXL Unet implementation that is readily hackable
 - [AvivNavon/DWSNets](https://github.com/AvivNavon/DWSNets) - Official implementation for Equivariant Architectures for Learning in Deep Weight Spaces [ICML 2023]
 - [ebagdasa/multimodal_injection](https://github.com/ebagdasa/multimodal_injection) - 
 - [Vaibhavs10/translate-with-whisper](https://github.com/Vaibhavs10/translate-with-whisper) - 
