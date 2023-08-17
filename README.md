@@ -497,6 +497,8 @@
 
 ## Python 
 
+- [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
+- [lucidrains/perfusion-pytorch](https://github.com/lucidrains/perfusion-pytorch) - Implementation of Key-Locked Rank One Editing, from Nvidia AI
 - [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - Dataset, code and models for the paper "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature) - Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"
