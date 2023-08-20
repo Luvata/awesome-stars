@@ -1054,7 +1054,6 @@
 
 ## SCSS 
 
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [clayh53/tufte-jekyll](https://github.com/clayh53/tufte-jekyll) - Minimal Jekyll blog styled to resemble the look and layout of Edward Tufte's books
 - [pages-themes/cayman](https://github.com/pages-themes/cayman) - Cayman is a Jekyll theme for GitHub Pages
 
@@ -1096,6 +1095,7 @@
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [vanakat/zotero-bridge](https://github.com/vanakat/zotero-bridge) - Obsidian plugin to integrate with Zotero through ZotServer
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 host your own second brain and digital garden for free
 - [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
 - [konodyuk/obsidian-text-expander](https://github.com/konodyuk/obsidian-text-expander) - Text Expander plugin for Obsidian
