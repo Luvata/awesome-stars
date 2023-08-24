@@ -200,6 +200,7 @@
 
 - [cloneofsimo/minSDXL](https://github.com/cloneofsimo/minSDXL) - Huggingface-compatible SDXL Unet implementation that is readily hackable
 - [AvivNavon/DWSNets](https://github.com/AvivNavon/DWSNets) - Official implementation for Equivariant Architectures for Learning in Deep Weight Spaces [ICML 2023]
+- [facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature) - Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"
 - [ebagdasa/multimodal_injection](https://github.com/ebagdasa/multimodal_injection) - 
 - [Vaibhavs10/translate-with-whisper](https://github.com/Vaibhavs10/translate-with-whisper) - 
 - [yossigandelsman/rosetta_neurons](https://github.com/yossigandelsman/rosetta_neurons) - Official PyTorch Implementation of "Rosetta Neurons: Mining the Common Units in a Model Zoo"
@@ -386,7 +387,7 @@
 
 ## Kotlin 
 
-- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - An open-source plotting library for statistical data.
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
 - [mccorby/PhotoLabeller](https://github.com/mccorby/PhotoLabeller) - Federated Learning: Client application doing classification of images and local training. Works better with the Parameter Server at https://github.com/mccorby/PhotoLabellerServer
 - [sduduzog/slim-launcher](https://github.com/sduduzog/slim-launcher) - Android minimalistic launcher
 
@@ -497,11 +498,11 @@
 
 ## Python 
 
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
 - [lucidrains/perfusion-pytorch](https://github.com/lucidrains/perfusion-pytorch) - Implementation of Key-Locked Rank One Editing, from Nvidia AI
 - [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - Dataset, code and models for the paper "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
-- [facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature) - Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
 - [miccunifi/SEARLE](https://github.com/miccunifi/SEARLE) - [ICCV 2023] - Zero-shot Composed Image Retrieval with Textual Inversion
 - [telexyz/GPT4VN](https://github.com/telexyz/GPT4VN) - Ai cũng có thể tự tạo chatbot bằng huấn luyện chỉ dẫn, với 12G GPU (RTX 3060) và khoảng vài chục MB dữ liệu
