@@ -949,7 +949,7 @@
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [suicao/Vietnamese-Tone-Prediction-with-Transformer-Decoder](https://github.com/suicao/Vietnamese-Tone-Prediction-with-Transformer-Decoder) - Solution for AIviVN's Vietnamese tone prediction competition
 - [zsef123/EfficientNets-PyTorch](https://github.com/zsef123/EfficientNets-PyTorch) - A PyTorch implementation of " EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
 - [seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL) - Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
