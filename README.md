@@ -209,6 +209,7 @@
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for multiple languages!
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
+- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v1
 - [jmfacil/camconvs](https://github.com/jmfacil/camconvs) - Code for the CVPR paper "CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth"
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
@@ -540,7 +541,6 @@
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
-- [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [baegwangbin/MaGNet](https://github.com/baegwangbin/MaGNet) - (CVPR 2022 - oral) Multi-View Depth Estimation by Fusing Single-View Depth Probability with Multi-View Geometry
 - [compphoto/BoostYourOwnDepth](https://github.com/compphoto/BoostYourOwnDepth) - Apply our monocular depth boosting to your own network!
 - [PruneTruong/DenseMatching](https://github.com/PruneTruong/DenseMatching) - Dense matching library based on PyTorch
@@ -1108,7 +1108,7 @@
 - [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
 - [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
-- [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
+- [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) - Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within Obsidian and automatically create and reference literature notes for paper
