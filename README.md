@@ -198,6 +198,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
 - [cloneofsimo/minSDXL](https://github.com/cloneofsimo/minSDXL) - Huggingface-compatible SDXL Unet implementation that is readily hackable
 - [AvivNavon/DWSNets](https://github.com/AvivNavon/DWSNets) - Official implementation for Equivariant Architectures for Learning in Deep Weight Spaces [ICML 2023]
 - [facebookresearch/stable_signature](https://github.com/facebookresearch/stable_signature) - Official implementation of the paper "The Stable Signature Rooting Watermarks in Latent Diffusion Models"
@@ -500,6 +501,8 @@
 
 ## Python 
 
+- [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+- [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting
 - [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - A Simple and Effective Baseline for Text-to-Image Synthesis (CVPR2022 oral)
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [EleutherAI/concept-erasure](https://github.com/EleutherAI/concept-erasure) - Erasing concepts from neural representations with provable guarantees
