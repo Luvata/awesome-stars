@@ -244,7 +244,7 @@
 - [OmerKafri/StyleFusion](https://github.com/OmerKafri/StyleFusion) - 
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) - This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
 - [james-oldfield/PandA](https://github.com/james-oldfield/PandA) - [ICLR'23] Code to reproduce the results in the paper "PandA: Unsupervised Learning of Parts and Appearances in the Feature Maps of GANs"
-- [deepmind/arnheim](https://github.com/deepmind/arnheim) - 
+- [google-deepmind/arnheim](https://github.com/google-deepmind/arnheim) - 
 - [mchong6/SOAT](https://github.com/mchong6/SOAT) - Official PyTorch repo for StyleGAN of All Trades: Image Manipulation with Only Pretrained StyleGAN.
 - [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) - 🧠🗼
 - [pschaldenbrand/StyleCLIPDraw](https://github.com/pschaldenbrand/StyleCLIPDraw) - Styled text-to-drawing synthesis method. Featured at IJCAI 2022 and the 2021 NeurIPS Workshop on Machine Learning for Creativity and Design
@@ -299,7 +299,7 @@
 - [dabl/dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
 - [amueller/COMS4995-s19](https://github.com/amueller/COMS4995-s19) - COMS W4995 Applied Machine Learning - Spring 19
 - [sorrge/tg_news_cluster](https://github.com/sorrge/tg_news_cluster) - Winning entry for Telegram Data Clustering competition
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
+- [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
 - [scikit-learn-contrib/hdbscan](https://github.com/scikit-learn-contrib/hdbscan) - A high performance implementation of HDBSCAN clustering.
 - [gboeing/ppd599](https://github.com/gboeing/ppd599) - USC urban data science course series with Python and Jupyter
 - [yk/PyTorch_CIFAR10](https://github.com/yk/PyTorch_CIFAR10) - Pretrained TorchVision models on CIFAR10 dataset (with weights)
@@ -471,7 +471,7 @@
 - [VinAIResearch/PhoBERT](https://github.com/VinAIResearch/PhoBERT) - PhoBERT: Pre-trained language models for Vietnamese (EMNLP-2020 Findings)
 - [WING-NUS/scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus) - Scientific Document Summarization Corpus and Annotations from the WING NUS group.
 - [dair-ai/nlp_highlights](https://github.com/dair-ai/nlp_highlights) - ✨ A report of the most important NLP highlights (A Yearly Report - 2018, 2019)
-- [deepmind/pg19](https://github.com/deepmind/pg19) - 
+- [google-deepmind/pg19](https://github.com/google-deepmind/pg19) - 
 - [Jyouhou/SceneTextPapers](https://github.com/Jyouhou/SceneTextPapers) - Tracking the latest progress in Scene Text Detection and Recognition: Must-read papers well organized
 - [lampts/bert4vn](https://github.com/lampts/bert4vn) - Multilingual bert retrained on news + squad2 for vietnamese
 - [yassouali/ML-paper-notes](https://github.com/yassouali/ML-paper-notes) - :notebook: Notes and summaries of various ML, Computer Vision & NLP papers.
@@ -563,7 +563,7 @@
 - [JonasGeiping/poisoning-gradient-matching](https://github.com/JonasGeiping/poisoning-gradient-matching) - Witches' Brew: Industrial Scale Data Poisoning via Gradient Matching
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-- [deepmind/mctx](https://github.com/deepmind/mctx) - Monte Carlo tree search in JAX
+- [google-deepmind/mctx](https://github.com/google-deepmind/mctx) - Monte Carlo tree search in JAX
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
 - [justanhduc/brushstroke-parameterized-style-transfer](https://github.com/justanhduc/brushstroke-parameterized-style-transfer) - 
 - [CompVis/brushstroke-parameterized-style-transfer](https://github.com/CompVis/brushstroke-parameterized-style-transfer) - TensorFlow implementation of our CVPR 2021 Paper "Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes".
@@ -697,7 +697,7 @@
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
-- [deepmind/xmanager](https://github.com/deepmind/xmanager) - A platform for managing machine learning experiments
+- [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager) - A platform for managing machine learning experiments
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
 - [learning-at-home/dalle-hivemind](https://github.com/learning-at-home/dalle-hivemind) - Training a model similar to OpenAI DALL-E with volunteers from all over the Internet using hivemind and dalle-pytorch (NeurIPS 2021 demo)
 - [learning-at-home/hivemind](https://github.com/learning-at-home/hivemind) - Decentralized deep learning in PyTorch. Built to train models on thousands of volunteers across the world.
@@ -722,7 +722,7 @@
 - [nguyenvulebinh/extractive-qa-mrc](https://github.com/nguyenvulebinh/extractive-qa-mrc) - Machine Reading Comprehension special for the Vietnamese language
 - [AranKomat/Diff-DALLE](https://github.com/AranKomat/Diff-DALLE) - 
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [deepmind/alphafold](https://github.com/deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
 - [bangoc123/transformer](https://github.com/bangoc123/transformer) - Build English-Vietnamese machine translation with ProtonX Transformer. :D
 - [thucdx/TSleep](https://github.com/thucdx/TSleep) - Automated Sleep Stage Scoring using Deep Learing
 - [salesforce/booksum](https://github.com/salesforce/booksum) - 
@@ -847,8 +847,8 @@
 - [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks](https://github.com/weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks) - experiments on Paper &lt;Bag of Tricks for Image Classification with Convolutional Neural Networks&gt; and other useful tricks to improve CNN acc
-- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) - JAX-based neural network library
-- [deepmind/rlax](https://github.com/deepmind/rlax) - 
+- [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku) - JAX-based neural network library
+- [google-deepmind/rlax](https://github.com/google-deepmind/rlax) - 
 - [MC-BERT/MC-BERT](https://github.com/MC-BERT/MC-BERT) - 
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [facebookresearch/WSL-Images](https://github.com/facebookresearch/WSL-Images) - Weakly Supervised Learning On Images
@@ -980,7 +980,7 @@
 - [lehoangnam040/Shazam-fingerprint-song](https://github.com/lehoangnam040/Shazam-fingerprint-song) - 
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [Tencent/FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) - 腾讯优图高精度双分支人脸检测器
-- [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
+- [google-deepmind/mathematics_dataset](https://github.com/google-deepmind/mathematics_dataset) - This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad) - A Python toolbox for performing gradient-free optimization
 - [Lotayou/densebody_pytorch](https://github.com/Lotayou/densebody_pytorch) - PyTorch implementation of CloudWalk's recent work DenseBody
 - [facebookresearch/XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
