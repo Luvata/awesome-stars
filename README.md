@@ -343,7 +343,7 @@
 - [jupyter-guide/ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter) - Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
 - [thucdx/ml-uw-coursera](https://github.com/thucdx/ml-uw-coursera) - 4-course machine learning specialization by University Of Washington on Coursera
 - [Raschka-research-group/utilities](https://github.com/Raschka-research-group/utilities) - Utility scripts, functions, tools, etc.
-- [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
+- [Atcold/NYU-DLSP20](https://github.com/Atcold/NYU-DLSP20) - NYU Deep Learning Spring 2020
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [graykode/xlnet-Pytorch](https://github.com/graykode/xlnet-Pytorch) - Simple XLNet implementation with Pytorch Wrapper
@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting
 - [tobran/DF-GAN](https://github.com/tobran/DF-GAN) - A Simple and Effective Baseline for Text-to-Image Synthesis (CVPR2022 oral)
@@ -1076,6 +1077,7 @@
 - [google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) - 
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
+- [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
@@ -1133,7 +1135,6 @@
 
 ## Vim Script 
 
-- [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
