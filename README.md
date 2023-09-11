@@ -158,7 +158,7 @@
 ## Java 
 
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
-- [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a strongly-typed database
+- [vaticle/typedb](https://github.com/vaticle/typedb) - TypeDB: a polymorphic database powered by types
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit (NAACL 2018)
 - [ververica/flink-training-exercises](https://github.com/ververica/flink-training-exercises) - 
@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [srush/PowerEdit](https://github.com/srush/PowerEdit) - A super-minimal Python-based video editor ⚡
 - [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting
@@ -1093,7 +1094,7 @@
 
 ## TeX 
 
-- [fnzhan/Generative-AI](https://github.com/fnzhan/Generative-AI) - Multimodal Image Synthesis and Editing: The Generative AI Era   [TPAMI 2023]
+- [fnzhan/Generative-AI](https://github.com/fnzhan/Generative-AI) - Multimodal Image Synthesis and Editing: The Generative AI Era [TPAMI 2023]
 - [stanfordnlp/cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes) - Course notes for CS224N Winter17
 - [undertheseanlp/slp3-vietnamese](https://github.com/undertheseanlp/slp3-vietnamese) - Speech and Language Processing 3rd edition Vietnamese Translation
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
