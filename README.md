@@ -65,7 +65,6 @@
 - [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
-- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
@@ -271,6 +270,7 @@
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [ai-forever/ru-dalle](https://github.com/ai-forever/ru-dalle) - Generate images from texts. In Russian
+- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
 - [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers
 - [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for "Distributed Deep Learning in Open Collaborations" (NeurIPS 2021)
@@ -501,7 +501,8 @@
 
 ## Python 
 
-- [srush/PowerEdit](https://github.com/srush/PowerEdit) - A super-minimal Python-based video editor ⚡
+- [aicrumb/MoLora](https://github.com/aicrumb/MoLora) - 
+- [google/break-a-scene](https://github.com/google/break-a-scene) - Official implementation for "Break-A-Scene: Extracting Multiple Concepts from a Single Image" [SIGGRAPH Asia 2023]
 - [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [ReshotAI/gaussian-painters](https://github.com/ReshotAI/gaussian-painters) - Gaussian Painters using 3D Gaussian Splatting
@@ -1094,7 +1095,7 @@
 
 ## TeX 
 
-- [fnzhan/Generative-AI](https://github.com/fnzhan/Generative-AI) - Multimodal Image Synthesis and Editing: The Generative AI Era [TPAMI 2023]
+- [fnzhan/Generative-AI](https://github.com/fnzhan/Generative-AI) - [TPAMI 2023] Multimodal Image Synthesis and Editing: The Generative AI Era
 - [stanfordnlp/cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes) - Course notes for CS224N Winter17
 - [undertheseanlp/slp3-vietnamese](https://github.com/undertheseanlp/slp3-vietnamese) - Speech and Language Processing 3rd edition Vietnamese Translation
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
