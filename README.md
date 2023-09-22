@@ -165,7 +165,7 @@
 
 ## JavaScript 
 
-- [thaoshibe/visii](https://github.com/thaoshibe/visii) - Visual Instruction Inversion: Image Editing via Visual Prompting
+- [thaoshibe/visii](https://github.com/thaoshibe/visii) - "Visual Instruction Inversion: Image Editing via Visual Prompting" (NeurIPS 2023)
 - [gristlabs/grist-omnibus](https://github.com/gristlabs/grist-omnibus) - an opinionated Grist+Dex+Traefik package for first-time self-hosters
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
