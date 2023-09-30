@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
 - [aicrumb/MoLora](https://github.com/aicrumb/MoLora) - 
 - [google/break-a-scene](https://github.com/google/break-a-scene) - Official implementation for "Break-A-Scene: Extracting Multiple Concepts from a Single Image" [SIGGRAPH Asia 2023]
 - [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
@@ -677,7 +678,7 @@
 - [NVlabs/denoising-diffusion-gan](https://github.com/NVlabs/denoising-diffusion-gan) - Tackling the Generative Learning Trilemma with Denoising Diffusion GANs  https://arxiv.org/abs/2112.07804
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter) - Everything you want to know about Google Cloud TPU
 - [shawwn/tpunicorn](https://github.com/shawwn/tpunicorn) - Babysit your preemptible TPUs
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks in JAX. https://docs.kidger.site/equinox/
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox) - Elegant easy-to-use neural networks + scientific computing in JAX. https://docs.kidger.site/equinox/
 - [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text) - Implementation of Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic
 - [crowsonkb/guided-diffusion](https://github.com/crowsonkb/guided-diffusion) - 
 - [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal) - TorchMultimodal is a PyTorch library for training state-of-the-art multimodal multi-task models at scale.
