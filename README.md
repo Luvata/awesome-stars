@@ -1082,7 +1082,6 @@
 - [google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) - 
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
-- [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
@@ -1141,6 +1140,7 @@
 
 ## Vim Script 
 
+- [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
