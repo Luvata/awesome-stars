@@ -125,7 +125,7 @@
 
 - [thuanz123/creps](https://github.com/thuanz123/creps) - 
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
-- [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (use a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
+- [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (uses a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) - A collection of resources and papers on Diffusion Models
 - [lucidrains/attention](https://github.com/lucidrains/attention) - This repository will house a visualization that will attempt to convey instant enlightenment of how Attention works to someone not working in artificial intelligence, with 3Blue1Brown as inspiration
 - [bigscience-workshop/data_tooling](https://github.com/bigscience-workshop/data_tooling) - Tools for managing datasets for governance and training.
