@@ -501,6 +501,7 @@
 
 ## Python 
 
+- [thuanz123/raycond](https://github.com/thuanz123/raycond) - Unofficial PyTorch implementation of Ray Conditioning
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
 - [aicrumb/MoLora](https://github.com/aicrumb/MoLora) - 
@@ -525,7 +526,7 @@
 - [google-research/magvit](https://github.com/google-research/magvit) - Official JAX implementation of MAGVIT: Masked Generative Video Transformer
 - [allenai/visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023 Best Paper!)
 - [sanjayss34/codevqa](https://github.com/sanjayss34/codevqa) - 
-- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
+- [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
 - [BoChenYS/BPnP](https://github.com/BoChenYS/BPnP) - Back-propagatable PnP
 - [feizc/Gradient-Free-Textual-Inversion](https://github.com/feizc/Gradient-Free-Textual-Inversion) - Gradient-Free Textual Inversion for Personalized Text-to-Image Generation
 - [mist-project/mist](https://github.com/mist-project/mist) - 
@@ -699,7 +700,7 @@
 - [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
 - [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [Sense-GVT/DeCLIP](https://github.com/Sense-GVT/DeCLIP) - Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm
-- [tgisaturday/L-Verse](https://github.com/tgisaturday/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
+- [LGAI-Research/L-Verse](https://github.com/LGAI-Research/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
