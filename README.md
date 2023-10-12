@@ -197,6 +197,7 @@
 
 ## Jupyter Notebook 
 
+- [boschresearch/Divide-and-Bind](https://github.com/boschresearch/Divide-and-Bind) - Official implementation of "Divide & Bind Your Attention for Improved Generative Semantic Nursing" (BMVC 2023 Oral)
 - [RyannDaGreat/Diffusion-Illusions](https://github.com/RyannDaGreat/Diffusion-Illusions) - Diffusion Illusions: Hiding Images in Plain Sight
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
 - [cloneofsimo/minSDXL](https://github.com/cloneofsimo/minSDXL) - Huggingface-compatible SDXL Unet implementation that is readily hackable
