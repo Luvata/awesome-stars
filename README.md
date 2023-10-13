@@ -370,7 +370,7 @@
 - [ageron/tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Paperspace/DataAugmentationForObjectDetection](https://github.com/Paperspace/DataAugmentationForObjectDetection) - Data Augmentation For Object Detection
-- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2) - PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience repla
+- [higgsfield/higgsfield](https://github.com/higgsfield/higgsfield) - Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters
 - [RylanSchaeffer/ucl-adv-dl-rl](https://github.com/RylanSchaeffer/ucl-adv-dl-rl) - 
 - [davidcpage/cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
 - [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
