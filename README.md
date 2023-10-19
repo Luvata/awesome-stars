@@ -170,7 +170,7 @@
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [DevonMorris/zettelkasten](https://github.com/DevonMorris/zettelkasten) - Notes to myself and anyone who wants to read them
 - [distillpub/drafts](https://github.com/distillpub/drafts) - This builds the distill drafts website from the individual post repositories. This is public, but probably not interesting. You are likely looking for an example article (https://github.com/distillpub
-- [amitness/papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that adds video explanations to research papers on arxiv.org
+- [amitness/papers-with-video](https://github.com/amitness/papers-with-video) - A browser extension that links video explanations to research papers on arxiv.org
 - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files
 - [GitMurf/roam-highlighter](https://github.com/GitMurf/roam-highlighter) - Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
@@ -370,7 +370,7 @@
 - [ageron/tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [shap/shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [Paperspace/DataAugmentationForObjectDetection](https://github.com/Paperspace/DataAugmentationForObjectDetection) - Data Augmentation For Object Detection
-- [ml-doom/higgsfield](https://github.com/ml-doom/higgsfield) - Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters
+- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters
 - [RylanSchaeffer/ucl-adv-dl-rl](https://github.com/RylanSchaeffer/ucl-adv-dl-rl) - 
 - [davidcpage/cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
 - [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
