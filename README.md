@@ -544,7 +544,7 @@
 - [facebookresearch/VLPart](https://github.com/facebookresearch/VLPart) - [ICCV2023] VLPart: Going Denser with Open-Vocabulary Part Segmentation
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [ShirAmir/dino-vit-features](https://github.com/ShirAmir/dino-vit-features) - Official implementation for the paper "Deep ViT Features as Dense Visual Descriptors".
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [hitachinsk/SAMed](https://github.com/hitachinsk/SAMed) - The implementation of the technical report: "Customized Segment Anything Model for Medical Image Segmentation"
 - [zhyever/Monocular-Depth-Estimation-Toolbox](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox) - Monocular Depth Estimation Toolbox based on MMSegmentation.
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
