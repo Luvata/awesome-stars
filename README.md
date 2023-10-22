@@ -502,6 +502,7 @@
 
 ## Python 
 
+- [jmhb0/view_neti](https://github.com/jmhb0/view_neti) - 
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [thuanz123/raycond](https://github.com/thuanz123/raycond) - Unofficial PyTorch implementation of Ray Conditioning
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
