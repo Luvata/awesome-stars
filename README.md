@@ -197,6 +197,7 @@
 
 ## Jupyter Notebook 
 
+- [CaradryanLiang/ImprovedAdvDM](https://github.com/CaradryanLiang/ImprovedAdvDM) - 
 - [boschresearch/Divide-and-Bind](https://github.com/boschresearch/Divide-and-Bind) - Official implementation of "Divide & Bind Your Attention for Improved Generative Semantic Nursing" (BMVC 2023 Oral)
 - [RyannDaGreat/Diffusion-Illusions](https://github.com/RyannDaGreat/Diffusion-Illusions) - Diffusion Illusions: Hiding Images in Plain Sight
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
@@ -926,7 +927,7 @@
 - [ngxbac/Kaggle-Jigsaw](https://github.com/ngxbac/Kaggle-Jigsaw) - 
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) - Pre-trained Word2Vec models for Vietnamese
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
 - [RTIInternational/gobbli](https://github.com/RTIInternational/gobbli) - Deep learning with text doesn't have to be scary.
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [DagnyT/hardnet](https://github.com/DagnyT/hardnet) - Hardnet descriptor model - "Working hard to know your neighbor's margins:  Local descriptor learning loss"
