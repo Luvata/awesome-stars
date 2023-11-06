@@ -530,7 +530,7 @@
 - [google-research/magvit](https://github.com/google-research/magvit) - Official JAX implementation of MAGVIT: Masked Generative Video Transformer
 - [allenai/visprog](https://github.com/allenai/visprog) - Official code for VisProg (CVPR 2023 Best Paper!)
 - [sanjayss34/codevqa](https://github.com/sanjayss34/codevqa) - 
-- [nlpxucan/abcd](https://github.com/nlpxucan/abcd) - 
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - 
 - [BoChenYS/BPnP](https://github.com/BoChenYS/BPnP) - Back-propagatable PnP
 - [feizc/Gradient-Free-Textual-Inversion](https://github.com/feizc/Gradient-Free-Textual-Inversion) - Gradient-Free Textual Inversion for Personalized Text-to-Image Generation
 - [mist-project/mist](https://github.com/mist-project/mist) - 
