@@ -197,6 +197,7 @@
 
 ## Jupyter Notebook 
 
+- [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - Dataset Diffusion: Diffusion-based Synthetic Data Generation for Pixel-Level Semantic Segmentation (NeurIPS2023)
 - [OutofAi/2D-Gaussian-Splatting](https://github.com/OutofAi/2D-Gaussian-Splatting) - A 2D Gaussian Splatting paper for no obvious reasons. Enjoy!
 - [CaradryanLiang/ImprovedAdvDM](https://github.com/CaradryanLiang/ImprovedAdvDM) - 
 - [boschresearch/Divide-and-Bind](https://github.com/boschresearch/Divide-and-Bind) - Official implementation of "Divide & Bind Your Attention for Improved Generative Semantic Nursing" (BMVC 2023 Oral)
