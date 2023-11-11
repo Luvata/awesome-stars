@@ -1084,7 +1084,7 @@
 
 - [thucdx/news-trending](https://github.com/thucdx/news-trending) - Finding trends in news article with Spark (MLLIB, LDA), Spark-Solr, Solr
 - [ikhoon/functional-programming-jargon.scala](https://github.com/ikhoon/functional-programming-jargon.scala) - Scala code examples - Jargon from the functional programming world in simple terms!
-- [playframework/playframework](https://github.com/playframework/playframework) - Play Framework
+- [playframework/playframework](https://github.com/playframework/playframework) - The Community Maintained High Velocity Web Framework For Java and Scala.
 
 ## Shell 
 
