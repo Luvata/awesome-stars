@@ -834,7 +834,7 @@
 - [paperswithcode/axcell](https://github.com/paperswithcode/axcell) - Tools for extracting tables and results from Machine Learning papers
 - [wgrathwohl/JEM](https://github.com/wgrathwohl/JEM) - Project site for "Your Classifier is Secretly an Energy-Based Model and You Should Treat it Like One"
 - [pyro-ppl/pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
-- [kornia/kornia](https://github.com/kornia/kornia) - Computer Vision and Robotics Library for AI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for AI
 - [marin-m/pbtk](https://github.com/marin-m/pbtk) - A toolset for reverse engineering and fuzzing Protobuf-based apps
 - [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
 - [gboeing/osmnx](https://github.com/gboeing/osmnx) - OSMnx is a Python package to easily download, model, analyze, and visualize street networks and other geospatial features from OpenStreetMap.
