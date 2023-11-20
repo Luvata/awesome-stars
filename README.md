@@ -197,6 +197,7 @@
 
 ## Jupyter Notebook 
 
+- [google/inspiration_tree](https://github.com/google/inspiration_tree) - 
 - [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - Dataset Diffusion: Diffusion-based Synthetic Data Generation for Pixel-Level Semantic Segmentation (NeurIPS2023)
 - [OutofAi/2D-Gaussian-Splatting](https://github.com/OutofAi/2D-Gaussian-Splatting) - A 2D Gaussian Splatting paper for no obvious reasons. Enjoy!
 - [CaradryanLiang/ImprovedAdvDM](https://github.com/CaradryanLiang/ImprovedAdvDM) - 
@@ -217,7 +218,7 @@
 - [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) - PyTorch code and models for the DINOv2 self-supervised learning method.
 - [dome272/Paella](https://github.com/dome272/Paella) - Official Implementation of Paella https://arxiv.org/abs/2211.07292v2
 - [jmfacil/camconvs](https://github.com/jmfacil/camconvs) - Code for the CVPR paper "CAM-Convs: Camera-Aware Multi-Scale Convolutions for Single-View Depth"
-- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [williamyang1991/StyleGANEX](https://github.com/williamyang1991/StyleGANEX) - [ICCV 2023] StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces
 - [MadryLab/photoguard](https://github.com/MadryLab/photoguard) - Raising the Cost of Malicious AI-Powered Image Editing
