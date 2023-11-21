@@ -507,6 +507,7 @@
 
 ## Python 
 
+- [SHI-Labs/Forget-Me-Not](https://github.com/SHI-Labs/Forget-Me-Not) - Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models, 2023
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) - 
 - [openai/consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE
 - [jmhb0/view_neti](https://github.com/jmhb0/view_neti) - 
