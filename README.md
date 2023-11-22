@@ -197,6 +197,7 @@
 
 ## Jupyter Notebook 
 
+- [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [google/inspiration_tree](https://github.com/google/inspiration_tree) - 
 - [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - Dataset Diffusion: Diffusion-based Synthetic Data Generation for Pixel-Level Semantic Segmentation (NeurIPS2023)
 - [OutofAi/2D-Gaussian-Splatting](https://github.com/OutofAi/2D-Gaussian-Splatting) - A 2D Gaussian Splatting paper for no obvious reasons. Enjoy!
