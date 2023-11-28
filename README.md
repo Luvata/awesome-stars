@@ -816,7 +816,7 @@
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [nguyenvulebinh/vietnamese-roberta](https://github.com/nguyenvulebinh/vietnamese-roberta) - A Robustly Optimized BERT Pretraining Approach for Vietnamese
 - [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
-- [urschrei/simplification](https://github.com/urschrei/simplification) - Very fast LineString simplification using RDP or Visvalingam-Whyatt and a Rust binary
+- [urschrei/simplification](https://github.com/urschrei/simplification) - Very fast Python LineString simplification using RDP or Visvalingam-Whyatt and a Rust binary
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch) - Usable Implementation of "Bootstrap Your Own Latent" self-supervised learning, from Deepmind, in Pytorch
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
