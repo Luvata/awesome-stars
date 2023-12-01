@@ -509,6 +509,7 @@
 
 ## Python 
 
+- [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [yobibyte/compressor](https://github.com/yobibyte/compressor) - Because we don't have enough time to read everything
 - [SHI-Labs/Forget-Me-Not](https://github.com/SHI-Labs/Forget-Me-Not) - Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models, 2023
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) - 
