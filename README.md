@@ -31,7 +31,6 @@
 - [OpenEdge ABL](#openedge-abl)
 - [Others](#others)
 - [Perl](#perl)
-- [Processing](#processing)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -502,10 +501,6 @@
 ## Perl 
 
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
-
-## Processing 
-
-- [Code-Bullet/SnakeFusion](https://github.com/Code-Bullet/SnakeFusion) - Using the genetic algorithm and neural networks I trained up 5 snakes who will then fuse to become the ultimate snake, this is how I did it
 
 ## Python 
 
@@ -1134,7 +1129,7 @@
 - [cristianvasquez/obsidian-snippets-plugin](https://github.com/cristianvasquez/obsidian-snippets-plugin) - 
 - [joethei/obsidian-rss](https://github.com/joethei/obsidian-rss) - Read RSS Feeds from inside obsidian
 - [gavvvr/obsidian-imgur-plugin](https://github.com/gavvvr/obsidian-imgur-plugin) - Pastes images right to imgur.com
-- [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning and managing pomodoro timers from a task list in a Markdown note.
+- [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner) - An Obsidian plugin for day planning with a clean UI and a simple task format
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
