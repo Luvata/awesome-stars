@@ -122,6 +122,7 @@
 
 ## HTML 
 
+- [thuanz123/swiftbrush](https://github.com/thuanz123/swiftbrush) - 
 - [thuanz123/creps](https://github.com/thuanz123/creps) - 
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
 - [josephrocca/clip-image-sorter](https://github.com/josephrocca/clip-image-sorter) - Sort a folder of images according to their similarity with provided text in your browser (uses a browser-ported version of OpenAI's CLIP model and the web's new File System Access API)
@@ -329,6 +330,7 @@
 - [huggingface/blog](https://github.com/huggingface/blog) - Public repo for HF blog posts
 - [polynote/polynote](https://github.com/polynote/polynote) - A better notebook for Scala (and more)
 - [iechevarria/lego-face-VAE](https://github.com/iechevarria/lego-face-VAE) - Variational autoencoder for Lego minifig faces
+- [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [geoffbacon/cerberus](https://github.com/geoffbacon/cerberus) - Cerberus is an app that reduces the annotation burden of linguists
 - [tiepvupsu/ebookMLCB](https://github.com/tiepvupsu/ebookMLCB) - ebook Machine Learning cơ bản
 - [enzoampil/tito-joker](https://github.com/enzoampil/tito-joker) - A humorous AI that uses state-of-the-art deep learning to tell jokes
@@ -876,7 +878,6 @@
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
 - [oscarknagg/few-shot](https://github.com/oscarknagg/few-shot) - Repository for few-shot learning machine learning projects
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
-- [facebookresearch/LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations
 - [mjpost/sacrebleu](https://github.com/mjpost/sacrebleu) - Reference BLEU implementation that auto-downloads test sets and reports a version string to facilitate cross-lab comparisons
 - [facebookresearch/cc_net](https://github.com/facebookresearch/cc_net) - Tools to download and cleanup Common Crawl data
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
