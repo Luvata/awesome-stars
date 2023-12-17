@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [diffusion-motion-transfer/diffusion-motion-transfer](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer) - 
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [yobibyte/compressor](https://github.com/yobibyte/compressor) - Because we don't have enough time to read everything
