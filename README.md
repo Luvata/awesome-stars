@@ -505,6 +505,9 @@
 
 ## Python 
 
+- [bytedance/ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
+- [AAAAAAsuka/Impress](https://github.com/AAAAAAsuka/Impress) - code of paper "IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based  Generative AI"
+- [shizmob/rpatool](https://github.com/shizmob/rpatool) - A tool to work with Ren'Py archives.
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
 - [diffusion-motion-transfer/diffusion-motion-transfer](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer) - 
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
