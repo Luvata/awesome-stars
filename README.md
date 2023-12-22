@@ -378,7 +378,7 @@
 - [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
 - [RylanSchaeffer/ucl-adv-dl-rl](https://github.com/RylanSchaeffer/ucl-adv-dl-rl) - 
 - [davidcpage/cifar10-fast](https://github.com/davidcpage/cifar10-fast) - 
-- [danielhanchen/hyperlearn](https://github.com/danielhanchen/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
+- [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn) - 2-2000x faster ML algos, 50% less memory usage, works on all hardware - new and old.
 - [nyoki-mtl/pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow) - Implementation of Everybody Dance Now by pytorch
 - [ai-academy-vn/BasicML](https://github.com/ai-academy-vn/BasicML) - 
 - [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) - Public facing notes page
