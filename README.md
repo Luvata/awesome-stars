@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [necla-ml/Diff-JPEG](https://github.com/necla-ml/Diff-JPEG) - Official and maintained implementation of the paper "Differentiable JPEG: The Devil is in the Details" [WACV 2024].
 - [bytedance/ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
 - [AAAAAAsuka/Impress](https://github.com/AAAAAAsuka/Impress) - code of paper "IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based  Generative AI"
 - [shizmob/rpatool](https://github.com/shizmob/rpatool) - A tool to work with Ren'Py archives.
