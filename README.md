@@ -65,6 +65,7 @@
 - [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
@@ -276,7 +277,6 @@
 - [salesforce/BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
 - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns
 - [ai-forever/ru-dalle](https://github.com/ai-forever/ru-dalle) - Generate images from texts. In Russian
-- [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
 - [rmokady/CLIP_prefix_caption](https://github.com/rmokady/CLIP_prefix_caption) - Simple image captioning model
 - [patil-suraj/question_generation](https://github.com/patil-suraj/question_generation) - Neural question generation using transformers
 - [yandex-research/DeDLOC](https://github.com/yandex-research/DeDLOC) - Official code for "Distributed Deep Learning in Open Collaborations" (NeurIPS 2021)
@@ -505,6 +505,9 @@
 
 ## Python 
 
+- [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
+- [OPPO-Mente-Lab/PEA-Diffusion](https://github.com/OPPO-Mente-Lab/PEA-Diffusion) - PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation in non-English Text-to-Image Generation
+- [facebookresearch/DCI](https://github.com/facebookresearch/DCI) - Densely Captioned Images (DCI) dataset repository.
 - [necla-ml/Diff-JPEG](https://github.com/necla-ml/Diff-JPEG) - Official and maintained implementation of the paper "Differentiable JPEG: The Devil is in the Details" [WACV 2024].
 - [bytedance/ImageDream](https://github.com/bytedance/ImageDream) - The code releasing for https://image-dream.github.io/
 - [AAAAAAsuka/Impress](https://github.com/AAAAAAsuka/Impress) - code of paper "IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based  Generative AI"
