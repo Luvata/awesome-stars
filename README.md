@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
 - [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
 - [OPPO-Mente-Lab/PEA-Diffusion](https://github.com/OPPO-Mente-Lab/PEA-Diffusion) - PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation in non-English Text-to-Image Generation
 - [facebookresearch/DCI](https://github.com/facebookresearch/DCI) - Densely Captioned Images (DCI) dataset repository.
@@ -513,7 +514,7 @@
 - [AAAAAAsuka/Impress](https://github.com/AAAAAAsuka/Impress) - code of paper "IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based  Generative AI"
 - [shizmob/rpatool](https://github.com/shizmob/rpatool) - A tool to work with Ren'Py archives.
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong) - 
-- [diffusion-motion-transfer/diffusion-motion-transfer](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer) - 
+- [diffusion-motion-transfer/diffusion-motion-transfer](https://github.com/diffusion-motion-transfer/diffusion-motion-transfer) - Official Pytorch Implementation for "Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer""
 - [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast) - Simple and efficient pytorch-native transformer text generation in &lt;1000 LOC of python.
 - [yobibyte/compressor](https://github.com/yobibyte/compressor) - Because we don't have enough time to read everything
 - [SHI-Labs/Forget-Me-Not](https://github.com/SHI-Labs/Forget-Me-Not) - Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models, 2023
