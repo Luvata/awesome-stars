@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [st1vms/unofficial-claude2-api](https://github.com/st1vms/unofficial-claude2-api) - Unofficial Claude2 API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
 - [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
 - [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
 - [OPPO-Mente-Lab/PEA-Diffusion](https://github.com/OPPO-Mente-Lab/PEA-Diffusion) - PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation in non-English Text-to-Image Generation
