@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A Mamba implementation with parallel scan in PyTorch.
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [st1vms/unofficial-claude2-api](https://github.com/st1vms/unofficial-claude2-api) - Unofficial Claude2 API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
@@ -831,7 +832,7 @@
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [nguyenvulebinh/vietnamese-roberta](https://github.com/nguyenvulebinh/vietnamese-roberta) - A Robustly Optimized BERT Pretraining Approach for Vietnamese
 - [urschrei/pypolyline](https://github.com/urschrei/pypolyline) - Fast Google Polyline encoding and decoding using a Rust binary
-- [urschrei/simplification](https://github.com/urschrei/simplification) - Very fast Python LineString simplification using RDP or Visvalingam-Whyatt and a Rust binary
+- [urschrei/simplification](https://github.com/urschrei/simplification) - Very fast Python line simplification using either the RDP or Visvalingam-Whyatt algorithm implemented in Rust
 - [numba/numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch) - Usable Implementation of "Bootstrap Your Own Latent" self-supervised learning, from Deepmind, in Pytorch
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
