@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -44,6 +45,10 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## Assembly 
+
+- [HazyResearch/m2](https://github.com/HazyResearch/m2) - Repo for "Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture"
 
 ## C 
 
