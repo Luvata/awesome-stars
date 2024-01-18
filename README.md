@@ -510,6 +510,7 @@
 
 ## Python 
 
+- [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A Mamba implementation with parallel scan in PyTorch.
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
