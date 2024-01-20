@@ -510,9 +510,10 @@
 
 ## Python 
 
+- [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
-- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A Mamba implementation with parallel scan in PyTorch.
+- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - An efficient Mamba implementation in PyTorch and MLX.
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [st1vms/unofficial-claude2-api](https://github.com/st1vms/unofficial-claude2-api) - Unofficial Claude2 API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
 - [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
