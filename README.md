@@ -510,6 +510,7 @@
 
 ## Python 
 
+- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
