@@ -202,6 +202,7 @@
 
 ## Jupyter Notebook 
 
+- [mist-project/mist-v2](https://github.com/mist-project/mist-v2) - A watermarking tool to protect artworks from AIGC-driven style mimicry (e.g. LoRA)
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [google/inspiration_tree](https://github.com/google/inspiration_tree) - 
 - [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - Dataset Diffusion: Diffusion-based Synthetic Data Generation for Pixel-Level Semantic Segmentation (NeurIPS2023)
@@ -510,6 +511,7 @@
 
 ## Python 
 
+- [xavihart/Diff-Protect](https://github.com/xavihart/Diff-Protect) - 🛡️[ICLR'2024] Toward effective protection against diffusion-based mimicry through score distillation
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
