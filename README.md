@@ -342,7 +342,7 @@
 - [enzoampil/tito-joker](https://github.com/enzoampil/tito-joker) - A humorous AI that uses state-of-the-art deep learning to tell jokes
 - [dsgiitr/d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch) - This project reproduces the book Dive Into Deep Learning (https://d2l.ai/), adapting the code from MXNet into PyTorch.
 - [jph00/hello_nbdev](https://github.com/jph00/hello_nbdev) - A tutorial example for nbdev
-- [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
+- [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods, ICCV 2019
 - [karpathy/pytorch-normalizing-flows](https://github.com/karpathy/pytorch-normalizing-flows) - Normalizing flows in PyTorch. Current intended use is education not production.
 - [harvardnlp/pytorch-struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
