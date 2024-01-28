@@ -447,6 +447,7 @@
 
 ## Others 
 
+- [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [WinKawaks/DreamWire](https://github.com/WinKawaks/DreamWire) - Wired Perspectives: Multi-View Wire Art Embraces Generative AI
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [magic-research/magic-edit](https://github.com/magic-research/magic-edit) - MagicEdit: High-Fidelity Temporally Coherent Video Editing
@@ -522,7 +523,6 @@
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [cg123/mergekit](https://github.com/cg123/mergekit) - Tools for merging pretrained large language models.
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - An efficient Mamba implementation in PyTorch and MLX.
-- [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [st1vms/unofficial-claude2-api](https://github.com/st1vms/unofficial-claude2-api) - Unofficial Claude2 API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
 - [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
 - [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
@@ -1147,6 +1147,7 @@
 
 ## TypeScript 
 
+- [clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) - AI-powered journaling plugin for your Obsidian notes, inspired by cognitive behavioral therapy
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [Quorafind/Obsidian-Daily-Notes-Editor](https://github.com/Quorafind/Obsidian-Daily-Notes-Editor) - A plugin for you to edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
