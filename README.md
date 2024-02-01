@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [SalesforceAIResearch/DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) - Code for "Diffusion Model Alignment Using Direct Preference Optimization"
 - [VinAIResearch/SA-DPM](https://github.com/VinAIResearch/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [xavihart/Diff-Protect](https://github.com/xavihart/Diff-Protect) - 🛡️[ICLR'2024] Toward effective protection against diffusion-based mimicry through score distillation
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
