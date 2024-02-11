@@ -67,7 +67,7 @@
 
 ## C++ 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -524,7 +524,7 @@
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
-- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple Mamba implementation in PyTorch and MLX.
+- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in PyTorch and MLX.
 - [st1vms/unofficial-claude2-api](https://github.com/st1vms/unofficial-claude2-api) - Unofficial Claude2 API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
 - [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
 - [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
