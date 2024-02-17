@@ -72,7 +72,6 @@
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
 - [maxoodf/tgnews](https://github.com/maxoodf/tgnews) - Telegram Data Clustering Contest (Bossy Gnu's submission )
@@ -769,6 +768,7 @@
 - [DeNA/HandyRL](https://github.com/DeNA/HandyRL) - HandyRL is a handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments.
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
 - [vietai/mTet](https://github.com/vietai/mTet) - MTet: Multi-domain Translation for English and Vietnamese
+- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [fsoft-ailab/Poem-Generator](https://github.com/fsoft-ailab/Poem-Generator) - 
 - [nguyenvulebinh/extractive-qa-mrc](https://github.com/nguyenvulebinh/extractive-qa-mrc) - Machine Reading Comprehension special for the Vietnamese language
 - [AranKomat/Diff-DALLE](https://github.com/AranKomat/Diff-DALLE) - 
