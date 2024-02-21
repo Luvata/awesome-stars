@@ -401,7 +401,7 @@
 
 ## Kotlin 
 
-- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on Grammar of Graphics
+- [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
 - [mccorby/PhotoLabeller](https://github.com/mccorby/PhotoLabeller) - Federated Learning: Client application doing classification of images and local training. Works better with the Parameter Server at https://github.com/mccorby/PhotoLabellerServer
 - [sduduzog/slim-launcher](https://github.com/sduduzog/slim-launcher) - Android minimalistic launcher
 
@@ -516,6 +516,7 @@
 
 ## Python 
 
+- [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [SalesforceAIResearch/DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) - Code for "Diffusion Model Alignment Using Direct Preference Optimization"
 - [VinAIResearch/SA-DPM](https://github.com/VinAIResearch/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [xavihart/Diff-Protect](https://github.com/xavihart/Diff-Protect) - 🛡️[ICLR'2024] Toward effective protection against diffusion-based mimicry through score distillation
