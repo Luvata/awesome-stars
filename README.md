@@ -560,7 +560,7 @@
 - [lucidrains/perfusion-pytorch](https://github.com/lucidrains/perfusion-pytorch) - Implementation of Key-Locked Rank One Editing, from Nvidia AI
 - [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - Dataset, code and models for the paper "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
-- [thaoshibe/visii](https://github.com/thaoshibe/visii) - Visual Instruction Inversion: Image Editing via Visual Prompting (NeurIPS 2023)
+- [thaoshibe/visii](https://github.com/thaoshibe/visii) - 👀 Visual Instruction Inversion: Image Editing via Visual Prompting (NeurIPS 2023)
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
 - [miccunifi/SEARLE](https://github.com/miccunifi/SEARLE) - [ICCV 2023] - Zero-shot Composed Image Retrieval with Textual Inversion
 - [telexyz/GPT4VN](https://github.com/telexyz/GPT4VN) - Ai cũng có thể tự tạo chatbot bằng huấn luyện chỉ dẫn, với 12G GPU (RTX 3060) và khoảng vài chục MB dữ liệu
