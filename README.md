@@ -202,12 +202,13 @@
 
 ## Jupyter Notebook 
 
+- [threedle/3d-paintbrush](https://github.com/threedle/3d-paintbrush) - 
 - [mist-project/mist-v2](https://github.com/mist-project/mist-v2) - A watermarking tool to protect artworks from AIGC-driven style mimicry (e.g. LoRA)
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [google/inspiration_tree](https://github.com/google/inspiration_tree) - 
 - [VinAIResearch/Dataset-Diffusion](https://github.com/VinAIResearch/Dataset-Diffusion) - Dataset Diffusion: Diffusion-based Synthetic Data Generation for Pixel-Level Semantic Segmentation (NeurIPS2023)
 - [OutofAi/2D-Gaussian-Splatting](https://github.com/OutofAi/2D-Gaussian-Splatting) - A 2D Gaussian Splatting paper for no obvious reasons. Enjoy!
-- [CaradryanLiang/ImprovedAdvDM](https://github.com/CaradryanLiang/ImprovedAdvDM) - 
+- [caradryanl/ImprovedAdvDM](https://github.com/caradryanl/ImprovedAdvDM) - 
 - [boschresearch/Divide-and-Bind](https://github.com/boschresearch/Divide-and-Bind) - Official implementation of "Divide & Bind Your Attention for Improved Generative Semantic Nursing" (BMVC 2023 Oral)
 - [RyannDaGreat/Diffusion-Illusions](https://github.com/RyannDaGreat/Diffusion-Illusions) - Diffusion Illusions: Hiding Images in Plain Sight
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
