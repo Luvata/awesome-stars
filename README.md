@@ -560,7 +560,7 @@
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models
 - [KoushikNavuluri/Claude-API](https://github.com/KoushikNavuluri/Claude-API) - This project provides an unofficial API for Claude AI, allowing users to access and interact with Claude AI .
 - [lucidrains/perfusion-pytorch](https://github.com/lucidrains/perfusion-pytorch) - Implementation of Key-Locked Rank One Editing, from Nvidia AI
-- [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - Dataset, code and models for the paper "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
+- [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - [NeurIPS'23] "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
 - [thaoshibe/visii](https://github.com/thaoshibe/visii) - 👀 Visual Instruction Inversion: Image Editing via Visual Prompting (NeurIPS 2023)
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
