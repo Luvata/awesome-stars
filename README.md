@@ -203,7 +203,7 @@
 
 ## Jupyter Notebook 
 
-- [threedle/3d-paintbrush](https://github.com/threedle/3d-paintbrush) - 
+- [threedle/3d-paintbrush](https://github.com/threedle/3d-paintbrush) - Local text-driven editing of 3D shapes with Cascaded Score Distillation
 - [mist-project/mist-v2](https://github.com/mist-project/mist-v2) - A watermarking tool to protect artworks from AIGC-driven style mimicry (e.g. LoRA)
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
 - [google/inspiration_tree](https://github.com/google/inspiration_tree) - 
@@ -517,6 +517,7 @@
 
 ## Python 
 
+- [AshwinPathi/claude-api-py](https://github.com/AshwinPathi/claude-api-py) - Unofficial Python API for Anthropic's Claude LLM
 - [jasonyzhang/RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [SalesforceAIResearch/DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) - Code for "Diffusion Model Alignment Using Direct Preference Optimization"
