@@ -152,7 +152,7 @@
 - [Spandan-Madan/DeepLearningProject](https://github.com/Spandan-Madan/DeepLearningProject) - An in-depth machine learning tutorial introducing readers to a whole machine learning pipeline from scratch.
 - [twitter/scala_school](https://github.com/twitter/scala_school) - Lessons in the Fundamentals of Scala
 - [informramiz/opencv-face-recognition-python](https://github.com/informramiz/opencv-face-recognition-python) - Face Recognition using OpenCV and Python.
-- [TaylanTatli/Moon](https://github.com/TaylanTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
+- [TolgaTatli/Moon](https://github.com/TolgaTatli/Moon) - 🌓 Moon is a minimal, one column jekyll theme.
 - [EgorKulikov/acm_profiles](https://github.com/EgorKulikov/acm_profiles) - 
 
 ## Haskell 
