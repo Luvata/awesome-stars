@@ -205,6 +205,7 @@
 
 ## Jupyter Notebook 
 
+- [cure-lab/PnPInversion](https://github.com/cure-lab/PnPInversion) - [ICLR2024] Official repo for paper "PnP Inversion: Boosting Diffusion-based Editing with 3 Lines of Code"
 - [threedle/3d-paintbrush](https://github.com/threedle/3d-paintbrush) - Local text-driven editing of 3D shapes with Cascaded Score Distillation
 - [mist-project/mist-v2](https://github.com/mist-project/mist-v2) - A watermarking tool to protect artworks from AIGC-driven style mimicry (e.g. LoRA)
 - [rohitgandikota/sliders](https://github.com/rohitgandikota/sliders) - Concept Sliders for Precise Control of Diffusion Models
