@@ -552,7 +552,7 @@
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [thuanz123/raycond](https://github.com/thuanz123/raycond) - Unofficial PyTorch implementation of Ray Conditioning
 - [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
-- [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - Everything about MetaCLIP: curation/training code, metadata, distribution and pre-trained models.
+- [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP.
 - [aicrumb/MoLora](https://github.com/aicrumb/MoLora) - 
 - [google/break-a-scene](https://github.com/google/break-a-scene) - Official implementation for "Break-A-Scene: Extracting Multiple Concepts from a Single Image" [SIGGRAPH Asia 2023]
 - [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
@@ -973,7 +973,7 @@
 - [ngxbac/Kaggle-Jigsaw](https://github.com/ngxbac/Kaggle-Jigsaw) - 
 - [ShannonAI/service-streamer](https://github.com/ShannonAI/service-streamer) - Boosting your Web Services of Deep Learning Applications.
 - [sonvx/word2vecVN](https://github.com/sonvx/word2vecVN) - Pre-trained Word2Vec models for Vietnamese
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments Management with Git
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉 ML Experiments and Data Management with Git
 - [RTIInternational/gobbli](https://github.com/RTIInternational/gobbli) - Deep learning with text doesn't have to be scary.
 - [learnables/learn2learn](https://github.com/learnables/learn2learn) - A PyTorch Library for Meta-learning Research
 - [DagnyT/hardnet](https://github.com/DagnyT/hardnet) - Hardnet descriptor model - "Working hard to know your neighbor's margins:  Local descriptor learning loss"
