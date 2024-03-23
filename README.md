@@ -520,6 +520,7 @@
 
 ## Python 
 
+- [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [AshwinPathi/claude-api-py](https://github.com/AshwinPathi/claude-api-py) - Unofficial Python API for Anthropic's Claude LLM
 - [jasonyzhang/RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
