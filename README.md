@@ -520,6 +520,7 @@
 
 ## Python 
 
+- [ShihaoZhaoZSH/LaVi-Bridge](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [AshwinPathi/claude-api-py](https://github.com/AshwinPathi/claude-api-py) - Unofficial Python API for Anthropic's Claude LLM
 - [jasonyzhang/RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
