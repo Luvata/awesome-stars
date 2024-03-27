@@ -520,6 +520,7 @@
 
 ## Python 
 
+- [quic/aimet](https://github.com/quic/aimet) - AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
 - [ShihaoZhaoZSH/LaVi-Bridge](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [AshwinPathi/claude-api-py](https://github.com/AshwinPathi/claude-api-py) - Unofficial Python API for Anthropic's Claude LLM
@@ -533,7 +534,7 @@
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
 - [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in PyTorch and MLX.
-- [st1vms/unofficial-claude2-api](https://github.com/st1vms/unofficial-claude2-api) - Unofficial Claude2 API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
+- [st1vms/unofficial-claude-api](https://github.com/st1vms/unofficial-claude-api) - Unofficial Claude API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
 - [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
 - [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
 - [OPPO-Mente-Lab/PEA-Diffusion](https://github.com/OPPO-Mente-Lab/PEA-Diffusion) - PEA-Diffusion: Parameter-Efficient Adapter with Knowledge Distillation in non-English Text-to-Image Generation
