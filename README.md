@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [ma-xu/Rewrite-the-Stars](https://github.com/ma-xu/Rewrite-the-Stars) - [CVPR 2024] Rewrite the Stars
 - [quic/aimet](https://github.com/quic/aimet) - AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
 - [ShihaoZhaoZSH/LaVi-Bridge](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
