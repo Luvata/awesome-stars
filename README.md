@@ -776,7 +776,7 @@
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [gsarti/t5-flax-gcp](https://github.com/gsarti/t5-flax-gcp) - Tutorial to pretrain & fine-tune a 🤗 Flax T5 model on a TPUv3-8 with GCP
 - [shawwn/scrap](https://github.com/shawwn/scrap) - Nearly a thousand bash and python scripts I've written over the years.
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [DeNA/HandyRL](https://github.com/DeNA/HandyRL) - HandyRL is a handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments.
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
 - [vietai/mTet](https://github.com/vietai/mTet) - MTet: Multi-domain Translation for English and Vietnamese
