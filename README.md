@@ -205,6 +205,8 @@
 
 ## Jupyter Notebook 
 
+- [mlpc-ucsd/TokenCompose](https://github.com/mlpc-ucsd/TokenCompose) - (CVPR 2024) 🧩 TokenCompose: Grounding Diffusion with Token-level Supervision
+- [srush/Transformer-Puzzles](https://github.com/srush/Transformer-Puzzles) - Puzzles for exploring transformers
 - [cure-lab/PnPInversion](https://github.com/cure-lab/PnPInversion) - [ICLR2024] Official repo for paper "PnP Inversion: Boosting Diffusion-based Editing with 3 Lines of Code"
 - [threedle/3d-paintbrush](https://github.com/threedle/3d-paintbrush) - Local text-driven editing of 3D shapes with Cascaded Score Distillation
 - [psyker-team/mist-v2](https://github.com/psyker-team/mist-v2) - A watermarking tool to protect artworks from AIGC-driven style mimicry (e.g. LoRA)
