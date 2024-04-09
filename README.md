@@ -523,6 +523,8 @@
 
 ## Python 
 
+- [Mowenyii/PAE](https://github.com/Mowenyii/PAE) - [CVPR 2024] Dynamic Prompt Optimizing for Text-to-Image Generation
+- [Jackieam/InMeMo](https://github.com/Jackieam/InMeMo) - [WACV 2024] Instruct Me More! Random Prompting for Visual In-Context Learning
 - [ma-xu/Rewrite-the-Stars](https://github.com/ma-xu/Rewrite-the-Stars) - [CVPR 2024] Rewrite the Stars
 - [quic/aimet](https://github.com/quic/aimet) - AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
 - [ShihaoZhaoZSH/LaVi-Bridge](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation
@@ -796,7 +798,7 @@
 - [yk/clip_music_video](https://github.com/yk/clip_music_video) - Code for making music videos using CLIP
 - [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) - Code for the paper Fine-Tuning Language Models from Human Preferences
 - [urvashik/knnlm](https://github.com/urvashik/knnlm) - 
-- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -920,7 +922,7 @@
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [philgooch/abbreviation-extraction](https://github.com/philgooch/abbreviation-extraction) - Python3 implementation of the Schwartz-Hearst algorithm for extracting abbreviation-definition pairs
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Build Production-Grade AI Applications
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI models in production
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
 - [oscarknagg/few-shot](https://github.com/oscarknagg/few-shot) - Repository for few-shot learning machine learning projects
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
