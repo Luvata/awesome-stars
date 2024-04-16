@@ -55,7 +55,6 @@
 ## C 
 
 - [carlini/c-chat-gpt-2](https://github.com/carlini/c-chat-gpt-2) - 
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
 - [AsahiLinux/gpu](https://github.com/AsahiLinux/gpu) - Dissecting the M1's GPU for 3D acceleration
 - [EHfive/pulseaudio-modules-bt](https://github.com/EHfive/pulseaudio-modules-bt) - [Deprecated, see https://github.com/EHfive/pulseaudio-modules-bt/issues/154] Adds Sony LDAC, aptX, aptX HD, AAC codecs (A2DP Audio) support to PulseAudio on Linux
