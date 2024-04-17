@@ -528,6 +528,7 @@
 
 ## Python 
 
+- [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - 
 - [Mowenyii/PAE](https://github.com/Mowenyii/PAE) - [CVPR 2024] Dynamic Prompt Optimizing for Text-to-Image Generation
 - [Jackieam/InMeMo](https://github.com/Jackieam/InMeMo) - [WACV 2024] Instruct Me More! Random Prompting for Visual In-Context Learning
 - [ma-xu/Rewrite-the-Stars](https://github.com/ma-xu/Rewrite-the-Stars) - [CVPR 2024] Rewrite the Stars
@@ -897,7 +898,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
+- [aai-institute/tianshou](https://github.com/aai-institute/tianshou) - An elegant PyTorch deep reinforcement learning library.
 - [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [SpaceNetChallenge/RoadDetector](https://github.com/SpaceNetChallenge/RoadDetector) - Winning Solutions from SpaceNet Road Detection and Routing Challenge
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
