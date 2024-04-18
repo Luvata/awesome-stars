@@ -580,7 +580,7 @@
 - [lucidrains/perfusion-pytorch](https://github.com/lucidrains/perfusion-pytorch) - Implementation of Key-Locked Rank One Editing, from Nvidia AI
 - [OSU-NLP-Group/MagicBrush](https://github.com/OSU-NLP-Group/MagicBrush) - [NeurIPS'23] "MagicBrush: A Manually Annotated Dataset for Instruction-Guided Image Editing".
 - [adobe-research/custom-diffusion](https://github.com/adobe-research/custom-diffusion) - Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion (CVPR 2023)
-- [WAIV-Prof-Yong-Jae-Lee-s-lab/visii](https://github.com/WAIV-Prof-Yong-Jae-Lee-s-lab/visii) - 👀 Visual Instruction Inversion: Image Editing via Visual Prompting (NeurIPS 2023)
+- [WisconsinAIVision/visii](https://github.com/WisconsinAIVision/visii) - 👀 Visual Instruction Inversion: Image Editing via Visual Prompting (NeurIPS 2023)
 - [qhduan/cn-chat-arxiv](https://github.com/qhduan/cn-chat-arxiv) - 
 - [miccunifi/SEARLE](https://github.com/miccunifi/SEARLE) - [ICCV 2023] - Zero-shot Composed Image Retrieval with Textual Inversion
 - [telexyz/GPT4VN](https://github.com/telexyz/GPT4VN) - Ai cũng có thể tự tạo chatbot bằng huấn luyện chỉ dẫn, với 12G GPU (RTX 3060) và khoảng vài chục MB dữ liệu
@@ -898,7 +898,7 @@
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [aai-institute/tianshou](https://github.com/aai-institute/tianshou) - An elegant PyTorch deep reinforcement learning library.
+- [thu-ml/tianshou](https://github.com/thu-ml/tianshou) - An elegant PyTorch deep reinforcement learning library.
 - [taki0112/UGATIT](https://github.com/taki0112/UGATIT) - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020)
 - [SpaceNetChallenge/RoadDetector](https://github.com/SpaceNetChallenge/RoadDetector) - Winning Solutions from SpaceNet Road Detection and Routing Challenge
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
