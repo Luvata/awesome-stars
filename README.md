@@ -230,7 +230,7 @@
 - [ebagdasa/multimodal_injection](https://github.com/ebagdasa/multimodal_injection) - 
 - [Vaibhavs10/translate-with-whisper](https://github.com/Vaibhavs10/translate-with-whisper) - 
 - [yossigandelsman/rosetta_neurons](https://github.com/yossigandelsman/rosetta_neurons) - Official PyTorch Implementation of "Rosetta Neurons: Mining the Common Units in a Model Zoo"
-- [google-edge-ai/mediapipe-samples](https://github.com/google-edge-ai/mediapipe-samples) - 
+- [googlesamples/mediapipe](https://github.com/googlesamples/mediapipe) - 
 - [LeeDongYeun/FixNoise](https://github.com/LeeDongYeun/FixNoise) - Official Pytorch Implementation for "Fix the Noise: Disentangling Source Feature for Controllable Domain Translation" (CVPR 2023, CVPRW 2022 Best paper)
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence
 - [FreddeFrallan/Multilingual-CLIP](https://github.com/FreddeFrallan/Multilingual-CLIP) - OpenAI CLIP text encoders for multiple languages!
@@ -528,6 +528,7 @@
 
 ## Python 
 
+- [mnpham0417/diffusers](https://github.com/mnpham0417/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - 
 - [Mowenyii/PAE](https://github.com/Mowenyii/PAE) - [CVPR 2024] Dynamic Prompt Optimizing for Text-to-Image Generation
 - [Jackieam/InMeMo](https://github.com/Jackieam/InMeMo) - [WACV 2024] Instruct Me More! Random Prompting for Visual In-Context Learning
@@ -566,7 +567,7 @@
 - [jmhb0/view_neti](https://github.com/jmhb0/view_neti) - 
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [thuanz123/raycond](https://github.com/thuanz123/raycond) - Unofficial PyTorch implementation of Ray Conditioning
-- [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP.
+- [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP; CVPR 2024: MoDE: CLIP Data Experts via Clustering
 - [aicrumb/MoLora](https://github.com/aicrumb/MoLora) - 
 - [google/break-a-scene](https://github.com/google/break-a-scene) - Official implementation for "Break-A-Scene: Extracting Multiple Concepts from a Single Image" [SIGGRAPH Asia 2023]
 - [cientgu/InstructDiffusion](https://github.com/cientgu/InstructDiffusion) - PyTorch implementation of InstructDiffusion, a unifying and generic framework for aligning computer vision tasks with human instructions.
