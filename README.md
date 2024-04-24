@@ -209,6 +209,7 @@
 
 ## Jupyter Notebook 
 
+- [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
 - [cloneofsimo/d3pm](https://github.com/cloneofsimo/d3pm) - Minimal Implementation of a D3PM in pytorch
 - [mlpc-ucsd/TokenCompose](https://github.com/mlpc-ucsd/TokenCompose) - (CVPR 2024) 🧩 TokenCompose: Grounding Diffusion with Token-level Supervision
 - [srush/Transformer-Puzzles](https://github.com/srush/Transformer-Puzzles) - Puzzles for exploring transformers
@@ -475,7 +476,7 @@
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations (ICCV 2021)
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
-- [iwangjian/Paper-Reading](https://github.com/iwangjian/Paper-Reading) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
+- [iwangjian/Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
