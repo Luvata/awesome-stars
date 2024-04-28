@@ -459,6 +459,7 @@
 
 ## Others 
 
+- [peluche/SWE-to-MLE](https://github.com/peluche/SWE-to-MLE) - my blog
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [WinKawaks/DreamWire](https://github.com/WinKawaks/DreamWire) - [CVPR 2024] Wired Perspectives: Multi-View Wire Art Embraces Generative AI
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -529,6 +530,7 @@
 
 ## Python 
 
+- [NVIDIA/NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) - Scalable toolkit for efficient model alignment
 - [mnpham0417/diffusers](https://github.com/mnpham0417/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - 
 - [Mowenyii/PAE](https://github.com/Mowenyii/PAE) - [CVPR 2024] Dynamic Prompt Optimizing for Text-to-Image Generation
@@ -542,7 +544,7 @@
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google's Gemma models
 - [SalesforceAIResearch/DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) - Code for "Diffusion Model Alignment Using Direct Preference Optimization"
 - [VinAIResearch/SA-DPM](https://github.com/VinAIResearch/SA-DPM) - Official PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
-- [xavihart/Diff-Protect](https://github.com/xavihart/Diff-Protect) - 🛡️[ICLR'2024] Toward effective protection against diffusion-based mimicry through score distillation
+- [xavihart/Diff-Protect](https://github.com/xavihart/Diff-Protect) - 🛡️[ICLR'2024] Toward effective protection against diffusion-based mimicry through score distillation, a.k.a SDS-Attack
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
