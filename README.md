@@ -771,7 +771,7 @@
 - [LGAI-Research/L-Verse](https://github.com/LGAI-Research/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [facebookresearch/SLIP](https://github.com/facebookresearch/SLIP) - Code release for SLIP Self-supervision meets Language-Image Pre-training
 - [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager) - A platform for managing machine learning experiments
 - [srush/annotated-s4](https://github.com/srush/annotated-s4) - Implementation of https://srush.github.io/annotated-s4
