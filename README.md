@@ -530,6 +530,7 @@
 
 ## Python 
 
+- [proger/accelerated-scan](https://github.com/proger/accelerated-scan) - Accelerated First Order Parallel Associative Scan
 - [NVIDIA/NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner) - Scalable toolkit for efficient model alignment
 - [mnpham0417/diffusers](https://github.com/mnpham0417/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [mistralai/mistral-common](https://github.com/mistralai/mistral-common) - 
