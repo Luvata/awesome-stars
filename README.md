@@ -819,7 +819,7 @@
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [mrtzh/unbuch](https://github.com/mrtzh/unbuch) - Compile markdown into an html and pdf book based on pandoc.
 - [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
-- [MilaNLProc/contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models) - A python package to run contextualized topic modeling. CTMs combine contextualized embeddings (e.g., BERT) with topic models to get coherent topics. Published at EACL and ACL 2021.
+- [MilaNLProc/contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models) - A python package to run contextualized topic modeling. CTMs combine contextualized embeddings (e.g., BERT) with topic models to get coherent topics. Published at EACL and ACL 2021 (Bianchi et al.).
 - [facebookresearch/deit](https://github.com/facebookresearch/deit) - Official DeiT repository
 - [Elteoremadebeethoven/AnimationsWithManim](https://github.com/Elteoremadebeethoven/AnimationsWithManim) - Animation course with Manim
 - [deepset-ai/FARM](https://github.com/deepset-ai/FARM) - :house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.
