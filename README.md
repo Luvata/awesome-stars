@@ -72,7 +72,7 @@
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on XLA Devices (e.g. Google TPU)
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [YannickJadoul/Parselmouth](https://github.com/YannickJadoul/Parselmouth) - Praat in Python, the Pythonic way
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) - Automatic differentiation with weighted finite-state transducers.
 - [maxoodf/tgnews](https://github.com/maxoodf/tgnews) - Telegram Data Clustering Contest (Bossy Gnu's submission )
@@ -209,6 +209,7 @@
 
 ## Jupyter Notebook 
 
+- [SHI-Labs/CompactNet](https://github.com/SHI-Labs/CompactNet) - 
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
 - [cloneofsimo/d3pm](https://github.com/cloneofsimo/d3pm) - Minimal Implementation of a D3PM in pytorch
 - [mlpc-ucsd/TokenCompose](https://github.com/mlpc-ucsd/TokenCompose) - (CVPR 2024) 🧩 TokenCompose: Grounding Diffusion with Token-level Supervision
@@ -856,7 +857,7 @@
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The go
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [boudinfl/pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module
-- [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox protobuf is a Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
+- [nccgroup/blackboxprotobuf](https://github.com/nccgroup/blackboxprotobuf) - Blackbox Protobuf is a set of tools for working with encoded Protocol Buffers (protobuf) without the matching protobuf definition.
 - [adjidieng/ETM](https://github.com/adjidieng/ETM) - Topic Modeling in Embedding Spaces
 - [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
 - [dedupeio/dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
