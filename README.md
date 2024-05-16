@@ -1034,7 +1034,7 @@
 - [facebookresearch/pyrobot](https://github.com/facebookresearch/pyrobot) - PyRobot: An Open Source Robotics Research Platform
 - [suicao/Vietnamese-Tone-Prediction-with-Transformer-Decoder](https://github.com/suicao/Vietnamese-Tone-Prediction-with-Transformer-Decoder) - Solution for AIviVN's Vietnamese tone prediction competition
 - [zsef123/EfficientNets-PyTorch](https://github.com/zsef123/EfficientNets-PyTorch) - A PyTorch implementation of " EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."
-- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNet-V3/V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, 
+- [huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models) - The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)
 - [seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL) - Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -1154,7 +1154,6 @@
 - [google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) - 
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
-- [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [jodavaho/bashlog](https://github.com/jodavaho/bashlog) - A stupid-simple bash logging utility
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [node-red/node-red-docker](https://github.com/node-red/node-red-docker) - Repository for all things Node-RED and Docker related
@@ -1213,6 +1212,7 @@
 
 ## Vim Script 
 
+- [proycon/dotfiles](https://github.com/proycon/dotfiles) - My dotfiles
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Vue 
