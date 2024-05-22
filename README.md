@@ -794,7 +794,7 @@
 - [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL
 - [gsarti/t5-flax-gcp](https://github.com/gsarti/t5-flax-gcp) - Tutorial to pretrain & fine-tune a 🤗 Flax T5 model on a TPUv3-8 with GCP
 - [shawwn/scrap](https://github.com/shawwn/scrap) - Nearly a thousand bash and python scripts I've written over the years.
-- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
+- [docopt/docopt](https://github.com/docopt/docopt) - Create *beautiful* command-line interfaces with Python
 - [DeNA/HandyRL](https://github.com/DeNA/HandyRL) - HandyRL is a handy and simple framework based on Python and PyTorch for distributed reinforcement learning that is applicable to your own environments.
 - [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency) - MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models.
 - [vietai/mTet](https://github.com/vietai/mTet) - MTet: Multi-domain Translation for English and Vietnamese
@@ -936,7 +936,7 @@
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [philgooch/abbreviation-extraction](https://github.com/philgooch/abbreviation-extraction) - Python3 implementation of the Schwartz-Hearst algorithm for extracting abbreviation-definition pairs
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Multi-model Inference Graph/Pipelines, LLM/RAG apps, and more!
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
 - [oscarknagg/few-shot](https://github.com/oscarknagg/few-shot) - Repository for few-shot learning machine learning projects
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
@@ -1203,7 +1203,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) - HiPlot makes understanding high dimensional data easy
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 
 ## Vala 
