@@ -210,6 +210,7 @@
 
 ## Jupyter Notebook 
 
+- [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
 - [SHI-Labs/CompactNet](https://github.com/SHI-Labs/CompactNet) - 
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
 - [cloneofsimo/d3pm](https://github.com/cloneofsimo/d3pm) - Minimal Implementation of a D3PM in pytorch
