@@ -534,6 +534,7 @@
 
 ## Python 
 
+- [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 - [Lucky-Lance/TerDiT](https://github.com/Lucky-Lance/TerDiT) - 
 - [tianweiy/DMD2](https://github.com/tianweiy/DMD2) - 
 - [pytorch/ao](https://github.com/pytorch/ao) - Native PyTorch library for quantization and sparsity
