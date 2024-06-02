@@ -463,7 +463,6 @@
 
 ## Others 
 
-- [llm-merging/LLM-Merging](https://github.com/llm-merging/LLM-Merging) - LLM-Merging: Building LLMs Efficiently through Merging
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
 - [peluche/SWE-to-MLE](https://github.com/peluche/SWE-to-MLE) - my blog
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
@@ -536,6 +535,7 @@
 
 ## Python 
 
+- [llm-merging/LLM-Merging](https://github.com/llm-merging/LLM-Merging) - LLM-Merging: Building LLMs Efficiently through Merging
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet
 - [lvis-dataset/lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
