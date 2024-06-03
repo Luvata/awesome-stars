@@ -133,7 +133,6 @@
 
 ## HTML 
 
-- [Luvata/arxive](https://github.com/Luvata/arxive) - Arxiv daily dump and viewer using github action, host at luvata.github.io/arxive
 - [thuanz123/swiftbrush](https://github.com/thuanz123/swiftbrush) - 
 - [thuanz123/creps](https://github.com/thuanz123/creps) - 
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
