@@ -534,6 +534,8 @@
 
 ## Python 
 
+- [TencentARC/Mix-of-Show](https://github.com/TencentARC/Mix-of-Show) - NeurIPS 2023, Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
+- [kvfrans/jax-diffusion-transformer](https://github.com/kvfrans/jax-diffusion-transformer) - Implementation of Diffusion Transformer (DiT) in JAX
 - [llm-merging/LLM-Merging](https://github.com/llm-merging/LLM-Merging) - LLM-Merging: Building LLMs Efficiently through Merging
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet
 - [lvis-dataset/lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
