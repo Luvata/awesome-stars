@@ -133,6 +133,7 @@
 
 ## HTML 
 
+- [peluche/SWE-to-MLE](https://github.com/peluche/SWE-to-MLE) - my blog
 - [thuanz123/swiftbrush](https://github.com/thuanz123/swiftbrush) - 
 - [thuanz123/creps](https://github.com/thuanz123/creps) - 
 - [betterze/StyleAlign](https://github.com/betterze/StyleAlign) - 
@@ -463,7 +464,6 @@
 ## Others 
 
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
-- [peluche/SWE-to-MLE](https://github.com/peluche/SWE-to-MLE) - my blog
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - PyTorch implementation of "On Inference Stability for Diffusion Models" (AAAI'24)
 - [WinKawaks/DreamWire](https://github.com/WinKawaks/DreamWire) - [CVPR 2024] Wired Perspectives: Multi-View Wire Art Embraces Generative AI
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -534,6 +534,7 @@
 
 ## Python 
 
+- [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [TencentARC/Mix-of-Show](https://github.com/TencentARC/Mix-of-Show) - NeurIPS 2023, Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
 - [kvfrans/jax-diffusion-transformer](https://github.com/kvfrans/jax-diffusion-transformer) - Implementation of Diffusion Transformer (DiT) in JAX
 - [llm-merging/LLM-Merging](https://github.com/llm-merging/LLM-Merging) - LLM-Merging: Building LLMs Efficiently through Merging
@@ -1163,6 +1164,7 @@
 
 ## Shell 
 
+- [Qualcomm-AI-research/gptvq](https://github.com/Qualcomm-AI-research/gptvq) - 
 - [google-research/composed_image_retrieval](https://github.com/google-research/composed_image_retrieval) - 
 - [bigscience-workshop/bigscience](https://github.com/bigscience-workshop/bigscience) - Central place for the engineering/scaling WG: documentation, SLURM scripts and logs, compute environment and data.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
