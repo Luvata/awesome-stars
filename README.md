@@ -67,7 +67,7 @@
 
 ## C++ 
 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [openai/procgen](https://github.com/openai/procgen) - Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer) - Transformer related optimization, including BERT, GPT
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
@@ -537,7 +537,7 @@
 - [facebookresearch/HolisticTraceAnalysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - A library to analyze PyTorch traces.
 - [navervision/lincir](https://github.com/navervision/lincir) - Official Pytorch implementation of LinCIR: Language-only Training of Zero-shot Composed Image Retrieval (CVPR 2024)
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Official implementation of ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
-- [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon a mixed-modal early-fusion foundation model from FAIR.
+- [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
 - [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [TencentARC/Mix-of-Show](https://github.com/TencentARC/Mix-of-Show) - NeurIPS 2023, Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
 - [kvfrans/jax-diffusion-transformer](https://github.com/kvfrans/jax-diffusion-transformer) - Implementation of Diffusion Transformer (DiT) in JAX
