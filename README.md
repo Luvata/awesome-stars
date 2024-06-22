@@ -534,6 +534,7 @@
 
 ## Python 
 
+- [PixArt-alpha/PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
 - [facebookresearch/HolisticTraceAnalysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - A library to analyze PyTorch traces.
 - [navervision/lincir](https://github.com/navervision/lincir) - Official Pytorch implementation of LinCIR: Language-only Training of Zero-shot Composed Image Retrieval (CVPR 2024)
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Official implementation of ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
