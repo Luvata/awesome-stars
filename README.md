@@ -534,6 +534,7 @@
 
 ## Python 
 
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [huggingface/diffusion-fast](https://github.com/huggingface/diffusion-fast) - Faster generation with text-to-image diffusion models.
 - [VinAIResearch/SwiftBrush](https://github.com/VinAIResearch/SwiftBrush) - SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation(CVPR 2024)
 - [PixArt-alpha/PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
