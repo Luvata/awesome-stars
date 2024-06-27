@@ -534,6 +534,8 @@
 
 ## Python 
 
+- [NUS-HPC-AI-Lab/OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
+- [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [huggingface/diffusion-fast](https://github.com/huggingface/diffusion-fast) - Faster generation with text-to-image diffusion models.
 - [VinAIResearch/SwiftBrush](https://github.com/VinAIResearch/SwiftBrush) - SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation(CVPR 2024)
@@ -573,7 +575,7 @@
 - [huggingface/datatrove](https://github.com/huggingface/datatrove) - Freeing data processing from scripting madness by providing a set of platform-agnostic customizable pipeline processing blocks.
 - [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) - 
 - [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit) - Tools for merging pretrained large language models.
-- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in PyTorch and MLX.
+- [alxndrTL/mamba.py](https://github.com/alxndrTL/mamba.py) - A simple and efficient Mamba implementation in pure PyTorch and MLX.
 - [st1vms/unofficial-claude-api](https://github.com/st1vms/unofficial-claude-api) - Unofficial Claude API supporting direct HTTP chat creation/deletion/retrieval, messages with multiple file attachments and auto session gathering using Firefox with geckodriver.
 - [kvablack/LLaVA-server](https://github.com/kvablack/LLaVA-server) - 
 - [kvablack/ddpo-pytorch](https://github.com/kvablack/ddpo-pytorch) - DDPO for finetuning diffusion models, implemented in PyTorch with LoRA support
