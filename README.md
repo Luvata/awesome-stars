@@ -535,6 +535,7 @@
 
 ## Python 
 
+- [Monalissaa/DisenDiff](https://github.com/Monalissaa/DisenDiff) - [CVPR`2024, Oral] Attention Calibration for Disentangled Text-to-Image Personalization
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [NUS-HPC-AI-Lab/OpenDiT](https://github.com/NUS-HPC-AI-Lab/OpenDiT) - OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
