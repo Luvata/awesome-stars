@@ -535,6 +535,7 @@
 
 ## Python 
 
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [Monalissaa/DisenDiff](https://github.com/Monalissaa/DisenDiff) - [CVPR`2024, Oral] Attention Calibration for Disentangled Text-to-Image Personalization
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
