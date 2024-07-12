@@ -211,6 +211,7 @@
 
 ## Jupyter Notebook 
 
+- [cloneofsimo/minRF](https://github.com/cloneofsimo/minRF) - Minimal implementation of scalable rectified flow transformers, based on SD3's approach
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
 - [SHI-Labs/CompactNet](https://github.com/SHI-Labs/CompactNet) - 
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
