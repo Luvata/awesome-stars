@@ -483,7 +483,7 @@
 - [ziqihuangg/CelebA-Dialog](https://github.com/ziqihuangg/CelebA-Dialog) - A large-scale visual-language face dataset with fine-grained annotations (ICCV 2021)
 - [thaoshibe/awesome-makeup-transfer](https://github.com/thaoshibe/awesome-makeup-transfer) - A curated list of Awesome Makeup Transfer resources
 - [amusi/CVPR2024-Papers-with-Code](https://github.com/amusi/CVPR2024-Papers-with-Code) - CVPR 2024 论文和开源项目合集
-- [iwangjian/Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) - 📖 Paper reading list in dialogue systems and natural language generation (constantly updating 🤗).
+- [iwangjian/Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) - 📖 Paper reading list in conversational AI (constantly updating 🤗).
 - [pliang279/awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) - Reading list for research topics in multimodal machine learning
 - [fikrikarim/companies-with-successful-pivot](https://github.com/fikrikarim/companies-with-successful-pivot) - List of startups/companies that had successful pivots
 - [vietai/ASR](https://github.com/vietai/ASR) - End-to-End Vietnamese Speech Recognition using wav2vec 2.0
@@ -883,7 +883,7 @@
 - [tvst/st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
+- [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [IlyaGusev/summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The go
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
