@@ -465,6 +465,7 @@
 
 ## Others 
 
+- [PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - A collection of resources on controllable generation with text-to-image diffusion models.
 - [ThuCCSLab/Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP) - A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.).
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - 
@@ -573,7 +574,7 @@
 - [Jackieam/InMeMo](https://github.com/Jackieam/InMeMo) - [WACV 2024] Instruct Me More! Random Prompting for Visual In-Context Learning
 - [ma-xu/Rewrite-the-Stars](https://github.com/ma-xu/Rewrite-the-Stars) - [CVPR 2024] Rewrite the Stars
 - [quic/aimet](https://github.com/quic/aimet) - AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.
-- [ShihaoZhaoZSH/LaVi-Bridge](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) - Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation
+- [ShihaoZhaoZSH/LaVi-Bridge](https://github.com/ShihaoZhaoZSH/LaVi-Bridge) - [ECCV 2024] Bridging Different Language Models and Generative Vision Models for Text-to-Image Generation
 - [raphaelsty/knowledge](https://github.com/raphaelsty/knowledge) - Open-source personal bookmarks search engine
 - [AshwinPathi/claude-api-py](https://github.com/AshwinPathi/claude-api-py) - Unofficial Python API for Anthropic's Claude LLM
 - [jasonyzhang/RayDiffusion](https://github.com/jasonyzhang/RayDiffusion) - Code for "Cameras as Rays"
