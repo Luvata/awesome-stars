@@ -666,7 +666,7 @@
 - [czczup/ViT-Adapter](https://github.com/czczup/ViT-Adapter) - [ICLR 2023 Spotlight] Vision Transformer Adapter for Dense Predictions
 - [VinAIResearch/CREPS](https://github.com/VinAIResearch/CREPS) - Efficient Scale-Invariant Generator with Column-Row Entangled Pixel Synthesis (CVPR 2023)
 - [VinAIResearch/Anti-DreamBooth](https://github.com/VinAIResearch/Anti-DreamBooth) - Anti-DreamBooth: Protecting users from personalized text-to-image synthesis (ICCV 2023)
-- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert ML Code Between Frameworks
+- [ivy-llc/ivy](https://github.com/ivy-llc/ivy) - Convert Machine Learning Code Between Frameworks
 - [JD-P/cloob-latent-diffusion](https://github.com/JD-P/cloob-latent-diffusion) - CLOOB Conditioned Latent Diffusion training and inference code
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -733,7 +733,7 @@
 - [duongna21/bartflax](https://github.com/duongna21/bartflax) - Pre-training script for BART in JAX/Flax
 - [HaoruiSong622/Editing-Out-of-Domain](https://github.com/HaoruiSong622/Editing-Out-of-Domain) - 
 - [facebookresearch/multiface](https://github.com/facebookresearch/multiface) - Hosts the Multiface dataset, which is a multi-view dataset of multiple identities performing a sequence of facial expressions.
-- [apple/ml-gmpi](https://github.com/apple/ml-gmpi) - Official PyTorch implementation of GMPI (ECCV 2022, Oral Presentation)
+- [apple/ml-gmpi](https://github.com/apple/ml-gmpi) - [ECCV 2022, Oral Presentation] Official PyTorch implementation of GMPI
 - [fawazsammani/nlxgpt](https://github.com/fawazsammani/nlxgpt) - NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks, CVPR 2022 (Oral)
 - [EricGuo5513/TM2T](https://github.com/EricGuo5513/TM2T) - Official implementation of "TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts (ECCV2022)"
 - [yingchen001/CF-CLIP](https://github.com/yingchen001/CF-CLIP) - [ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP
