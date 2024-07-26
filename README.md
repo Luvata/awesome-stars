@@ -606,7 +606,7 @@
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) - 
 - [VinAIResearch/PhoGPT](https://github.com/VinAIResearch/PhoGPT) - PhoGPT: Generative Pre-training for Vietnamese (2023)
 - [openai/consistencydecoder](https://github.com/openai/consistencydecoder) - Consistency Distilled Diff VAE
-- [jmhb0/view_neti](https://github.com/jmhb0/view_neti) - 
+- [jmhb0/view_neti](https://github.com/jmhb0/view_neti) - [ECCV 2024] Viewpoint Textual Inversion: Discovering Scene Representations and 3D View Control in 2D Diffusion Models
 - [llm-attacks/llm-attacks](https://github.com/llm-attacks/llm-attacks) - Universal and Transferable Attacks on Aligned Language Models
 - [thuanz123/raycond](https://github.com/thuanz123/raycond) - Unofficial PyTorch implementation of Ray Conditioning
 - [facebookresearch/MetaCLIP](https://github.com/facebookresearch/MetaCLIP) - ICLR2024 Spotlight: curation/training code, metadata, distribution and pre-trained models for MetaCLIP; CVPR 2024: MoDE: CLIP Data Experts via Clustering
