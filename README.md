@@ -968,7 +968,7 @@
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [facebookresearch/WSL-Images](https://github.com/facebookresearch/WSL-Images) - Weakly Supervised Learning On Images
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [philgooch/abbreviation-extraction](https://github.com/philgooch/abbreviation-extraction) - Python3 implementation of the Schwartz-Hearst algorithm for extracting abbreviation-definition pairs
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Multi-model Inference Graph/Pipelines, LLM/RAG apps, and more!
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
