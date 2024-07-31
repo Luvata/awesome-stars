@@ -806,7 +806,7 @@
 - [NVlabs/GroupViT](https://github.com/NVlabs/GroupViT) - Official PyTorch implementation of GroupViT: Semantic Segmentation Emerges from Text Supervision, CVPR 2022.
 - [dvschultz/stylegan3](https://github.com/dvschultz/stylegan3) - Official PyTorch implementation of StyleGAN3
 - [Sense-GVT/DeCLIP](https://github.com/Sense-GVT/DeCLIP) - Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm
-- [LGAI-Research/L-Verse](https://github.com/LGAI-Research/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
+- [tgisaturday/L-Verse](https://github.com/tgisaturday/L-Verse) - L-Verse: Bidirectional Generation Between Image and Text
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [lucidrains/RETRO-pytorch](https://github.com/lucidrains/RETRO-pytorch) - Implementation of RETRO, Deepmind's Retrieval based Attention net, in Pytorch
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
