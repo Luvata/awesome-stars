@@ -539,6 +539,9 @@
 
 ## Python 
 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+- [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 a LLM-based Multi-agent Framework of Web Search Engine similar to Perplexity.ai Pro and SearchGPT
+- [princeton-nlp/LitSearch](https://github.com/princeton-nlp/LitSearch) - 
 - [JonasGeiping/linear_cross_entropy_loss](https://github.com/JonasGeiping/linear_cross_entropy_loss) - A fusion of a linear layer and a cross entropy loss, written for pytorch in triton.
 - [mihirp1998/VADER](https://github.com/mihirp1998/VADER) - Video Diffusion Alignment via Reward Gradients. We improve a variety of video diffusion models such as VideoCrafter, OpenSora, ModelScope and StableVideoDiffusion by finetuning them using various rewa
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
