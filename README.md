@@ -23,6 +23,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Lex](#lex)
 - [Lua](#lua)
 - [MATLAB](#matlab)
@@ -423,6 +424,10 @@
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
 - [mccorby/PhotoLabeller](https://github.com/mccorby/PhotoLabeller) - Federated Learning: Client application doing classification of images and local training. Works better with the Parameter Server at https://github.com/mccorby/PhotoLabellerServer
 - [sduduzog/slim-launcher](https://github.com/sduduzog/slim-launcher) - Android minimalistic launcher
+
+## Lean 
+
+- [ImperialCollegeLondon/formalising-mathematics](https://github.com/ImperialCollegeLondon/formalising-mathematics) - Lean 3 material for Kevin Buzzard's 2021 TCC courrse on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024
 
 ## Lex 
 
@@ -972,7 +977,7 @@
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) - Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [philgooch/abbreviation-extraction](https://github.com/philgooch/abbreviation-extraction) - Python3 implementation of the Schwartz-Hearst algorithm for extracting abbreviation-definition pairs
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Multi-model Inference Graph/Pipelines, LLM/RAG apps, and more!
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build reliable Inference APIs, LLM apps, Multi-model chains, RAG service, and much more!
 - [wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) - source code to ICLR'19, 'A Closer Look at Few-shot Classification'
 - [oscarknagg/few-shot](https://github.com/oscarknagg/few-shot) - Repository for few-shot learning machine learning projects
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
