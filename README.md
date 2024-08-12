@@ -129,7 +129,7 @@
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [unixpickle/sgdstore](https://github.com/unixpickle/sgdstore) - Augmented RNN memory via live SGD
-- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [cortexlabs/cortex](https://github.com/cortexlabs/cortex) - Production infrastructure for machine learning at scale
 
 ## HTML 
@@ -170,7 +170,7 @@
 ## Java 
 
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
-- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: the polymorphic database powered by types
+- [typedb/typedb](https://github.com/typedb/typedb) - TypeDB: one giant leap for databases
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [vncorenlp/VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit (NAACL 2018)
 - [ververica/flink-training-exercises](https://github.com/ververica/flink-training-exercises) - 
