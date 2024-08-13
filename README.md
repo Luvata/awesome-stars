@@ -212,6 +212,7 @@
 
 ## Jupyter Notebook 
 
+- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [cloneofsimo/minRF](https://github.com/cloneofsimo/minRF) - Minimal implementation of scalable rectified flow transformers, based on SD3's approach
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
 - [SHI-Labs/CompactNet](https://github.com/SHI-Labs/CompactNet) - 
