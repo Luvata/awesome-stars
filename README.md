@@ -212,6 +212,7 @@
 
 ## Jupyter Notebook 
 
+- [google/RB-Modulation](https://github.com/google/RB-Modulation) - Official code for "RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control"
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [cloneofsimo/minRF](https://github.com/cloneofsimo/minRF) - Minimal implementation of scalable rectified flow transformers, based on SD3's approach
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
@@ -1254,7 +1255,7 @@
 ## Vala 
 
 - [phase1geo/Minder](https://github.com/phase1geo/Minder) - Mind-mapping application for Elementary OS
-- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist and Nextcloud support designed for GNU/Linux 🚀
+- [alainm23/planify](https://github.com/alainm23/planify) - Task manager with Todoist & Nextcloud support designed for GNU/Linux 🚀
 
 ## Vim Script 
 
