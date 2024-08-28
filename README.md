@@ -545,6 +545,7 @@
 
 ## Python 
 
+- [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 300+ LLMs or 60+ MLLMs. (Qwen2, GLM4v, Internlm2.5, Yi, Llama3.1, Llava-Video, Internvl2, MiniCPM-V-2.6, Deepseek, Baichuan2, Gemma2, Phi3-Vision, ...)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
