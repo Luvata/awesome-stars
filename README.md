@@ -230,7 +230,7 @@
 - [OutofAi/2D-Gaussian-Splatting](https://github.com/OutofAi/2D-Gaussian-Splatting) - A 2D Gaussian Splatting paper for no obvious reasons. Enjoy!
 - [caradryanl/ACE](https://github.com/caradryanl/ACE) - 
 - [boschresearch/Divide-and-Bind](https://github.com/boschresearch/Divide-and-Bind) - Official implementation of "Divide & Bind Your Attention for Improved Generative Semantic Nursing" (BMVC 2023 Oral)
-- [thuanz123/realfill](https://github.com/thuanz123/realfill) - 
+- [thuanz123/realfill](https://github.com/thuanz123/realfill) - Unofficial implementation of RealFill
 - [RyannDaGreat/Diffusion-Illusions](https://github.com/RyannDaGreat/Diffusion-Illusions) - Diffusion Illusions: Hiding Images in Plain Sight
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline) - A public release of TimelineBuilder for building personal digital data timelines.
 - [cloneofsimo/minSDXL](https://github.com/cloneofsimo/minSDXL) - Huggingface-compatible SDXL Unet implementation that is readily hackable
@@ -562,7 +562,6 @@
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [huggingface/diffusion-fast](https://github.com/huggingface/diffusion-fast) - Faster generation with text-to-image diffusion models.
 - [VinAIResearch/SwiftBrush](https://github.com/VinAIResearch/SwiftBrush) - SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation (CVPR 2024)
 - [PixArt-alpha/PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
