@@ -211,6 +211,8 @@
 
 ## Jupyter Notebook 
 
+- [royg27/CLIPAG](https://github.com/royg27/CLIPAG) - CLIPAG: Towards Generator-Free Text-to-Image Generation
+- [yossigandelsman/second_order_lens](https://github.com/yossigandelsman/second_order_lens) - Official pytorch implementation of "Interpreting the Second-Order Effects of Neurons in CLIP"
 - [google/RB-Modulation](https://github.com/google/RB-Modulation) - Official code for "RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control"
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [cloneofsimo/minRF](https://github.com/cloneofsimo/minRF) - Minimal implementation of scalable rectified flow transformers, based on SD3's approach
@@ -471,6 +473,7 @@
 
 ## Others 
 
+- [PeterWang512/AttributeByUnlearning](https://github.com/PeterWang512/AttributeByUnlearning) - 
 - [PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - A collection of resources on controllable generation with text-to-image diffusion models.
 - [ThuCCSLab/Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP) - A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.).
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
