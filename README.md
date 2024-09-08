@@ -473,6 +473,7 @@
 
 ## Others 
 
+- [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
 - [PeterWang512/AttributeByUnlearning](https://github.com/PeterWang512/AttributeByUnlearning) - 
 - [PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - A collection of resources on controllable generation with text-to-image diffusion models.
 - [ThuCCSLab/Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP) - A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.).
@@ -547,6 +548,7 @@
 
 ## Python 
 
+- [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - [CVPR 2024 Highlight] Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
