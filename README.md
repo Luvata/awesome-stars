@@ -214,8 +214,8 @@
 - [royg27/CLIPAG](https://github.com/royg27/CLIPAG) - CLIPAG: Towards Generator-Free Text-to-Image Generation
 - [yossigandelsman/second_order_lens](https://github.com/yossigandelsman/second_order_lens) - Official pytorch implementation of "Interpreting the Second-Order Effects of Neurons in CLIP"
 - [google/RB-Modulation](https://github.com/google/RB-Modulation) - Official code for "RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control"
-- [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [cloneofsimo/minRF](https://github.com/cloneofsimo/minRF) - Minimal implementation of scalable rectified flow transformers, based on SD3's approach
+- [llm-merging/LLM-Merging](https://github.com/llm-merging/LLM-Merging) - LLM-Merging: Building LLMs Efficiently through Merging
 - [mhamilton723/FeatUp](https://github.com/mhamilton723/FeatUp) - Official code for "FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution" ICLR 2024
 - [SHI-Labs/CompactNet](https://github.com/SHI-Labs/CompactNet) - 
 - [bytedance/MoMA](https://github.com/bytedance/MoMA) - MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation
@@ -548,6 +548,7 @@
 
 ## Python 
 
+- [philgyford/python-halftone](https://github.com/philgyford/python-halftone) - A python module that uses PIL/Pillow to give images a halftone effect
 - [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - [CVPR 2024 Highlight] Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
@@ -577,7 +578,6 @@
 - [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [TencentARC/Mix-of-Show](https://github.com/TencentARC/Mix-of-Show) - NeurIPS 2023, Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
 - [kvfrans/jax-diffusion-transformer](https://github.com/kvfrans/jax-diffusion-transformer) - Implementation of Diffusion Transformer (DiT) in JAX
-- [llm-merging/LLM-Merging](https://github.com/llm-merging/LLM-Merging) - LLM-Merging: Building LLMs Efficiently through Merging
 - [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet
 - [lvis-dataset/lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
