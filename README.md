@@ -211,6 +211,7 @@
 
 ## Jupyter Notebook 
 
+- [SunzeY/AlphaCLIP](https://github.com/SunzeY/AlphaCLIP) - [CVPR 2024] Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
 - [royg27/CLIPAG](https://github.com/royg27/CLIPAG) - CLIPAG: Towards Generator-Free Text-to-Image Generation
 - [yossigandelsman/second_order_lens](https://github.com/yossigandelsman/second_order_lens) - Official pytorch implementation of "Interpreting the Second-Order Effects of Neurons in CLIP"
 - [google/RB-Modulation](https://github.com/google/RB-Modulation) - Official code for "RB-Modulation: Training-Free Personalization of Diffusion Models using Stochastic Optimal Control"
