@@ -554,7 +554,7 @@
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 350+ LLMs or 90+ MLLMs. (Qwen2, GLM4v, Internlm2.5, Yi, Llama3.1, Llava-Video, Internvl2, MiniCPM-V-2.6, Deepseek, Baichuan2, Gemma2, Phi3-Vision, ...)
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 350+ LLMs or 90+ MLLMs. (Qwen2.5, GLM4v, Internlm2.5, Yi, Llama3.1, Llava-Video, Internvl2, MiniCPM-V-2.6, Deepseek, Baichuan2, Gemma2, Phi3-Vision, ...)
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [princeton-nlp/LitSearch](https://github.com/princeton-nlp/LitSearch) - A Retrieval Benchmark for Scientific Literature Search
@@ -1123,7 +1123,7 @@
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) - Count the MACs / FLOPs of your PyTorch model.
 - [davidtvs/PyTorch-ENet](https://github.com/davidtvs/PyTorch-ENet) - PyTorch implementation of ENet
 - [jcwleo/mario_rl](https://github.com/jcwleo/mario_rl) - 
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [SurrealAI/surreal](https://github.com/SurrealAI/surreal) - Open-Source Distributed Reinforcement Learning Framework by Stanford Vision and Learning Lab
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [Luolc/AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
