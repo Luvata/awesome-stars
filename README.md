@@ -550,6 +550,7 @@
 
 ## Python 
 
+- [lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - 
 - [philgyford/python-halftone](https://github.com/philgyford/python-halftone) - A python module that uses PIL/Pillow to give images a halftone effect
 - [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - [CVPR 2024 Highlight] Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
