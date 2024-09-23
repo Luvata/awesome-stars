@@ -906,7 +906,7 @@
 - [AntreasAntoniou/HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch.
 - [tvst/st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
-- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator
+- [hyde/hyde](https://github.com/hyde/hyde) - A Python Static Website Generator (Presently Unmaintained).
 - [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [IlyaGusev/summarus](https://github.com/IlyaGusev/summarus) - Models for automatic abstractive summarization
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) - We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The go
