@@ -479,7 +479,7 @@
 - [PeterWang512/AttributeByUnlearning](https://github.com/PeterWang512/AttributeByUnlearning) - 
 - [PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models) - A collection of resources on controllable generation with text-to-image diffusion models.
 - [ThuCCSLab/Awesome-LM-SSP](https://github.com/ThuCCSLab/Awesome-LM-SSP) - A reading list for large models safety, security, and privacy (including Awesome LLM Security, Safety, etc.).
-- [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream) - CUDA related news and material links
+- [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream) - GPU programming related news and material links
 - [viettmab/SA-DPM](https://github.com/viettmab/SA-DPM) - 
 - [WinKawaks/DreamWire](https://github.com/WinKawaks/DreamWire) - [CVPR 2024] Wired Perspectives: Multi-View Wire Art Embraces Generative AI
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
