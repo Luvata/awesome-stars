@@ -474,6 +474,7 @@
 
 ## Others 
 
+- [SiddhantBikram/MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP) - 
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
 - [PeterWang512/AttributeByUnlearning](https://github.com/PeterWang512/AttributeByUnlearning) - 
@@ -570,7 +571,7 @@
 - [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
 - [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen2.x, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
 - [huggingface/diffusion-fast](https://github.com/huggingface/diffusion-fast) - Faster generation with text-to-image diffusion models.
 - [VinAIResearch/SwiftBrush](https://github.com/VinAIResearch/SwiftBrush) - SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation (CVPR 2024)
 - [PixArt-alpha/PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
