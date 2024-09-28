@@ -553,6 +553,7 @@
 
 ## Python 
 
+- [EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty](https://github.com/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty) - Official implementation of the ACL 2024: Scientific Inspiration Machines Optimized for Novelty
 - [lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - 
 - [philgyford/python-halftone](https://github.com/philgyford/python-halftone) - A python module that uses PIL/Pillow to give images a halftone effect
 - [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - [CVPR 2024 Highlight] Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
