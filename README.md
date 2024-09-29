@@ -553,6 +553,7 @@
 
 ## Python 
 
+- [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty](https://github.com/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty) - Official implementation of the ACL 2024: Scientific Inspiration Machines Optimized for Novelty
 - [lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - 
 - [philgyford/python-halftone](https://github.com/philgyford/python-halftone) - A python module that uses PIL/Pillow to give images a halftone effect
@@ -777,7 +778,7 @@
 - [ZPdesu/Barbershop](https://github.com/ZPdesu/Barbershop) - Barbershop: GAN-based Image Compositing using Segmentation Masks (SIGGRAPH Asia 2021)
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [dribnet/pixray](https://github.com/dribnet/pixray) - neural image generation
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
+- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [preddy5/Im2Vec](https://github.com/preddy5/Im2Vec) - [CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - Official pytorch implementation of StyleMapGAN (CVPR 2021)
