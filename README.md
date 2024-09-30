@@ -553,6 +553,8 @@
 
 ## Python 
 
+- [THUDM/CogView3](https://github.com/THUDM/CogView3) - text to image to  generation: CogView3-Plus and CogView3(ECCV 2024)
+- [du-nlp-lab/MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) - 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty](https://github.com/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty) - Official implementation of the ACL 2024: Scientific Inspiration Machines Optimized for Novelty
 - [lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - 
