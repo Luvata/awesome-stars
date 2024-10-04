@@ -476,6 +476,7 @@
 
 ## Others 
 
+- [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
 - [SiddhantBikram/MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP) - 
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
