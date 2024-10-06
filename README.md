@@ -589,7 +589,7 @@
 - [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [TencentARC/Mix-of-Show](https://github.com/TencentARC/Mix-of-Show) - NeurIPS 2023, Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
 - [kvfrans/jax-diffusion-transformer](https://github.com/kvfrans/jax-diffusion-transformer) - Implementation of Diffusion Transformer (DiT) in JAX
-- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple
 - [lvis-dataset/lvis-api](https://github.com/lvis-dataset/lvis-api) - Python API for LVIS Dataset
 - [dvlab-research/LISA](https://github.com/dvlab-research/LISA) - Project Page for "LISA: Reasoning Segmentation via Large Language Model"
 - [Lucky-Lance/TerDiT](https://github.com/Lucky-Lance/TerDiT) - TerDiT: Ternary Diffusion Models with Transformers
