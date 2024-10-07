@@ -1247,7 +1247,7 @@
 - [windingwind/zotero-pdf-preview](https://github.com/windingwind/zotero-pdf-preview) - Preview Zotero attachments in the library view.
 - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [vanakat/zotero-bridge](https://github.com/vanakat/zotero-bridge) - Obsidian plugin to integrate with Zotero
 - [reuseman/flashcards-obsidian](https://github.com/reuseman/flashcards-obsidian) - 🎴 An Anki plugin for Obsidian.md
 - [vpj/annotate](https://github.com/vpj/annotate) - Annotate python source code
