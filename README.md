@@ -477,7 +477,6 @@
 ## Others 
 
 - [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
-- [SiddhantBikram/MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP) - 
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
 - [PeterWang512/AttributeByUnlearning](https://github.com/PeterWang512/AttributeByUnlearning) - 
@@ -558,6 +557,7 @@
 - [du-nlp-lab/MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) - 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty](https://github.com/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty) - Official implementation of the ACL 2024: Scientific Inspiration Machines Optimized for Novelty
+- [SiddhantBikram/MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP) - 
 - [lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - 
 - [philgyford/python-halftone](https://github.com/philgyford/python-halftone) - A python module that uses PIL/Pillow to give images a halftone effect
 - [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - [CVPR 2024 Highlight] Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
