@@ -557,7 +557,7 @@
 - [du-nlp-lab/MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) - 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty](https://github.com/EagleW/Scientific-Inspiration-Machines-Optimized-for-Novelty) - Official implementation of the ACL 2024: Scientific Inspiration Machines Optimized for Novelty
-- [SiddhantBikram/MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP) - 
+- [SiddhantBikram/MemeCLIP](https://github.com/SiddhantBikram/MemeCLIP) - Official Repository for the MemeCLIP framework and PrideMM Dataset @ EMNLP 2024
 - [lamm-mit/SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - 
 - [philgyford/python-halftone](https://github.com/philgyford/python-halftone) - A python module that uses PIL/Pillow to give images a halftone effect
 - [jiwoogit/StyleID](https://github.com/jiwoogit/StyleID) - [CVPR 2024 Highlight] Style Injection in Diffusion: A Training-free Approach for Adapting Large-scale Diffusion Models for Style Transfer
