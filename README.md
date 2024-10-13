@@ -567,7 +567,7 @@
 - [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 350+ LLMs or 100+ MLLMs.  (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, Gemma2, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vis
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
-- [princeton-nlp/LitSearch](https://github.com/princeton-nlp/LitSearch) - A Retrieval Benchmark for Scientific Literature Search
+- [princeton-nlp/LitSearch](https://github.com/princeton-nlp/LitSearch) - [EMNLP 2024] A Retrieval Benchmark for Scientific Literature Search
 - [JonasGeiping/linear_cross_entropy_loss](https://github.com/JonasGeiping/linear_cross_entropy_loss) - A fusion of a linear layer and a cross entropy loss, written for pytorch in triton.
 - [mihirp1998/VADER](https://github.com/mihirp1998/VADER) - Video Diffusion Alignment via Reward Gradients. We improve a variety of video diffusion models such as VideoCrafter, OpenSora, ModelScope and StableVideoDiffusion by finetuning them using various rewa
 - [aigc-apps/sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) - 📷 EasyPhoto | Your Smart AI Photo Generator.
