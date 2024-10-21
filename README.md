@@ -662,7 +662,7 @@
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM) - LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
 - [BoChenYS/BPnP](https://github.com/BoChenYS/BPnP) - Back-propagatable PnP
 - [feizc/Gradient-Free-Textual-Inversion](https://github.com/feizc/Gradient-Free-Textual-Inversion) - Gradient-Free Textual Inversion for Personalized Text-to-Image Generation
-- [psyker-team/mist](https://github.com/psyker-team/mist) - 
+- [psyker-team/mist](https://github.com/psyker-team/mist) - Watermark you artworks to stay away from unauthorized diffusion style mimicry!
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [YuxinWenRick/tree-ring-watermark](https://github.com/YuxinWenRick/tree-ring-watermark) - 
