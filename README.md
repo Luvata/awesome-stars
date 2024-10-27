@@ -476,6 +476,7 @@
 
 ## Others 
 
+- [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - 
 - [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
@@ -553,6 +554,7 @@
 
 ## Python 
 
+- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [THUDM/CogView3](https://github.com/THUDM/CogView3) - text to image to  generation: CogView3-Plus and CogView3(ECCV 2024)
 - [du-nlp-lab/MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) - 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
