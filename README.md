@@ -1243,6 +1243,7 @@
 
 ## TypeScript 
 
+- [penge/block-site](https://github.com/penge/block-site) - Chrome/Firefox extension that blocks access to distracting websites to improve your productivity.
 - [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger) - Attachment Manager for Zotero
 - [clairefro/obsidian-chat-cbt-plugin](https://github.com/clairefro/obsidian-chat-cbt-plugin) - AI-powered journaling plugin for your Obsidian notes, inspired by cognitive behavioral therapy
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
