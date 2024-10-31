@@ -554,6 +554,7 @@
 
 ## Python 
 
+- [mingukkang/elatentlpips](https://github.com/mingukkang/elatentlpips) - Author's Implementation for E-LatentLPIPS
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [THUDM/CogView3](https://github.com/THUDM/CogView3) - text to image to  generation: CogView3-Plus and CogView3(ECCV 2024)
 - [du-nlp-lab/MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) - 
@@ -720,7 +721,7 @@
 - [baaivision/Painter](https://github.com/baaivision/Painter) - Painter & SegGPT Series: Vision Foundation Models from BAAI
 - [nguyenvulebinh/lyric-alignment](https://github.com/nguyenvulebinh/lyric-alignment) - Vietnamese song lyric alignment framework
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) - Multi-modality pre-training
-- [microsoft/tutel](https://github.com/microsoft/tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
+- [microsoft/Tutel](https://github.com/microsoft/Tutel) - Tutel MoE: An Optimized Mixture-of-Experts Implementation
 - [AlgoHunt/VQRF](https://github.com/AlgoHunt/VQRF) - Official implementation of our CVPR 2023 paper "Compressing Volumetric Radiance Fields to 1 MB"
 - [karpathy/arxiv-sanity-lite](https://github.com/karpathy/arxiv-sanity-lite) - arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.
 - [Fantasy-Studio/Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example) - Paint by Example: Exemplar-based Image Editing with Diffusion Models
