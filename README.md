@@ -476,7 +476,7 @@
 
 ## Others 
 
-- [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - 
+- [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - Official PyTorch implementation of "Framer: Interactive Frame Interpolation".
 - [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 - [showlab/Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) - A curated list of recent diffusion models for video generation, editing, restoration, understanding, etc.
@@ -578,7 +578,7 @@
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [Monalissaa/DisenDiff](https://github.com/Monalissaa/DisenDiff) - [CVPR`2024, Oral] Attention Calibration for Disentangled Text-to-Image Personalization
-- [leondz/garak](https://github.com/leondz/garak) - LLM vulnerability scanner
+- [leondz/garak](https://github.com/leondz/garak) - the LLM vulnerability scanner
 - [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
