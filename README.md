@@ -554,6 +554,8 @@
 
 ## Python 
 
+- [aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun) - 📹 A more flexible CogVideoX that can generate videos at any resolution and creates videos from images.
+- [genmoai/models](https://github.com/genmoai/models) - The best OSS video generation models
 - [mingukkang/elatentlpips](https://github.com/mingukkang/elatentlpips) - Author's Implementation for E-LatentLPIPS
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [THUDM/CogView3](https://github.com/THUDM/CogView3) - text to image to  generation: CogView3-Plus and CogView3(ECCV 2024)
