@@ -873,7 +873,7 @@
 - [nguyenvulebinh/extractive-qa-mrc](https://github.com/nguyenvulebinh/extractive-qa-mrc) - Machine Reading Comprehension special for the Vietnamese language
 - [AranKomat/Diff-DALLE](https://github.com/AranKomat/Diff-DALLE) - 
 - [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold.
+- [google-deepmind/alphafold](https://github.com/google-deepmind/alphafold) - Open source code for AlphaFold 2.
 - [bangoc123/transformer](https://github.com/bangoc123/transformer) - Build English-Vietnamese machine translation with ProtonX Transformer. :D
 - [thucdx/TSleep](https://github.com/thucdx/TSleep) - Automated Sleep Stage Scoring using Deep Learing
 - [salesforce/booksum](https://github.com/salesforce/booksum) - 
