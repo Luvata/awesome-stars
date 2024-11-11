@@ -555,6 +555,7 @@
 
 ## Python 
 
+- [kijai/ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - 
 - [deep-diver/paper-reviewer](https://github.com/deep-diver/paper-reviewer) - Generate a comprehensive review from an arXiv paper, then turn it into a blog post. This project powers the website below for the HuggingFace's Daily Papers (https://huggingface.co/papers).
 - [VinAIResearch/RDUOT](https://github.com/VinAIResearch/RDUOT) - Official code for ECCV 2024 paper “A high-quality robust diffusion framework for corrupted dataset”
 - [LPengYang/MotionClone](https://github.com/LPengYang/MotionClone) - Official implementation of MotionClone: Training-Free Motion Cloning for Controllable Video Generation
