@@ -213,6 +213,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/watermark-anything](https://github.com/facebookresearch/watermark-anything) - Official implementation of the paper "Watermark Anything with Localized Messages"
 - [google-research/readout_guidance](https://github.com/google-research/readout_guidance) - Official PyTorch Implementation for Readout Guidance, CVPR 2024
 - [SunzeY/AlphaCLIP](https://github.com/SunzeY/AlphaCLIP) - [CVPR 2024] Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
 - [royg27/CLIPAG](https://github.com/royg27/CLIPAG) - CLIPAG: Towards Generator-Free Text-to-Image Generation
@@ -555,6 +556,7 @@
 
 ## Python 
 
+- [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
 - [kijai/ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - 
 - [deep-diver/paper-reviewer](https://github.com/deep-diver/paper-reviewer) - Generate a comprehensive review from an arXiv paper, then turn it into a blog post. This project powers the website below for the HuggingFace's Daily Papers (https://huggingface.co/papers).
 - [VinAIResearch/RDUOT](https://github.com/VinAIResearch/RDUOT) - Official code for ECCV 2024 paper “A high-quality robust diffusion framework for corrupted dataset”
