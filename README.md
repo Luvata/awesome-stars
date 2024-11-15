@@ -213,6 +213,7 @@
 
 ## Jupyter Notebook 
 
+- [xizaoqu/MOFT](https://github.com/xizaoqu/MOFT) - [Neurips 2024] Video Diffusion Models are Training-free Motion Interpreter and Controller
 - [facebookresearch/watermark-anything](https://github.com/facebookresearch/watermark-anything) - Official implementation of the paper "Watermark Anything with Localized Messages"
 - [google-research/readout_guidance](https://github.com/google-research/readout_guidance) - Official PyTorch Implementation for Readout Guidance, CVPR 2024
 - [SunzeY/AlphaCLIP](https://github.com/SunzeY/AlphaCLIP) - [CVPR 2024] Alpha-CLIP: A CLIP Model Focusing on Wherever You Want
@@ -591,7 +592,7 @@
 - [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors Team
 - [Monalissaa/DisenDiff](https://github.com/Monalissaa/DisenDiff) - [CVPR`2024, Oral] Attention Calibration for Disentangled Text-to-Image Personalization
-- [leondz/garak](https://github.com/leondz/garak) - the LLM vulnerability scanner
+- [NVIDIA/garak](https://github.com/NVIDIA/garak) - the LLM vulnerability scanner
 - [NUS-HPC-AI-Lab/VideoSys](https://github.com/NUS-HPC-AI-Lab/VideoSys) - VideoSys: An easy and efficient system for video generation
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt) - Concatenate a directory full of files into a single prompt for use with LLMs
 - [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
