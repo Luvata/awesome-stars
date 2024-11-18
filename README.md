@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [swkim101/cspapers.org](https://github.com/swkim101/cspapers.org) - A search engine dedicated to CS conferences. It provides useful filters for conferences and year range.
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [dacbd/create-issue-action](https://github.com/dacbd/create-issue-action) - Another create an issue on GitHub action that strives to be as simple as possible... (The 10,000 GitHub Action on the Marketplace)
 - [vict0rsch/PaperMemory](https://github.com/vict0rsch/PaperMemory) - Your browser's reference manager: automatic paper detection (Arxiv, OpenReview & more), publication venue matching and code repository discovery! Also enhances ArXiv: BibTex citation, Markdown link, d
