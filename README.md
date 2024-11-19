@@ -558,6 +558,7 @@
 
 ## Python 
 
+- [OliverRensu/MVAR](https://github.com/OliverRensu/MVAR) - 
 - [wenqsun/DimensionX](https://github.com/wenqsun/DimensionX) - DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion
 - [kijai/ComfyUI-CogVideoXWrapper](https://github.com/kijai/ComfyUI-CogVideoXWrapper) - 
 - [deep-diver/paper-reviewer](https://github.com/deep-diver/paper-reviewer) - Generate a comprehensive review from an arXiv paper, then turn it into a blog post. This project powers the website below for the HuggingFace's Daily Papers (https://huggingface.co/papers).
