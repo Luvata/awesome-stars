@@ -480,6 +480,7 @@
 
 ## Others 
 
+- [Lesterpaintstheworld/terminal-velocity](https://github.com/Lesterpaintstheworld/terminal-velocity) - A novel created autonomously by 10 teams of 10 AI agents
 - [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - Official PyTorch implementation of "Framer: Interactive Frame Interpolation".
 - [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
@@ -570,7 +571,7 @@
 - [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
 - [taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation](https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation) - Official Code Repository for the paper "Grid Diffusion Models for Text-to-Video Generation", CVPR 2024
 - [aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun) - 📹 A more flexible CogVideoX that can generate videos at any resolution and creates videos from images.
-- [genmoai/models](https://github.com/genmoai/models) - The best OSS video generation models
+- [genmoai/mochi](https://github.com/genmoai/mochi) - The best OSS video generation models
 - [mingukkang/elatentlpips](https://github.com/mingukkang/elatentlpips) - Author's Implementation for E-LatentLPIPS
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [THUDM/CogView3](https://github.com/THUDM/CogView3) - text to image to  generation: CogView3-Plus and CogView3(ECCV 2024)
