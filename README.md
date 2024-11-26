@@ -806,7 +806,7 @@
 - [preddy5/Im2Vec](https://github.com/preddy5/Im2Vec) - [CVPR 2021 Oral] Im2Vec Synthesizing Vector Graphics without Vector Supervision
 - [openai/glide-text2im](https://github.com/openai/glide-text2im) - GLIDE: a diffusion-based text-conditional image synthesis model
 - [naver-ai/StyleMapGAN](https://github.com/naver-ai/StyleMapGAN) - Official pytorch implementation of StyleMapGAN (CVPR 2021)
-- [wty-ustc/HairCLIP](https://github.com/wty-ustc/HairCLIP) - [CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image
+- [wtybest/HairCLIP](https://github.com/wtybest/HairCLIP) - [CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image
 - [vt-vl-lab/FGVC](https://github.com/vt-vl-lab/FGVC) - [ECCV 2020] Flow-edge Guided Video Completion
 - [NVlabs/ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) - Flickr-Faces-HQ Dataset (FFHQ)
 - [autonomousvision/stylegan-xl](https://github.com/autonomousvision/stylegan-xl) - [SIGGRAPH'22] StyleGAN-XL: Scaling StyleGAN to Large Diverse Datasets
