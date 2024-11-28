@@ -1007,7 +1007,7 @@
 - [deep-spin/entmax](https://github.com/deep-spin/entmax) - The entmax mapping and its loss, a family of sparse softmax alternatives.
 - [pytorch/examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [likesiwell/LGM-Net](https://github.com/likesiwell/LGM-Net) - Tensorflow code for ICML 2019 paper: LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
-- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative visualization library for Python
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks](https://github.com/weiaicunzai/Bag_of_Tricks_for_Image_Classification_with_Convolutional_Neural_Networks) - experiments on Paper &lt;Bag of Tricks for Image Classification with Convolutional Neural Networks&gt; and other useful tricks to improve CNN acc
 - [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku) - JAX-based neural network library
