@@ -568,7 +568,7 @@
 - [LPengYang/MotionClone](https://github.com/LPengYang/MotionClone) - Official implementation of MotionClone: Training-Free Motion Cloning for Controllable Video Generation
 - [NVIDIA/Cosmos-Tokenizer](https://github.com/NVIDIA/Cosmos-Tokenizer) - A suite of image and video neural tokenizers
 - [mit-han-lab/hart](https://github.com/mit-han-lab/hart) - HART: Efficient Visual Generation with Hybrid Autoregressive Transformer
-- [a-r-r-o-w/cogvideox-factory](https://github.com/a-r-r-o-w/cogvideox-factory) - Memory optimized finetuning scripts for CogVideoX using TorchAO and DeepSpeed
+- [a-r-r-o-w/cogvideox-factory](https://github.com/a-r-r-o-w/cogvideox-factory) - Memory optimized finetuning scripts for CogVideoX & Mochi using TorchAO and DeepSpeed
 - [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
 - [taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation](https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation) - Official Code Repository for the paper "Grid Diffusion Models for Text-to-Video Generation", CVPR 2024
 - [aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun) - 📹 A more flexible CogVideoX that can generate videos at any resolution and creates videos from images.
