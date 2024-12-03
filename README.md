@@ -558,6 +558,8 @@
 
 ## Python 
 
+- [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model Training
+- [artificial-scientist-lab/SciMuse](https://github.com/artificial-scientist-lab/SciMuse) - Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders
 - [ethansmith2000/fsdp_optimizers](https://github.com/ethansmith2000/fsdp_optimizers) - supporting pytorch FSDP for optimizers
 - [Lesterpaintstheworld/terminal-velocity](https://github.com/Lesterpaintstheworld/terminal-velocity) - A novel created autonomously by a team of 10 AI agents
 - [OliverRensu/MVAR](https://github.com/OliverRensu/MVAR) - 
