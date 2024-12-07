@@ -480,6 +480,7 @@
 
 ## Others 
 
+- [mega-sam/mega-sam](https://github.com/mega-sam/mega-sam) - Code for the project "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos"
 - [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - Official PyTorch implementation of "Framer: Interactive Frame Interpolation".
 - [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
 - [kepano/kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
@@ -558,6 +559,7 @@
 
 ## Python 
 
+- [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 - [artificial-scientist-lab/SciMuse](https://github.com/artificial-scientist-lab/SciMuse) - Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders
 - [ethansmith2000/fsdp_optimizers](https://github.com/ethansmith2000/fsdp_optimizers) - supporting pytorch FSDP for optimizers
@@ -588,7 +590,7 @@
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 400+ LLMs or 100+ MLLMs.  (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, Gemma2, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vis
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 400+ LLMs or 100+ MLLMs.  (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vision, Lla
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [princeton-nlp/LitSearch](https://github.com/princeton-nlp/LitSearch) - [EMNLP 2024] A Retrieval Benchmark for Scientific Literature Search
 - [JonasGeiping/linear_cross_entropy_loss](https://github.com/JonasGeiping/linear_cross_entropy_loss) - A fusion of a linear layer and a cross entropy loss, written for pytorch in triton.
