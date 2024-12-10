@@ -178,6 +178,7 @@
 
 ## JavaScript 
 
+- [igvteam/igv-notebook](https://github.com/igvteam/igv-notebook) - Module for embedding igv.js in an IPython notebook
 - [swkim101/cspapers.org](https://github.com/swkim101/cspapers.org) - A search engine dedicated to CS conferences. It provides useful filters for conferences and year range.
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [dacbd/create-issue-action](https://github.com/dacbd/create-issue-action) - Another create an issue on GitHub action that strives to be as simple as possible... (The 10,000 GitHub Action on the Marketplace)
@@ -558,6 +559,7 @@
 
 ## Python 
 
+- [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 - [artificial-scientist-lab/SciMuse](https://github.com/artificial-scientist-lab/SciMuse) - Interesting Scientific Idea Generation Using Knowledge Graphs and LLMs: Evaluations with 100 Research Group Leaders
@@ -609,7 +611,7 @@
 - [PixArt-alpha/PixArt-sigma](https://github.com/PixArt-alpha/PixArt-sigma) - PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation
 - [facebookresearch/HolisticTraceAnalysis](https://github.com/facebookresearch/HolisticTraceAnalysis) - A library to analyze PyTorch traces.
 - [navervision/lincir](https://github.com/navervision/lincir) - Official Pytorch implementation of LinCIR: Language-only Training of Zero-shot Composed Image Retrieval (CVPR 2024)
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Official implementation of ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025)
 - [facebookresearch/chameleon](https://github.com/facebookresearch/chameleon) - Repository for Meta Chameleon, a mixed-modal early-fusion foundation model from FAIR.
 - [microsoft/Samba](https://github.com/microsoft/Samba) - Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [TencentARC/Mix-of-Show](https://github.com/TencentARC/Mix-of-Show) - NeurIPS 2023, Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
