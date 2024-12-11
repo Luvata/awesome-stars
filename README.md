@@ -481,6 +481,7 @@
 
 ## Others 
 
+- [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [mega-sam/mega-sam](https://github.com/mega-sam/mega-sam) - Code for the project "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos"
 - [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - Official PyTorch implementation of "Framer: Interactive Frame Interpolation".
 - [google-research/silc](https://github.com/google-research/silc) - [ECCV 2024] Official Release of SILC: Improving vision language pretraining with self-distillation
@@ -559,6 +560,7 @@
 
 ## Python 
 
+- [susumuota/arxiv-reddit-summary](https://github.com/susumuota/arxiv-reddit-summary) - Summarize the top 30 most popular arXiv papers on Reddit and Hacker News in the last 30 days and post them to Slack, Twitter and Bluesky.
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
