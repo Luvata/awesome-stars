@@ -481,6 +481,7 @@
 
 ## Others 
 
+- [and-mill/Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) - A curated list of watermarking schemes for generative AI models
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [mega-sam/mega-sam](https://github.com/mega-sam/mega-sam) - Code for the project "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos"
 - [aim-uofa/Framer](https://github.com/aim-uofa/Framer) - Official PyTorch implementation of "Framer: Interactive Frame Interpolation".
@@ -594,7 +595,7 @@
 - [Picsart-AI-Research/StreamingT2V](https://github.com/Picsart-AI-Research/StreamingT2V) - StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text
 - [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 400+ LLMs or 100+ MLLMs.  (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vision, Lla
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to finetune 400+ LLMs (Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, ...) or 100+ MLLMs (Qwen2-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [princeton-nlp/LitSearch](https://github.com/princeton-nlp/LitSearch) - [EMNLP 2024] A Retrieval Benchmark for Scientific Literature Search
 - [JonasGeiping/linear_cross_entropy_loss](https://github.com/JonasGeiping/linear_cross_entropy_loss) - A fusion of a linear layer and a cross entropy loss, written for pytorch in triton.
@@ -938,7 +939,7 @@
 - [carolineec/EverybodyDanceNow](https://github.com/carolineec/EverybodyDanceNow) - Motion Retargeting Video Subjects
 - [kylebgorman/textgrid](https://github.com/kylebgorman/textgrid) - A Python module for interacting with Praat TextGrid files. Also includes a class for reading HTK .mlf files into Praat
 - [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) - Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
-- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! trunk
+- [getting-things-gnome/gtg](https://github.com/getting-things-gnome/gtg) - Getting Things GNOME! desktop app development
 - [cvqluu/Angular-Penalty-Softmax-Losses-Pytorch](https://github.com/cvqluu/Angular-Penalty-Softmax-Losses-Pytorch) - Angular penalty loss functions in Pytorch (ArcFace, SphereFace, Additive Margin, CosFace)
 - [AntreasAntoniou/HowToTrainYourMAMLPytorch](https://github.com/AntreasAntoniou/HowToTrainYourMAMLPytorch) - The original code for the paper "How to train your MAML" along with a replication of the original "Model Agnostic Meta Learning" (MAML) paper in Pytorch.
 - [tvst/st-annotated-text](https://github.com/tvst/st-annotated-text) - A simple component to display annotated text in Streamlit apps.
