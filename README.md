@@ -481,6 +481,7 @@
 
 ## Others 
 
+- [scaling-diffusion-perception/scaling-diffusion-perception](https://github.com/scaling-diffusion-perception/scaling-diffusion-perception) - Scaling Properties of Diffusion Models For Perceptual Tasks
 - [and-mill/Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) - A curated list of watermarking schemes for generative AI models
 - [FoundationVision/Infinity](https://github.com/FoundationVision/Infinity) - Infinity ∞ : Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 - [mega-sam/mega-sam](https://github.com/mega-sam/mega-sam) - Code for the project "MegaSaM: Accurate, Fast and Robust Structure and Motion from Casual Dynamic Videos"
@@ -561,6 +562,9 @@
 
 ## Python 
 
+- [huggingface/search-and-learn](https://github.com/huggingface/search-and-learn) - 
+- [HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing) - An 8-step inversion and 8-step editing process works effectively with the FLUX-dev model. (3x speedup with results that are comparable or even superior to baseline methods)
+- [fallenshock/FlowEdit](https://github.com/fallenshock/FlowEdit) - Official implementation of the paper: "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models"
 - [susumuota/arxiv-reddit-summary](https://github.com/susumuota/arxiv-reddit-summary) - Summarize the top 30 most popular arXiv papers on Reddit and Hacker News in the last 30 days and post them to Slack, Twitter and Bluesky.
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching) - A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities.
 - [google/deepvariant](https://github.com/google/deepvariant) - DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
@@ -576,7 +580,7 @@
 - [LPengYang/MotionClone](https://github.com/LPengYang/MotionClone) - Official implementation of MotionClone: Training-Free Motion Cloning for Controllable Video Generation
 - [NVIDIA/Cosmos-Tokenizer](https://github.com/NVIDIA/Cosmos-Tokenizer) - A suite of image and video neural tokenizers
 - [mit-han-lab/hart](https://github.com/mit-han-lab/hart) - HART: Efficient Visual Generation with Hybrid Autoregressive Transformer
-- [a-r-r-o-w/cogvideox-factory](https://github.com/a-r-r-o-w/cogvideox-factory) - Memory optimized finetuning scripts for CogVideoX & Mochi using TorchAO and DeepSpeed
+- [a-r-r-o-w/finetrainers](https://github.com/a-r-r-o-w/finetrainers) - Memory-optimized training scripts for video models based on Diffusers
 - [instantX-research/Regional-Prompting-FLUX](https://github.com/instantX-research/Regional-Prompting-FLUX) - Training-free Regional Prompting for Diffusion Transformers 🔥
 - [taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation](https://github.com/taegyeong-lee/Grid-Diffusion-Models-for-Text-to-Video-Generation) - Official Code Repository for the paper "Grid Diffusion Models for Text-to-Video Generation", CVPR 2024
 - [aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun) - 📹 A more flexible CogVideoX that can generate videos at any resolution and creates videos from images.
