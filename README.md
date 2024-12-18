@@ -562,6 +562,8 @@
 
 ## Python 
 
+- [fal-ai/diffusion-speedrun](https://github.com/fal-ai/diffusion-speedrun) - Focused on fast experimentation and simplicity
+- [hao-ai-lab/FastVideo](https://github.com/hao-ai-lab/FastVideo) - FastVideo is an open-source framework for accelerating large video diffusion model.
 - [huggingface/search-and-learn](https://github.com/huggingface/search-and-learn) - 
 - [HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing](https://github.com/HolmesShuan/FireFlow-Fast-Inversion-of-Rectified-Flow-for-Image-Semantic-Editing) - An 8-step inversion and 8-step editing process works effectively with the FLUX-dev model. (3x speedup with results that are comparable or even superior to baseline methods)
 - [fallenshock/FlowEdit](https://github.com/fallenshock/FlowEdit) - Official implementation of the paper: "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models"
